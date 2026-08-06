@@ -1,0 +1,12 @@
+State,rows,price_matched_rows,price_match_pct,avg_modal_price_missing,avg_modal_price_missing_pct,median_modal_price_missing_pct,min_price_missing_pct,max_price_missing_pct,modal_price_std_missing_pct,price_spread_missing_pct
+Tamil Nadu,204,122,59.8,82,40.2,40.2,40.2,40.2,40.2,40.2
+Himachal Pradesh,127,93,73.23,34,26.77,26.77,26.77,26.77,26.77,26.77
+West Bengal,76,57,75.0,19,25.0,25.0,25.0,25.0,25.0,25.0
+Odisha,56,42,75.0,14,25.0,25.0,25.0,25.0,25.0,25.0
+Haryana,111,91,81.98,20,18.02,18.02,18.02,18.02,18.02,18.02
+Madhya Pradesh,149,125,83.89,24,16.11,16.11,16.11,16.11,16.11,16.11
+Uttar Pradesh,157,136,86.62,21,13.38,13.38,13.38,13.38,13.38,13.38
+Karnataka,295,273,92.54,22,7.46,7.46,7.46,7.46,7.46,7.46
+Kerala,164,156,95.12,8,4.88,4.88,4.88,4.88,4.88,4.88
+Gujarat,103,102,99.03,1,0.97,0.97,0.97,0.97,0.97,0.97
+Maharashtra,2,2,100.0,0,0.0,0.0,0.0,0.0,0.0,0.0

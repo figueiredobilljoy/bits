@@ -1,0 +1,1445 @@
+State,Crop,crop_key,Year,Season,Area,Production,Annual_Rainfall,Fertilizer,Pesticide,Yield
+Gujarat,Banana,banana,2001,Whole Year ,24400.0,1473800,666.5,2491972.0,6344.0,61.91875
+Gujarat,Banana,banana,2003,Whole Year ,28200.0,2027400,902.5,2791236.0,6768.0,65.116
+Gujarat,Banana,banana,2004,Whole Year ,32200.0,1931400,719.8,3488548.0,6762.0,59.4
+Gujarat,Banana,banana,2005,Whole Year ,30700.0,2101700,942.4,3681544.0,6447.0,66.87090909
+Gujarat,Banana,banana,2006,Whole Year ,26600.0,1891800,1056.2,3397086.0,5852.0,57.65846154
+Gujarat,Banana,banana,2007,Whole Year ,31200.0,2033100,1021.6,4162080.0,4992.0,57.96166667
+Gujarat,Banana,banana,2008,Whole Year ,28200.0,2002900,746.1,4033728.0,2538.0,72.95916667
+Gujarat,Banana,banana,2009,Whole Year ,22100.0,1605500,618.0,3443622.0,3757.0,65.11
+Gujarat,Banana,banana,2010,Whole Year ,23500.0,1650300,1107.5,3903585.0,5640.0,70.365
+Gujarat,Banana,banana,2011,Whole Year ,28600.0,2049900,890.5,4791072.0,9438.0,63.306
+Gujarat,Banana,banana,2012,Whole Year ,28100.0,2000600,460.6,4237480.0,8711.0,62.463
+Gujarat,Banana,banana,2013,Whole Year ,26721.0,1944633,1006.5,3860917.29,7214.67,71.54363636
+Gujarat,Banana,banana,2014,Whole Year ,26989.0,1990076,605.6,4074259.44,8906.37,67.33181818
+Gujarat,Banana,banana,2015,Whole Year ,24439.0,1768164,584.3,3859162.49,8064.87,72.35545455
+Gujarat,Banana,banana,2016,Whole Year ,28500.0,2332252,710.5,4367625.0,9975.0,82.90272727
+Gujarat,Banana,banana,2017,Whole Year ,29630.0,2125489,814.8,4664947.2,11259.4,71.83
+Gujarat,Banana,banana,2018,Whole Year ,36405.0,2815267,1125.4,5904891.0,12741.75,77.81625
+Gujarat,Banana,banana,2019,Whole Year ,30226.0,2255336,1067.8,5191617.76,11183.62,73.76285714
+Gujarat,Dry Chillies,dry chillies,2001,Whole Year ,13600.0,12100,666.5,1388968.0,3536.0,0.890526316
+Gujarat,Dry Chillies,dry chillies,2002,Whole Year ,12100.0,10500,458.4,1145507.0,3025.0,0.831875
+Gujarat,Dry Chillies,dry chillies,2003,Whole Year ,9100.0,8400,902.5,900718.0,2184.0,0.874
+Gujarat,Dry Chillies,dry chillies,2004,Whole Year ,6400.0,5700,719.8,693376.0,1344.0,0.81
+Gujarat,Dry Chillies,dry chillies,2005,Whole Year ,7500.0,6800,942.4,899400.0,1575.0,0.943
+Gujarat,Dry Chillies,dry chillies,2006,Whole Year ,6900.0,6400,1056.2,881199.0,1518.0,0.948421053
+Gujarat,Dry Chillies,dry chillies,2007,Whole Year ,8300.0,7900,1021.6,1107220.0,1328.0,0.953333333
+Gujarat,Dry Chillies,dry chillies,2008,Whole Year ,7400.0,6700,746.1,1058496.0,666.0,0.96
+Gujarat,Dry Chillies,dry chillies,2009,Whole Year ,9000.0,8500,618.0,1402380.0,1530.0,0.970909091
+Gujarat,Dry Chillies,dry chillies,2010,Whole Year ,7600.0,6900,1107.5,1262436.0,1824.0,0.956666667
+Gujarat,Dry Chillies,dry chillies,2011,Whole Year ,8000.0,7400,890.5,1340160.0,2640.0,0.925333333
+Gujarat,Dry Chillies,dry chillies,2012,Whole Year ,6500.0,6700,460.6,980200.0,2015.0,0.993571429
+Gujarat,Dry Chillies,dry chillies,2013,Whole Year ,6274.0,6489,1006.5,906530.26,1693.98,0.977333333
+Gujarat,Dry Chillies,dry chillies,2014,Whole Year ,11498.0,10702,605.6,1735738.08,3794.34,0.944444444
+Gujarat,Dry Chillies,dry chillies,2015,Whole Year ,5913.0,6165,584.3,933721.83,1951.29,0.9625
+Gujarat,Dry Chillies,dry chillies,2016,Whole Year ,7349.0,7595,710.5,1126234.25,2572.15,1.154666667
+Gujarat,Dry Chillies,dry chillies,2017,Whole Year ,5571.0,5292,814.8,877098.24,2116.98,1.078181818
+Gujarat,Dry Chillies,dry chillies,2018,Whole Year ,4532.0,4321,1125.4,735090.4,1586.2,0.72
+Gujarat,Dry Chillies,dry chillies,2019,Whole Year ,1414.0,4419,1067.8,242868.64,523.18,3.125
+Gujarat,Garlic,garlic,2001,Whole Year ,9300.0,57200,666.5,949809.0,2418.0,5.978333333
+Gujarat,Garlic,garlic,2002,Whole Year ,8500.0,46200,458.4,804695.0,2125.0,5.413076923
+Gujarat,Garlic,garlic,2003,Whole Year ,27100.0,189800,902.5,2682358.0,6504.0,6.95
+Gujarat,Garlic,garlic,2004,Whole Year ,25900.0,157700,719.8,2806006.0,5439.0,4.966428571
+Gujarat,Garlic,garlic,2005,Whole Year ,36100.0,263300,942.4,4329112.0,7581.0,6.748125
+Gujarat,Garlic,garlic,2006,Whole Year ,32000.0,211300,1056.2,4086720.0,7040.0,5.95
+Gujarat,Garlic,garlic,2007,Whole Year ,44600.0,317500,1021.6,5949640.0,7136.0,5.839411765
+Gujarat,Garlic,garlic,2008,Whole Year ,33900.0,198800,746.1,4849056.0,3051.0,5.214
+Gujarat,Garlic,garlic,2009,Whole Year ,15300.0,93800,618.0,2384046.0,2601.0,5.490833333
+Gujarat,Garlic,garlic,2010,Whole Year ,28900.0,173200,1107.5,4800579.0,6936.0,5.24125
+Gujarat,Garlic,garlic,2011,Whole Year ,41800.0,261400,890.5,7002336.0,13794.0,5.1405
+Gujarat,Garlic,garlic,2012,Whole Year ,7200.0,34500,460.6,1085760.0,2232.0,3.817058824
+Gujarat,Garlic,garlic,2013,Whole Year ,38087.0,234992,1006.5,5503190.63,10283.49,6.124285714
+Gujarat,Garlic,garlic,2014,Whole Year ,7844.0,45867,605.6,1184130.24,2588.52,5.896
+Gujarat,Garlic,garlic,2015,Whole Year ,7594.0,42307,584.3,1199168.54,2506.02,5.516666667
+Gujarat,Garlic,garlic,2016,Whole Year ,9462.0,48386,710.5,1450051.5,3311.7,4.9548
+Gujarat,Garlic,garlic,2017,Whole Year ,19408.0,134976,814.8,3055595.52,7375.04,6.755652174
+Gujarat,Garlic,garlic,2018,Whole Year ,9870.0,67237,1125.4,1600914.0,3454.5,6.822857143
+Gujarat,Garlic,garlic,2019,Whole Year ,11313.0,81245,1067.8,1943120.88,4185.81,7.213181818
+Gujarat,Onion,onion,2001,Whole Year ,24200.0,638700,666.5,2471546.0,6292.0,29.52625
+Gujarat,Onion,onion,2002,Whole Year ,25000.0,715400,458.4,2366750.0,6250.0,28.60875
+Gujarat,Onion,onion,2003,Whole Year ,49100.0,1474600,902.5,4859918.0,11784.0,31.65611111
+Gujarat,Onion,onion,2004,Whole Year ,44000.0,1221300,719.8,4766960.0,9240.0,28.47894737
+Gujarat,Onion,onion,2005,Whole Year ,73300.0,2057500,942.4,8790136.0,15393.0,29.175
+Gujarat,Onion,onion,2006,Whole Year ,43300.0,1051800,1056.2,5529843.0,9526.0,21.8045
+Gujarat,Onion,onion,2007,Whole Year ,65400.0,2059200,1021.6,8724360.0,10464.0,28.88190476
+Gujarat,Onion,onion,2008,Rabi       ,54400.0,1502800,746.1,7781376.0,4896.0,26.605
+Gujarat,Onion,onion,2009,Rabi       ,38500.0,1051400,618.0,5999070.0,6545.0,26.69277778
+Gujarat,Onion,onion,2010,Whole Year ,67100.0,1847900,1107.5,11145981.0,16104.0,26.0365
+Gujarat,Onion,onion,2011,Rabi       ,63600.0,1860500,890.5,10654272.0,20988.0,24.66956522
+Gujarat,Onion,onion,2011,Summer     ,9200.0,258600,890.5,1541184.0,3036.0,26.965
+Gujarat,Onion,onion,2012,Rabi       ,14500.0,354200,460.6,2186600.0,4495.0,23.321
+Gujarat,Onion,onion,2012,Summer     ,2200.0,55000,460.6,331760.0,682.0,22.094
+Gujarat,Onion,onion,2013,Rabi       ,68688.0,2095709,1006.5,9924729.12,18545.76,30.73391304
+Gujarat,Onion,onion,2013,Summer     ,11011.0,312805,1006.5,1590979.39,2972.97,27.96125
+Gujarat,Onion,onion,2014,Rabi       ,38809.0,1081939,605.6,5858606.64,12806.97,28.18724138
+Gujarat,Onion,onion,2014,Summer     ,8185.0,233276,605.6,1235607.6,2701.05,26.506
+Gujarat,Onion,onion,2015,Rabi       ,52885.0,1424267,584.3,8351070.35,17452.05,26.94153846
+Gujarat,Onion,onion,2015,Summer     ,10091.0,286289,584.3,1593469.81,3330.03,26.179
+Gujarat,Onion,onion,2016,Rabi       ,42408.0,1104672,710.5,6499026.0,14842.8,26.38703704
+Gujarat,Onion,onion,2016,Summer     ,13489.0,400128,710.5,2067189.25,4721.15,26.55533333
+Gujarat,Onion,onion,2017,Rabi       ,42668.0,1223608,814.8,6717649.92,16213.84,28.7637931
+Gujarat,Onion,onion,2017,Summer     ,11801.0,318222,814.8,1857949.44,4484.38,25.194
+Gujarat,Onion,onion,2018,Rabi       ,23847.0,673001,1125.4,3867983.4,8346.45,27.7052
+Gujarat,Onion,onion,2018,Summer     ,1854.0,51062,1125.4,300718.8,648.9,27.54
+Gujarat,Onion,onion,2019,Rabi       ,41408.0,1211977,1067.8,7112238.08,15320.96,28.8925
+Gujarat,Onion,onion,2019,Summer     ,7176.0,204332,1067.8,1232549.76,2655.12,28.464
+Gujarat,Potato,potato,2001,Whole Year ,32300.0,802000,666.5,3298799.0,8398.0,22.995
+Gujarat,Potato,potato,2002,Whole Year ,35800.0,779700,458.4,3389186.0,8950.0,20.24333333
+Gujarat,Potato,potato,2003,Whole Year ,31000.0,738300,902.5,3068380.0,7440.0,22.146
+Gujarat,Potato,potato,2004,Whole Year ,39300.0,1086400,719.8,4257762.0,8253.0,26.09666667
+Gujarat,Potato,potato,2005,Whole Year ,44600.0,1238300,942.4,5348432.0,9366.0,26.46181818
+Gujarat,Potato,potato,2006,Whole Year ,51700.0,1078400,1056.2,6602607.0,11374.0,20.45727273
+Gujarat,Potato,potato,2007,Whole Year ,72300.0,1795600,1021.6,9644820.0,11568.0,24.42333333
+Gujarat,Potato,potato,2008,Whole Year ,55800.0,1171400,746.1,7981632.0,5022.0,20.86636364
+Gujarat,Potato,potato,2009,Whole Year ,47300.0,987900,618.0,7370286.0,8041.0,18.8975
+Gujarat,Potato,potato,2010,Whole Year ,55100.0,1282700,1107.5,9152661.0,13224.0,21.58
+Gujarat,Potato,potato,2011,Whole Year ,77800.0,1792300,890.5,13033056.0,25674.0,21.34230769
+Gujarat,Potato,potato,2012,Whole Year ,71500.0,1789200,460.6,10782200.0,22165.0,22.71333333
+Gujarat,Potato,potato,2013,Whole Year ,79304.0,2106238,1006.5,11458634.96,21412.08,26.01307692
+Gujarat,Potato,potato,2014,Whole Year ,101663.0,2609426,605.6,15347046.48,33548.79,25.4975
+Gujarat,Potato,potato,2015,Whole Year ,109188.0,2773080,584.3,17241877.08,36032.04,24.20928571
+Gujarat,Potato,potato,2016,Whole Year ,134306.0,3445898,710.5,20582394.5,47007.1,24.92625
+Gujarat,Potato,potato,2017,Whole Year ,130397.0,3752816,814.8,20529703.68,49550.86,27.283125
+Gujarat,Potato,potato,2018,Whole Year ,121449.0,3655606,1125.4,19699027.8,42507.15,28.84285714
+Gujarat,Potato,potato,2019,Whole Year ,118353.0,3578238,1067.8,20328311.28,43790.61,29.24857143
+Haryana,Banana,banana,2002,Whole Year ,154.0,0,353.9,14579.18,38.5,0.0
+Haryana,Banana,banana,2003,Whole Year ,52.0,0,592.3,5146.96,12.48,0.0
+Haryana,Coriander,coriander,2008,Whole Year ,398.0,800,715.6,56929.92,35.82,0.28625
+Haryana,Coriander,coriander,2009,Whole Year ,378.0,600,393.0,58899.96,64.26,0.564444444
+Haryana,Coriander,coriander,2010,Whole Year ,292.0,0,639.2,48504.12,70.08,0.0
+Haryana,Coriander,coriander,2011,Whole Year ,275.0,300,471.5409091,46068.0,90.75,0.705
+Haryana,Coriander,coriander,2012,Whole Year ,294.0,307,307.9,44335.2,91.14,1.002
+Haryana,Coriander,coriander,2013,Whole Year ,2540.0,3072,452.2,367004.6,685.8,1.62
+Haryana,Coriander,coriander,2014,Whole Year ,2166.0,3904,301.3,326979.36,714.78,2.171428571
+Haryana,Coriander,coriander,2015,Whole Year ,2659.0,5697,426.8,419882.69,877.47,2.556190476
+Haryana,Coriander,coriander,2016,Whole Year ,2261.0,4004,554.7,346498.25,791.35,1.896190476
+Haryana,Coriander,coriander,2017,Whole Year ,2211.0,5287,417.1,348099.84,840.18,2.690588235
+Haryana,Coriander,coriander,2018,Whole Year ,2284.0,5904,533.2,370464.8,799.4,3.366111111
+Haryana,Coriander,coriander,2019,Whole Year ,2163.6,6291,351.8,371619.936,800.532,3.844736842
+Haryana,Dry Chillies,dry chillies,2001,Whole Year ,1933.0,2200,483.8,197417.29,502.58,0.806111111
+Haryana,Dry Chillies,dry chillies,2003,Whole Year ,1342.0,1400,592.3,132831.16,322.08,1.01
+Haryana,Dry Chillies,dry chillies,2004,Whole Year ,1280.0,9600,484.6,138675.2,268.8,6.323333333
+Haryana,Dry Chillies,dry chillies,2005,Whole Year ,1548.0,1300,516.9,185636.16,325.08,0.612666667
+Haryana,Dry Chillies,dry chillies,2006,Whole Year ,1467.0,1200,329.3,187350.57,322.74,0.505625
+Haryana,Dry Chillies,dry chillies,2007,Whole Year ,1321.0,13800,443.8,176221.4,211.36,8.716428571
+Haryana,Dry Chillies,dry chillies,2008,Whole Year ,1613.0,14500,715.6,230723.52,145.17,7.445625
+Haryana,Dry Chillies,dry chillies,2009,Whole Year ,908.0,1400,393.0,141484.56,154.36,0.823571429
+Haryana,Dry Chillies,dry chillies,2010,Whole Year ,1139.0,10900,639.2,189199.29,273.36,6.945333333
+Haryana,Dry Chillies,dry chillies,2012,Whole Year ,832.0,8000,307.9,125465.6,257.92,10.43785714
+Haryana,Garlic,garlic,2001,Whole Year ,349.0,2800,483.8,35643.37,90.74,5.467142857
+Haryana,Garlic,garlic,2004,Whole Year ,357.0,2900,484.6,38677.38,74.97,6.101428571
+Haryana,Garlic,garlic,2006,Whole Year ,415.0,7500,329.3,52999.65,91.3,8.9425
+Haryana,Garlic,garlic,2007,Whole Year ,586.0,3700,443.8,78172.4,93.76,5.104
+Haryana,Garlic,garlic,2008,Whole Year ,492.0,3100,715.6,70375.68,44.28,2.916666667
+Haryana,Garlic,garlic,2009,Whole Year ,735.0,6500,393.0,114527.7,124.95,6.032222222
+Haryana,Garlic,garlic,2010,Whole Year ,750.0,800,639.2,124582.5,180.0,0.394444444
+Haryana,Garlic,garlic,2011,Whole Year ,1252.0,1200,471.5409091,209735.04,413.16,0.686
+Haryana,Garlic,garlic,2012,Whole Year ,657.0,6600,307.9,99075.6,203.67,9.393333333
+Haryana,Garlic,garlic,2013,Whole Year ,4316.0,36372,452.2,623618.84,1165.32,8.170952381
+Haryana,Garlic,garlic,2014,Whole Year ,3342.0,32575,301.3,504508.32,1102.86,10.69666667
+Haryana,Garlic,garlic,2015,Whole Year ,3973.0,40497,426.8,627376.43,1311.09,9.771428571
+Haryana,Garlic,garlic,2016,Whole Year ,3878.0,40764,554.7,594303.5,1357.3,10.1747619
+Haryana,Garlic,garlic,2017,Whole Year ,4420.0,51356,417.1,695884.8,1679.6,12.01368421
+Haryana,Garlic,garlic,2018,Whole Year ,3293.0,42643,533.2,534124.6,1152.55,11.64190476
+Haryana,Garlic,garlic,2019,Whole Year ,3096.0,41622,351.8,531768.96,1145.52,11.068
+Haryana,Ginger,ginger,2010,Kharif     ,61.0,100,639.2,10132.71,14.64,1.64
+Haryana,Ginger,ginger,2011,Kharif     ,64.0,100,471.5409091,10721.28,21.12,0.583333333
+Haryana,Ginger,ginger,2012,Kharif     ,67.0,0,307.9,10103.6,20.77,0.0
+Haryana,Ginger,ginger,2013,Whole Year ,625.0,8961,452.2,90306.25,168.75,14.50666667
+Haryana,Ginger,ginger,2014,Whole Year ,285.0,4160,301.3,43023.6,94.05,13.93333333
+Haryana,Ginger,ginger,2015,Whole Year ,289.0,4304,426.8,45635.99,95.37,14.3375
+Haryana,Ginger,ginger,2016,Whole Year ,108.0,1877,554.7,16551.0,37.8,15.10333333
+Haryana,Ginger,ginger,2017,Whole Year ,592.0,4468,417.1,93204.48,224.96,7.713333333
+Haryana,Ginger,ginger,2018,Whole Year ,92.0,720,533.2,14922.4,32.2,7.245
+Haryana,Ginger,ginger,2019,Whole Year ,74.0,623,351.8,12710.24,27.38,10.345
+Haryana,Onion,onion,2001,Whole Year ,3554.0,46600,483.8,362970.02,924.04,13.56916667
+Haryana,Onion,onion,2002,Whole Year ,1609.0,36000,353.9,152324.03,402.25,19.29692308
+Haryana,Onion,onion,2003,Whole Year ,3319.0,80700,592.3,328514.62,796.56,21.084
+Haryana,Onion,onion,2004,Whole Year ,2823.0,68400,484.6,305843.82,592.83,20.795
+Haryana,Onion,onion,2005,Whole Year ,4044.0,92700,516.9,484956.48,849.24,18.03076923
+Haryana,Onion,onion,2006,Whole Year ,2543.0,49700,329.3,324766.53,559.46,18.98352941
+Haryana,Onion,onion,2007,Whole Year ,3193.0,63700,443.8,425946.2,510.88,18.20733333
+Haryana,Onion,onion,2008,Whole Year ,2492.0,37400,715.6,356455.68,224.28,178.6530769
+Haryana,Onion,onion,2009,Whole Year ,1535.0,31300,393.0,239183.7,260.95,19.35785714
+Haryana,Onion,onion,2010,Whole Year ,2150.0,43800,639.2,357136.5,516.0,19.95642857
+Haryana,Onion,onion,2011,Whole Year ,1860.0,32400,471.5409091,311587.2,613.8,16.7075
+Haryana,Onion,onion,2012,Whole Year ,2330.0,65900,307.9,351364.0,722.3,25.96909091
+Haryana,Onion,onion,2013,Whole Year ,30163.0,672164,452.2,4358251.87,8144.01,22.45714286
+Haryana,Onion,onion,2014,Whole Year ,28688.0,640215,301.3,4330740.48,9467.04,22.56047619
+Haryana,Onion,onion,2015,Whole Year ,30645.0,705795,426.8,4839151.95,10112.85,23.16333333
+Haryana,Onion,onion,2016,Whole Year ,28164.0,650394,554.7,4316133.0,9857.4,24.83
+Haryana,Onion,onion,2017,Whole Year ,29931.0,701504,417.1,4712336.64,11373.78,23.97666667
+Haryana,Onion,onion,2018,Whole Year ,32010.0,780150,533.2,5192022.0,11203.5,24.73863636
+Haryana,Onion,onion,2019,Whole Year ,23749.0,610443,351.8,4079128.24,8787.13,24.54181818
+Haryana,Potato,potato,2001,Whole Year ,9616.0,203100,483.8,982082.08,2500.16,19.08055556
+Haryana,Potato,potato,2002,Whole Year ,10328.0,291900,353.9,977751.76,2582.0,33.775
+Haryana,Potato,potato,2003,Whole Year ,10521.0,256900,592.3,1041368.58,2525.04,22.60571429
+Haryana,Potato,potato,2004,Whole Year ,10832.0,269100,484.6,1173538.88,2274.72,23.1075
+Haryana,Potato,potato,2005,Whole Year ,12597.0,312500,516.9,1510632.24,2645.37,21.80066667
+Haryana,Potato,potato,2006,Whole Year ,12826.0,319900,329.3,1638008.46,2821.72,21.90714286
+Haryana,Potato,potato,2007,Whole Year ,9917.0,177600,443.8,1322927.8,1586.72,15.53166667
+Haryana,Potato,potato,2008,Whole Year ,11938.0,258600,715.6,1707611.52,1074.42,19.08769231
+Haryana,Potato,potato,2009,Whole Year ,12269.0,136400,393.0,1911755.58,2085.73,17.30357143
+Haryana,Potato,potato,2010,Whole Year ,12412.0,280900,639.2,2061757.32,2978.88,21.70428571
+Haryana,Potato,potato,2011,Whole Year ,12074.0,263000,471.5409091,2022636.48,3984.42,20.60733333
+Haryana,Potato,potato,2012,Whole Year ,12780.0,297900,307.9,1927224.0,3961.8,22.85384615
+Haryana,Potato,potato,2013,Whole Year ,29973.0,696514,452.2,4330798.77,8092.71,23.14047619
+Haryana,Potato,potato,2014,Whole Year ,30134.0,722584,301.3,4549028.64,9944.22,23.752
+Haryana,Potato,potato,2015,Whole Year ,34273.0,853806,426.8,5412049.43,11310.09,24.81095238
+Haryana,Potato,potato,2016,Whole Year ,32832.0,811499,554.7,5031504.0,11491.2,24.84571429
+Haryana,Potato,potato,2017,Whole Year ,34718.0,897576,417.1,5466001.92,13192.84,26.06142857
+Haryana,Potato,potato,2018,Whole Year ,34738.0,897846,533.2,5634503.6,12158.3,25.85727273
+Haryana,Potato,potato,2019,Whole Year ,38200.0,982400,351.8,6561232.0,14134.0,25.395
+Haryana,Sweet potato,sweet potato,2001,Whole Year ,89.0,0,483.8,9089.57,23.14,0.0
+Haryana,Sweet potato,sweet potato,2002,Whole Year ,47.0,900,353.9,4449.49,11.75,13.98166667
+Haryana,Sweet potato,sweet potato,2003,Whole Year ,77.0,1600,592.3,7621.46,18.48,16.482
+Haryana,Sweet potato,sweet potato,2004,Whole Year ,75.0,1500,484.6,8125.5,15.75,18.602
+Haryana,Sweet potato,sweet potato,2005,Whole Year ,127.0,2400,516.9,15229.84,26.67,15.14333333
+Haryana,Sweet potato,sweet potato,2006,Whole Year ,19.0,400,329.3,2426.49,4.18,12.6975
+Haryana,Sweet potato,sweet potato,2007,Whole Year ,65.0,1200,443.8,8671.0,10.4,12.7775
+Haryana,Sweet potato,sweet potato,2008,Whole Year ,83.0,1500,715.6,11872.32,7.47,12.0625
+Haryana,Sweet potato,sweet potato,2009,Whole Year ,59.0,1100,393.0,9193.38,10.03,13.7
+Haryana,Sweet potato,sweet potato,2010,Whole Year ,64.0,0,639.2,10631.04,15.36,0.0
+Haryana,Sweet potato,sweet potato,2011,Whole Year ,37.0,0,471.5409091,6198.24,12.21,0.0
+Haryana,Sweet potato,sweet potato,2012,Whole Year ,179.0,2300,307.9,26993.2,55.49,16.78333333
+Haryana,Turmeric,turmeric,2008,Whole Year ,51.0,500,715.6,7295.04,4.59,5.2725
+Haryana,Turmeric,turmeric,2010,Whole Year ,56.0,0,639.2,9302.16,13.44,0.0
+Haryana,Turmeric,turmeric,2011,Whole Year ,267.0,200,471.5409091,44727.84,88.11,0.111111111
+Haryana,Turmeric,turmeric,2012,Whole Year ,287.0,265,307.9,43279.6,88.97,0.86625
+Haryana,Turmeric,turmeric,2013,Whole Year ,3044.0,37595,452.2,439827.56,821.88,11.3
+Haryana,Turmeric,turmeric,2014,Whole Year ,3046.0,31031,301.3,459824.16,1005.18,11.8825
+Haryana,Turmeric,turmeric,2015,Whole Year ,1852.0,20430,426.8,292449.32,611.16,10.83636364
+Haryana,Turmeric,turmeric,2016,Whole Year ,1885.0,23797,554.7,288876.25,659.75,12.551
+Haryana,Turmeric,turmeric,2017,Whole Year ,829.0,10898,417.1,130517.76,315.02,12.501
+Haryana,Turmeric,turmeric,2018,Whole Year ,921.0,10977,533.2,149386.2,322.35,11.2
+Haryana,Turmeric,turmeric,2019,Whole Year ,1753.0,20304,351.8,301095.28,648.61,12.75375
+Himachal Pradesh,Coriander,coriander,2001,Whole Year ,308.0,105,918.1,31456.04,80.08,1.35125
+Himachal Pradesh,Coriander,coriander,2002,Whole Year ,263.0,84,890.8,24898.21,65.75,0.27625
+Himachal Pradesh,Coriander,coriander,2005,Rabi       ,143.0,17,1248.1,17148.56,30.03,0.142
+Himachal Pradesh,Coriander,coriander,2006,Rabi       ,144.0,30,1207.0,18390.24,31.68,0.27
+Himachal Pradesh,Coriander,coriander,2007,Rabi       ,236.0,68,1095.4,31482.4,37.76,0.252
+Himachal Pradesh,Coriander,coriander,2008,Rabi       ,136.0,19,1357.1,19453.44,12.24,0.165714286
+Himachal Pradesh,Coriander,coriander,2009,Rabi       ,120.0,66,969.9,18698.4,20.4,0.608
+Himachal Pradesh,Coriander,coriander,2010,Rabi       ,141.0,73,1319.8,23421.51,33.84,0.531
+Himachal Pradesh,Coriander,coriander,2011,Rabi       ,129.0,42,1108.3,21610.08,42.57,0.33875
+Himachal Pradesh,Coriander,coriander,2012,Rabi       ,144.0,46,1035.0,21715.2,44.64,0.318
+Himachal Pradesh,Coriander,coriander,2013,Rabi       ,144.0,43,1216.9,20806.56,38.88,0.294285714
+Himachal Pradesh,Coriander,coriander,2014,Rabi       ,172.0,53,1019.9,25965.12,56.76,0.24
+Himachal Pradesh,Coriander,coriander,2015,Rabi       ,118.0,43,1223.2,18633.38,38.94,0.514444444
+Himachal Pradesh,Coriander,coriander,2016,Rabi       ,104.0,14,1373.9,15938.0,36.4,0.207142857
+Himachal Pradesh,Coriander,coriander,2017,Rabi       ,104.0,14,1182.2,16373.76,39.52,0.207142857
+Himachal Pradesh,Coriander,coriander,2018,Rabi       ,128.0,28,1052.2,20761.6,44.8,0.33
+Himachal Pradesh,Coriander,coriander,2019,Rabi       ,130.0,66,1217.7,22328.8,48.1,0.575
+Himachal Pradesh,Dry Chillies,dry chillies,2001,Whole Year ,1024.0,195,918.1,104581.12,266.24,0.219
+Himachal Pradesh,Dry Chillies,dry chillies,2002,Whole Year ,837.0,87,890.8,79238.79,209.25,0.207
+Himachal Pradesh,Dry Chillies,dry chillies,2005,Kharif     ,600.0,130,1248.1,71952.0,126.0,0.292222222
+Himachal Pradesh,Dry Chillies,dry chillies,2006,Kharif     ,623.0,158,1207.0,79563.33,137.06,0.293
+Himachal Pradesh,Dry Chillies,dry chillies,2007,Kharif     ,669.0,254,1095.4,89244.6,107.04,0.399
+Himachal Pradesh,Dry Chillies,dry chillies,2008,Kharif     ,640.0,199,1357.1,91545.6,57.6,0.266
+Himachal Pradesh,Dry Chillies,dry chillies,2009,Kharif     ,603.0,318,969.9,93959.46,102.51,0.545
+Himachal Pradesh,Dry Chillies,dry chillies,2011,Kharif     ,620.0,177,1108.3,103862.4,204.6,0.272222222
+Himachal Pradesh,Dry Chillies,dry chillies,2012,Kharif     ,630.0,205,1035.0,95004.0,195.3,0.322
+Himachal Pradesh,Dry Chillies,dry chillies,2013,Kharif     ,419.0,143,1216.9,60541.31,113.13,0.312
+Himachal Pradesh,Dry Chillies,dry chillies,2014,Kharif     ,466.0,151,1019.9,70347.36,153.78,0.335
+Himachal Pradesh,Dry Chillies,dry chillies,2015,Kharif     ,599.0,217,1223.2,94588.09,197.67,0.347777778
+Himachal Pradesh,Dry Chillies,dry chillies,2016,Kharif     ,445.0,143,1373.9,68196.25,155.75,0.306
+Himachal Pradesh,Dry Chillies,dry chillies,2018,Kharif     ,578.0,199,1052.2,93751.6,202.3,0.313
+Himachal Pradesh,Dry Chillies,dry chillies,2019,Kharif     ,583.0,276,1217.7,100136.08,215.71,0.484
+Himachal Pradesh,Garlic,garlic,2001,Whole Year ,1597.0,1719,918.1,163101.61,415.22,1.018
+Himachal Pradesh,Garlic,garlic,2002,Whole Year ,3180.0,2379,890.8,301050.6,795.0,0.64
+Himachal Pradesh,Garlic,garlic,2005,Rabi       ,2986.0,1965,1248.1,358081.12,627.06,0.764
+Himachal Pradesh,Garlic,garlic,2006,Rabi       ,2932.0,2490,1207.0,374445.72,645.04,1.043
+Himachal Pradesh,Garlic,garlic,2007,Rabi       ,4299.0,5486,1095.4,573486.6,687.84,1.125
+Himachal Pradesh,Garlic,garlic,2008,Rabi       ,4036.0,1246,1357.1,577309.44,363.24,0.527777778
+Himachal Pradesh,Garlic,garlic,2009,Rabi       ,4860.0,8491,969.9,757285.2,826.2,1.673
+Himachal Pradesh,Garlic,garlic,2010,Kharif     ,3.0,4,1319.8,498.33,0.72,1.33
+Himachal Pradesh,Garlic,garlic,2010,Rabi       ,5024.0,7516,1319.8,834536.64,1205.76,1.41
+Himachal Pradesh,Garlic,garlic,2011,Rabi       ,4110.0,5799,1108.3,688507.2,1356.3,1.1925
+Himachal Pradesh,Garlic,garlic,2012,Rabi       ,4298.0,6026,1035.0,648138.4,1332.38,1.256666667
+Himachal Pradesh,Garlic,garlic,2013,Rabi       ,4961.0,7516,1216.9,716814.89,1339.47,1.433
+Himachal Pradesh,Garlic,garlic,2014,Rabi       ,4608.0,6519,1019.9,695623.68,1520.64,1.084
+Himachal Pradesh,Garlic,garlic,2015,Rabi       ,4404.0,6537,1223.2,695435.64,1453.32,1.164
+Himachal Pradesh,Garlic,garlic,2016,Rabi       ,3342.0,912,1373.9,512161.5,1169.7,0.417777778
+Himachal Pradesh,Garlic,garlic,2017,Rabi       ,3342.0,1275,1182.2,526164.48,1269.96,0.584444444
+Himachal Pradesh,Garlic,garlic,2018,Rabi       ,3596.0,1421,1052.2,583271.2,1258.6,0.559
+Himachal Pradesh,Garlic,garlic,2019,Rabi       ,3943.0,2575,1217.7,677249.68,1458.91,0.672
+Himachal Pradesh,Ginger,ginger,2001,Kharif     ,2609.0,29012,918.1,266457.17,678.34,10.94888889
+Himachal Pradesh,Ginger,ginger,2002,Kharif     ,2455.0,17051,890.8,232414.85,613.75,6.73
+Himachal Pradesh,Ginger,ginger,2003,Kharif     ,2044.0,14658,1112.6,202315.12,490.56,6.75
+Himachal Pradesh,Ginger,ginger,2004,Kharif     ,2043.0,14567,939.2,221338.62,429.03,7.264285714
+Himachal Pradesh,Ginger,ginger,2005,Kharif     ,2179.0,16213,1248.1,261305.68,457.59,7.377777778
+Himachal Pradesh,Ginger,ginger,2006,Kharif     ,2396.0,4194,1207.0,305993.16,527.12,1.842222222
+Himachal Pradesh,Ginger,ginger,2007,Kharif     ,2273.0,25538,1095.4,303218.2,363.68,10.15
+Himachal Pradesh,Ginger,ginger,2009,Kharif     ,2488.0,11618,969.9,387680.16,422.96,3.883
+Himachal Pradesh,Ginger,ginger,2011,Kharif     ,2103.0,3736,1108.3,352294.56,693.99,1.825
+Himachal Pradesh,Ginger,ginger,2012,Kharif     ,2406.0,16872,1035.0,362824.8,745.86,7.345555556
+Himachal Pradesh,Ginger,ginger,2014,Kharif     ,2144.0,14712,1019.9,323658.24,707.52,6.611
+Himachal Pradesh,Ginger,ginger,2015,Kharif     ,2276.0,15389,1223.2,359403.16,751.08,6.84
+Himachal Pradesh,Ginger,ginger,2018,Kharif     ,2223.0,8940,1052.2,360570.6,778.05,3.759
+Himachal Pradesh,Ginger,ginger,2019,Kharif     ,2264.0,10675,1217.7,388864.64,837.68,3.946666667
+Himachal Pradesh,Onion,onion,2001,Whole Year ,1112.0,11045,918.1,113568.56,289.12,8.397777778
+Himachal Pradesh,Onion,onion,2002,Whole Year ,807.0,4541,890.8,76398.69,201.75,5.328
+Himachal Pradesh,Onion,onion,2005,Rabi       ,829.0,4045,1248.1,99413.68,174.09,4.994
+Himachal Pradesh,Onion,onion,2006,Rabi       ,893.0,7617,1207.0,114045.03,196.46,8.546
+Himachal Pradesh,Onion,onion,2007,Rabi       ,823.0,7036,1095.4,109788.2,131.68,8.408
+Himachal Pradesh,Onion,onion,2008,Rabi       ,776.0,4611,1357.1,110999.04,69.84,5.795
+Himachal Pradesh,Onion,onion,2009,Rabi       ,918.0,5392,969.9,143042.76,156.06,5.744
+Himachal Pradesh,Onion,onion,2011,Rabi       ,724.0,6262,1108.3,121284.48,238.92,9.198
+Himachal Pradesh,Onion,onion,2012,Rabi       ,748.0,6967,1035.0,112798.4,231.88,9.482
+Himachal Pradesh,Onion,onion,2013,Rabi       ,764.0,7246,1216.9,110390.36,206.28,9.466666667
+Himachal Pradesh,Onion,onion,2014,Rabi       ,806.0,7600,1019.9,121673.76,265.98,9.471
+Himachal Pradesh,Onion,onion,2015,Rabi       ,854.0,8696,1223.2,134855.14,281.82,9.954
+Himachal Pradesh,Onion,onion,2017,Rabi       ,594.0,3732,1182.2,93519.36,225.72,6.06
+Himachal Pradesh,Onion,onion,2018,Rabi       ,640.0,4015,1052.2,103808.0,224.0,6.001
+Himachal Pradesh,Onion,onion,2019,Rabi       ,952.0,7050,1217.7,163515.52,352.24,7.29
+Himachal Pradesh,Potato,potato,2001,Whole Year ,8480.0,75614,918.1,866062.4,2204.8,8.677272727
+Himachal Pradesh,Potato,potato,2002,Whole Year ,13941.0,136033,890.8,1319794.47,3485.25,10.06
+Himachal Pradesh,Potato,potato,2003,Whole Year ,15036.0,173169,1112.6,1488263.28,3608.64,11.48666667
+Himachal Pradesh,Potato,potato,2004,Whole Year ,14808.0,147874,939.2,1604298.72,3109.68,10.27166667
+Himachal Pradesh,Potato,potato,2005,Whole Year ,14012.0,95900,1248.1,1680319.04,2942.52,6.635833333
+Himachal Pradesh,Potato,potato,2006,Whole Year ,12687.0,126701,1207.0,1620256.77,2791.14,10.05416667
+Himachal Pradesh,Potato,potato,2007,Kharif     ,13583.0,123839,1095.4,1811972.2,2173.28,9.051666667
+Himachal Pradesh,Potato,potato,2008,Kharif     ,7954.0,78928,1357.1,1137740.16,715.86,11.051
+Himachal Pradesh,Potato,potato,2008,Rabi       ,3889.0,24702,1357.1,556282.56,350.01,4.299
+Himachal Pradesh,Potato,potato,2009,Kharif     ,6436.0,64758,969.9,1002857.52,1094.12,11.582
+Himachal Pradesh,Potato,potato,2009,Rabi       ,3406.0,23611,969.9,530722.92,579.02,4.67
+Himachal Pradesh,Potato,potato,2010,Kharif     ,6411.0,64000,1319.8,1064931.21,1538.64,10.688
+Himachal Pradesh,Potato,potato,2010,Rabi       ,3423.0,23328,1319.8,568594.53,821.52,4.835
+Himachal Pradesh,Potato,potato,2011,Kharif     ,6423.0,63593,1108.3,1075980.96,2119.59,11.144
+Himachal Pradesh,Potato,potato,2011,Rabi       ,3431.0,23799,1108.3,574761.12,1132.23,4.865
+Himachal Pradesh,Potato,potato,2012,Kharif     ,6404.0,65510,1035.0,965723.2,1985.24,10.782
+Himachal Pradesh,Potato,potato,2012,Rabi       ,3415.0,23797,1035.0,514982.0,1058.65,4.953
+Himachal Pradesh,Potato,potato,2013,Kharif     ,6228.0,64123,1216.9,899883.72,1681.56,10.642
+Himachal Pradesh,Potato,potato,2013,Rabi       ,3408.0,23871,1216.9,492421.92,920.16,4.882
+Himachal Pradesh,Potato,potato,2014,Kharif     ,6548.0,65364,1019.9,988486.08,2160.84,10.461
+Himachal Pradesh,Potato,potato,2014,Rabi       ,3551.0,23045,1019.9,536058.96,1171.83,4.698
+Himachal Pradesh,Potato,potato,2015,Kharif     ,6475.0,58138,1223.2,1022467.25,2136.75,10.163
+Himachal Pradesh,Potato,potato,2015,Rabi       ,3412.0,23371,1223.2,538788.92,1125.96,4.737
+Himachal Pradesh,Potato,potato,2016,Kharif     ,6448.0,64460,1373.9,988156.0,2256.8,11.604
+Himachal Pradesh,Potato,potato,2016,Rabi       ,3407.0,23691,1373.9,522122.75,1192.45,4.691
+Himachal Pradesh,Potato,potato,2017,Kharif     ,6458.0,63460,1182.2,1016747.52,2454.04,10.488
+Himachal Pradesh,Potato,potato,2017,Rabi       ,3413.0,24219,1182.2,537342.72,1296.94,5.426
+Himachal Pradesh,Potato,potato,2018,Kharif     ,2900.0,21312,1052.2,470380.0,1015.0,5.96875
+Himachal Pradesh,Potato,potato,2018,Rabi       ,7029.0,72777,1052.2,1140103.8,2460.15,9.303333333
+Himachal Pradesh,Potato,potato,2019,Kharif     ,2970.0,24480,1217.7,510127.2,1098.9,7.22375
+Himachal Pradesh,Potato,potato,2019,Rabi       ,7156.0,84443,1217.7,1229114.56,2647.72,10.83
+Himachal Pradesh,Sweet potato,sweet potato,2001,Whole Year ,102.0,0,918.1,10417.26,26.52,0.0
+Himachal Pradesh,Turmeric,turmeric,2001,Whole Year ,127.0,74,918.1,12970.51,33.02,0.59625
+Himachal Pradesh,Turmeric,turmeric,2002,Whole Year ,125.0,65,890.8,11833.75,31.25,0.418571429
+Himachal Pradesh,Turmeric,turmeric,2005,Kharif     ,147.0,89,1248.1,17628.24,30.87,0.587142857
+Himachal Pradesh,Turmeric,turmeric,2006,Kharif     ,187.0,99,1207.0,23881.77,41.14,0.504285714
+Himachal Pradesh,Turmeric,turmeric,2007,Kharif     ,142.0,72,1095.4,18942.8,22.72,0.476666667
+Himachal Pradesh,Turmeric,turmeric,2008,Kharif     ,208.0,110,1357.1,29752.32,18.72,0.54875
+Himachal Pradesh,Turmeric,turmeric,2009,Kharif     ,194.0,110,969.9,30229.08,32.98,0.5625
+Himachal Pradesh,Turmeric,turmeric,2011,Kharif     ,197.0,98,1108.3,33001.44,65.01,0.52
+Himachal Pradesh,Turmeric,turmeric,2012,Kharif     ,283.0,158,1035.0,42676.4,87.73,0.515
+Himachal Pradesh,Turmeric,turmeric,2013,Kharif     ,266.0,145,1216.9,38434.34,71.82,0.541428571
+Himachal Pradesh,Turmeric,turmeric,2014,Kharif     ,256.0,143,1019.9,38645.76,84.48,0.512857143
+Himachal Pradesh,Turmeric,turmeric,2015,Kharif     ,206.0,113,1223.2,32529.46,67.98,0.5225
+Himachal Pradesh,Turmeric,turmeric,2016,Kharif     ,136.0,81,1373.9,20842.0,47.6,0.59875
+Himachal Pradesh,Turmeric,turmeric,2017,Kharif     ,136.0,85,1182.2,21411.84,51.68,0.66375
+Himachal Pradesh,Turmeric,turmeric,2018,Kharif     ,274.0,170,1052.2,44442.8,95.9,0.688888889
+Himachal Pradesh,Turmeric,turmeric,2019,Kharif     ,285.0,197,1217.7,48951.6,105.45,0.747777778
+Karnataka,Banana,banana,2002,Whole Year ,39813.0,681663,860.8,3769096.71,9953.25,16.96518519
+Karnataka,Banana,banana,2003,Whole Year ,33220.0,431463,867.6,3288115.6,7972.8,14.36222222
+Karnataka,Banana,banana,2004,Whole Year ,41977.0,526898,1117.7,4547788.18,8815.17,16.32777778
+Karnataka,Banana,banana,2005,Whole Year ,43562.0,517257,1316.2,5223955.04,9148.02,15.48037037
+Karnataka,Banana,banana,2006,Whole Year ,42646.0,851437,1146.3,5446320.66,9382.12,19.95814815
+Karnataka,Banana,banana,2007,Whole Year ,52191.0,922999,1323.3,6962279.4,8350.56,19.55793103
+Karnataka,Banana,banana,2008,Whole Year ,61001.0,1059346,1164.1,8725583.04,5490.09,20.47448276
+Karnataka,Banana,banana,2009,Whole Year ,63981.0,1407316,1321.0,9969519.42,10876.77,21.92
+Karnataka,Banana,banana,2010,Whole Year ,65767.0,1536239,1317.7,10924556.37,15784.08,23.71172414
+Karnataka,Banana,banana,2011,Whole Year ,69256.0,1730522,1178.986364,11601765.12,22854.48,25.06172414
+Karnataka,Black pepper,black pepper,2001,Whole Year ,9699.0,22185,1002.9,990558.87,2521.74,2.213846154
+Karnataka,Black pepper,black pepper,2002,Whole Year ,10414.0,23178,860.8,985893.38,2603.5,2.213076923
+Karnataka,Black pepper,black pepper,2003,Whole Year ,10694.0,23561,867.6,1058492.12,2566.56,2.220833333
+Karnataka,Black pepper,black pepper,2004,Whole Year ,12344.0,27517,1117.7,1337348.96,2592.24,2.26
+Karnataka,Black pepper,black pepper,2005,Whole Year ,14797.0,32414,1316.2,1774456.24,3107.37,2.199230769
+Karnataka,Black pepper,black pepper,2006,Whole Year ,13726.0,29025,1146.3,1752947.46,3019.72,2.216
+Karnataka,Black pepper,black pepper,2007,Whole Year ,16319.0,50867,1323.3,2176954.6,2611.04,3.124166667
+Karnataka,Black pepper,black pepper,2008,Whole Year ,17451.0,73956,1164.1,2496191.04,1570.59,4.133571429
+Karnataka,Black pepper,black pepper,2009,Whole Year ,19706.0,73143,1321.0,3070588.92,3350.02,3.701538462
+Karnataka,Black pepper,black pepper,2010,Whole Year ,21061.0,12717,1317.7,3498442.71,5054.64,0.580769231
+Karnataka,Black pepper,black pepper,2011,Whole Year ,21701.0,6148,1178.986364,3635351.52,7161.33,0.296923077
+Karnataka,Black pepper,black pepper,2012,Whole Year ,26837.0,76040,956.2,4047019.6,8319.47,2.986
+Karnataka,Black pepper,black pepper,2013,Whole Year ,27958.0,69460,1235.6,4039651.42,7548.66,2.561176471
+Karnataka,Black pepper,black pepper,2014,Whole Year ,32665.0,19188,1238.5,4931108.4,10779.45,0.58375
+Karnataka,Black pepper,black pepper,2015,Whole Year ,34990.0,26773,1024.9,5525270.9,11546.7,0.796
+Karnataka,Black pepper,black pepper,2016,Whole Year ,37746.0,22879,1147.2,5784574.5,13211.1,0.618823529
+Karnataka,Black pepper,black pepper,2017,Whole Year ,41381.0,27177,1111.7,6515024.64,15724.78,0.684
+Karnataka,Black pepper,black pepper,2018,Whole Year ,148379.0,94144,1419.1,24067073.8,51932.65,0.5975
+Karnataka,Black pepper,black pepper,2019,Whole Year ,160774.0,63026,1422.3,27614542.24,59486.38,0.394705882
+Karnataka,Coconut,coconut,2001,Whole Year ,369828.0,1503638000,1002.9,37770533.64,96155.28,4164.951481
+Karnataka,Coconut,coconut,2002,Whole Year ,375425.0,1525287000,860.8,35541484.75,93856.25,4165.087778
+Karnataka,Coconut,coconut,2003,Whole Year ,375957.0,1529139000,867.6,37212223.86,90229.68,4165.193333
+Karnataka,Coconut,coconut,2004,Whole Year ,383206.0,1551729000,1117.7,41516538.04,80473.26,4165.395185
+Karnataka,Coconut,coconut,2005,Whole Year ,395885.0,1606890000,1316.2,47474529.2,83135.85,4165.660741
+Karnataka,Coconut,coconut,2006,Whole Year ,403671.0,1635839000,1146.3,51552823.41,88807.62,4164.715926
+Karnataka,Coconut,coconut,2007,Whole Year ,405328.0,2063855000,1323.3,54070755.2,64852.48,5079.793793
+Karnataka,Coconut,coconut,2008,Whole Year ,418581.0,2867660000,1164.1,59873826.24,37672.29,6801.366552
+Karnataka,Coconut,coconut,2009,Whole Year ,429860.0,3056353000,1321.0,66980785.2,73076.2,7084.002414
+Karnataka,Coconut,coconut,2010,Whole Year ,440741.0,4213360000,1317.7,73211487.51,105777.84,9678.503667
+Karnataka,Coconut,coconut,2011,Whole Year ,443753.0,4411600000,1178.986364,74337502.56,146438.49,9984.488333
+Karnataka,Coconut,coconut,2012,Whole Year ,441048.0,4342441000,956.2,66510038.4,136724.88,9923.938333
+Karnataka,Coconut,coconut,2013,Whole Year ,430774.0,3417792000,1235.6,62242535.26,116308.98,8039.727
+Karnataka,Coconut,coconut,2014,Whole Year ,440514.0,3931007000,1238.5,66499993.44,145369.62,9449.426667
+Karnataka,Coconut,coconut,2015,Whole Year ,441100.0,3688825000,1024.9,69654101.0,145563.0,8706.411724
+Karnataka,Coconut,coconut,2016,Whole Year ,437099.0,3417203000,1147.2,66985421.75,152984.65,7996.762143
+Karnataka,Coconut,coconut,2017,Whole Year ,446607.0,3531305000,1111.7,70313806.08,169710.66,8182.769667
+Karnataka,Coconut,coconut,2018,Whole Year ,610234.0,4321762000,1419.1,98979954.8,213581.9,7502.488
+Karnataka,Coconut,coconut,2019,Whole Year ,610324.0,5030774000,1422.3,104829250.2,225819.88,8344.984
+Karnataka,Coriander,coriander,2001,Whole Year ,11307.0,1845,1002.9,1154783.91,2939.82,0.116818182
+Karnataka,Coriander,coriander,2002,Whole Year ,7685.0,1114,860.8,727538.95,1921.25,0.1235
+Karnataka,Coriander,coriander,2003,Whole Year ,7797.0,1187,867.6,771747.06,1871.28,0.1195
+Karnataka,Coriander,coriander,2004,Whole Year ,9626.0,1491,1117.7,1042880.84,2021.46,0.119
+Karnataka,Coriander,coriander,2005,Whole Year ,9163.0,1398,1316.2,1098826.96,1924.23,0.125714286
+Karnataka,Coriander,coriander,2006,Whole Year ,5998.0,888,1146.3,766004.58,1319.56,0.113157895
+Karnataka,Coriander,coriander,2007,Whole Year ,6423.0,2242,1323.3,856828.2,1027.68,0.329545455
+Karnataka,Coriander,coriander,2008,Whole Year ,7415.0,4002,1164.1,1060641.6,667.35,0.549545455
+Karnataka,Coriander,coriander,2009,Whole Year ,6580.0,3224,1321.0,1025295.6,1118.6,0.498095238
+Karnataka,Coriander,coriander,2010,Whole Year ,4348.0,1622,1317.7,722246.28,1043.52,0.368
+Karnataka,Coriander,coriander,2011,Whole Year ,3042.0,1236,1178.986364,509595.84,1003.86,0.406
+Karnataka,Coriander,coriander,2012,Whole Year ,4219.0,1667,956.2,636225.2,1307.89,0.401304348
+Karnataka,Coriander,coriander,2013,Whole Year ,2648.0,822,1235.6,382609.52,714.96,0.319473684
+Karnataka,Coriander,coriander,2014,Whole Year ,4339.0,1469,1238.5,655015.44,1431.87,0.3344
+Karnataka,Coriander,coriander,2015,Whole Year ,4494.0,1927,1024.9,709647.54,1483.02,0.388636364
+Karnataka,Coriander,coriander,2016,Whole Year ,1778.0,770,1147.2,272478.5,622.3,0.390625
+Karnataka,Coriander,coriander,2017,Whole Year ,1026.0,379,1111.7,161533.44,389.88,0.365
+Karnataka,Coriander,coriander,2018,Whole Year ,2918.0,2607,1419.1,473299.6,1021.3,0.897333333
+Karnataka,Coriander,coriander,2019,Whole Year ,608.0,300,1422.3,104430.08,224.96,0.48
+Karnataka,Dry Chillies,dry chillies,2001,Whole Year ,193067.0,126395,1002.9,19717932.71,50197.42,1.082962963
+Karnataka,Dry Chillies,dry chillies,2002,Whole Year ,155499.0,153443,860.8,14721090.33,38874.75,1.266666667
+Karnataka,Dry Chillies,dry chillies,2003,Whole Year ,69876.0,94502,867.6,6916326.48,16770.24,1.505185185
+Karnataka,Dry Chillies,dry chillies,2004,Whole Year ,152323.0,104577,1117.7,16502673.82,31987.83,1.084814815
+Karnataka,Dry Chillies,dry chillies,2005,Kharif     ,116047.0,84364,1316.2,13916356.24,24369.87,0.830384615
+Karnataka,Dry Chillies,dry chillies,2005,Rabi       ,2911.0,4729,1316.2,349087.12,611.31,1.676538462
+Karnataka,Dry Chillies,dry chillies,2005,Summer     ,6715.0,17719,1316.2,805262.8,1410.15,2.696923077
+Karnataka,Dry Chillies,dry chillies,2006,Whole Year ,132521.0,129945,1146.3,16924256.91,29154.62,1.618888889
+Karnataka,Dry Chillies,dry chillies,2007,Kharif     ,126372.0,113828,1323.3,16858024.8,20219.52,0.993928571
+Karnataka,Dry Chillies,dry chillies,2007,Rabi       ,4273.0,7457,1323.3,570018.2,683.68,1.742307692
+Karnataka,Dry Chillies,dry chillies,2007,Summer     ,6059.0,20508,1323.3,808270.6,969.44,3.404
+Karnataka,Dry Chillies,dry chillies,2008,Kharif     ,109185.0,101341,1164.1,15617822.4,9826.65,1.025714286
+Karnataka,Dry Chillies,dry chillies,2008,Rabi       ,5903.0,10002,1164.1,844365.12,531.27,1.681111111
+Karnataka,Dry Chillies,dry chillies,2008,Summer     ,7225.0,23701,1164.1,1033464.0,650.25,3.233076923
+Karnataka,Dry Chillies,dry chillies,2009,Rabi       ,6354.0,18944,1321.0,990080.28,1080.18,2.896071429
+Karnataka,Dry Chillies,dry chillies,2009,Summer     ,6605.0,30415,1321.0,1029191.1,1122.85,4.545416667
+Karnataka,Dry Chillies,dry chillies,2010,Kharif     ,99759.0,82155,1317.7,16570967.49,23942.16,1.176206897
+Karnataka,Dry Chillies,dry chillies,2010,Rabi       ,6608.0,17951,1317.7,1097654.88,1585.92,2.711785714
+Karnataka,Dry Chillies,dry chillies,2010,Summer     ,7482.0,22761,1317.7,1242835.02,1795.68,3.1132
+Karnataka,Dry Chillies,dry chillies,2011,Kharif     ,88218.0,71254,1178.986364,14778279.36,29111.94,0.973448276
+Karnataka,Dry Chillies,dry chillies,2011,Rabi       ,6537.0,15414,1178.986364,1095078.24,2157.21,2.375714286
+Karnataka,Dry Chillies,dry chillies,2011,Summer     ,5662.0,19828,1178.986364,948498.24,1868.46,3.4856
+Karnataka,Dry Chillies,dry chillies,2012,Kharif     ,51284.0,47005,956.2,7733627.2,15898.04,1.012857143
+Karnataka,Dry Chillies,dry chillies,2012,Rabi       ,5430.0,14836,956.2,818844.0,1683.3,2.660769231
+Karnataka,Dry Chillies,dry chillies,2012,Summer     ,5057.0,14294,956.2,762595.6,1567.67,2.784
+Karnataka,Dry Chillies,dry chillies,2013,Kharif     ,75691.0,83944,1235.6,10936592.59,20436.57,1.309310345
+Karnataka,Dry Chillies,dry chillies,2013,Rabi       ,6672.0,12646,1235.6,964037.28,1801.44,1.907931034
+Karnataka,Dry Chillies,dry chillies,2013,Summer     ,6611.0,17564,1235.6,955223.39,1784.97,2.763076923
+Karnataka,Dry Chillies,dry chillies,2014,Kharif     ,81787.0,92568,1238.5,12346565.52,26989.71,1.257857143
+Karnataka,Dry Chillies,dry chillies,2014,Rabi       ,7842.0,14712,1238.5,1183828.32,2587.86,1.874137931
+Karnataka,Dry Chillies,dry chillies,2014,Summer     ,5820.0,11208,1238.5,878587.2,1920.6,1.929166667
+Karnataka,Dry Chillies,dry chillies,2015,Kharif     ,88799.0,77057,1024.9,14022250.09,29303.67,1.017586207
+Karnataka,Dry Chillies,dry chillies,2015,Rabi       ,7744.0,15656,1024.9,1222855.04,2555.52,2.112592593
+Karnataka,Dry Chillies,dry chillies,2015,Summer     ,5747.0,10529,1024.9,907508.77,1896.51,1.8928
+Karnataka,Dry Chillies,dry chillies,2016,Kharif     ,114152.0,229899,1147.2,17493794.0,39953.2,1.907931034
+Karnataka,Dry Chillies,dry chillies,2016,Rabi       ,8982.0,19936,1147.2,1376491.5,3143.7,2.156153846
+Karnataka,Dry Chillies,dry chillies,2016,Summer     ,4468.0,10308,1147.2,684721.0,1563.8,2.288461538
+Karnataka,Dry Chillies,dry chillies,2017,Kharif     ,82844.0,155813,1111.7,13042959.36,31480.72,1.775862069
+Karnataka,Dry Chillies,dry chillies,2017,Rabi       ,10328.0,21421,1111.7,1626040.32,3924.64,2.047692308
+Karnataka,Dry Chillies,dry chillies,2017,Summer     ,7164.0,14241,1111.7,1127900.16,2722.32,2.0472
+Karnataka,Dry Chillies,dry chillies,2018,Kharif     ,157587.0,195572,1419.1,25560611.4,55155.45,1.162941176
+Karnataka,Dry Chillies,dry chillies,2019,Kharif     ,74078.0,129238,1422.3,12723637.28,27408.86,1.992352941
+Karnataka,Garlic,garlic,2002,Whole Year ,5344.0,3983,860.8,505916.48,1336.0,1.382
+Karnataka,Garlic,garlic,2003,Whole Year ,3970.0,2902,867.6,392950.6,952.8,1.331764706
+Karnataka,Garlic,garlic,2004,Whole Year ,5202.0,3584,1117.7,563584.68,1092.42,1.360625
+Karnataka,Garlic,garlic,2005,Whole Year ,4931.0,3485,1316.2,591325.52,1035.51,1.287333333
+Karnataka,Garlic,garlic,2006,Whole Year ,6615.0,4401,1146.3,844801.65,1455.3,1.276666667
+Karnataka,Garlic,garlic,2007,Whole Year ,6135.0,6340,1323.3,818409.0,981.6,1.284285714
+Karnataka,Garlic,garlic,2008,Whole Year ,5625.0,12378,1164.1,804600.0,506.25,2.644285714
+Karnataka,Garlic,garlic,2009,Whole Year ,4698.0,6603,1321.0,732042.36,798.66,1.794615385
+Karnataka,Garlic,garlic,2010,Whole Year ,4234.0,5467,1317.7,703309.74,1016.16,1.322857143
+Karnataka,Garlic,garlic,2011,Whole Year ,5100.0,6365,1178.986364,854352.0,1683.0,1.326666667
+Karnataka,Garlic,garlic,2012,Whole Year ,4238.0,5531,956.2,639090.4,1313.78,1.385625
+Karnataka,Garlic,garlic,2013,Whole Year ,5191.0,5473,1235.6,750047.59,1401.57,1.218571429
+Karnataka,Garlic,garlic,2014,Whole Year ,4725.0,5191,1238.5,713286.0,1559.25,1.254285714
+Karnataka,Garlic,garlic,2015,Whole Year ,4661.0,6276,1024.9,736018.51,1538.13,1.33875
+Karnataka,Garlic,garlic,2016,Whole Year ,6534.0,5420,1147.2,1001335.5,2286.9,1.007058824
+Karnataka,Garlic,garlic,2017,Whole Year ,5584.0,4901,1111.7,879144.96,2121.92,1.068888889
+Karnataka,Garlic,garlic,2018,Whole Year ,4006.0,26551,1419.1,649773.2,1402.1,6.4125
+Karnataka,Garlic,garlic,2019,Whole Year ,1706.0,8741,1422.3,293022.56,631.22,5.177727273
+Karnataka,Ginger,ginger,2001,Kharif     ,10677.0,140539,1002.9,1090442.01,2776.02,12.86277778
+Karnataka,Ginger,ginger,2002,Kharif     ,10940.0,143795,860.8,1035689.8,2735.0,12.796
+Karnataka,Ginger,ginger,2003,Kharif     ,8281.0,108540,867.6,819653.38,1987.44,12.818125
+Karnataka,Ginger,ginger,2004,Kharif     ,11019.0,143455,1117.7,1193798.46,2313.99,12.84
+Karnataka,Ginger,ginger,2005,Whole Year ,21669.0,282411,1316.2,2598546.48,4550.49,12.82411765
+Karnataka,Ginger,ginger,2006,Whole Year ,17472.0,228694,1146.3,2231349.12,3843.84,12.83352941
+Karnataka,Ginger,ginger,2007,Whole Year ,14780.0,303354,1323.3,1971652.0,2364.8,19.98210526
+Karnataka,Ginger,ginger,2008,Whole Year ,25475.0,811631,1164.1,3643944.0,2292.75,31.86789474
+Karnataka,Ginger,ginger,2009,Whole Year ,44837.0,1411977,1321.0,6986501.34,7622.29,31.71
+Karnataka,Ginger,ginger,2010,Whole Year ,46469.0,168165,1317.7,7718965.59,11152.56,3.717894737
+Karnataka,Ginger,ginger,2011,Whole Year ,29388.0,93513,1178.986364,4923077.76,9698.04,3.161666667
+Karnataka,Ginger,ginger,2012,Whole Year ,16513.0,526093,956.2,2490160.4,5119.03,31.67157895
+Karnataka,Ginger,ginger,2013,Whole Year ,18957.0,524048,1235.6,2739096.93,5118.39,27.30210526
+Karnataka,Ginger,ginger,2014,Whole Year ,30787.0,894354,1238.5,4647605.52,10159.71,28.71863636
+Karnataka,Ginger,ginger,2015,Whole Year ,29285.0,1093397,1024.9,4624394.35,9664.05,36.35782609
+Karnataka,Ginger,ginger,2016,Whole Year ,23088.0,583856,1147.2,3538236.0,8080.8,25.64045455
+Karnataka,Ginger,ginger,2017,Whole Year ,20809.0,537454,1111.7,3276168.96,7907.42,25.74913043
+Karnataka,Ginger,ginger,2018,Whole Year ,15858.0,244065,1419.1,2572167.6,5550.3,15.20103448
+Karnataka,Ginger,ginger,2019,Whole Year ,22388.0,234176,1422.3,3845362.88,8283.56,10.60275862
+Karnataka,Onion,onion,2001,Whole Year ,125815.0,721033,1002.9,12849485.95,32711.9,7.9108
+Karnataka,Onion,onion,2002,Whole Year ,114975.0,535821,860.8,10884683.25,28743.75,7.0436
+Karnataka,Onion,onion,2003,Whole Year ,101221.0,360469,867.6,10018854.58,24293.04,6.0956
+Karnataka,Onion,onion,2004,Whole Year ,136038.0,841333,1117.7,14738356.92,28567.98,7.8688
+Karnataka,Onion,onion,2005,Kharif     ,136344.0,759619,1316.2,16350372.48,28632.24,6.543913043
+Karnataka,Onion,onion,2005,Rabi       ,10900.0,112992,1316.2,1307128.0,2289.0,10.36952381
+Karnataka,Onion,onion,2005,Summer     ,4075.0,67545,1316.2,488674.0,855.75,16.31842105
+Karnataka,Onion,onion,2006,Whole Year ,151289.0,859132,1146.3,19321118.19,33283.58,6.4348
+Karnataka,Onion,onion,2007,Kharif     ,165668.0,987538,1323.3,22100111.2,26506.88,6.5028
+Karnataka,Onion,onion,2007,Rabi       ,11727.0,98738,1323.3,1564381.8,1876.32,8.509047619
+Karnataka,Onion,onion,2007,Summer     ,4706.0,39752,1323.3,627780.4,752.96,7.833809524
+Karnataka,Onion,onion,2008,Kharif     ,117822.0,611170,1164.1,16853258.88,10603.98,5.7176
+Karnataka,Onion,onion,2008,Rabi       ,13415.0,89581,1164.1,1918881.6,1207.35,6.771363636
+Karnataka,Onion,onion,2008,Summer     ,3775.0,20587,1164.1,539976.0,339.75,5.57952381
+Karnataka,Onion,onion,2009,Kharif     ,174311.0,615452,1321.0,27161140.02,29632.87,4.2968
+Karnataka,Onion,onion,2009,Rabi       ,13815.0,81847,1321.0,2152653.3,2348.55,7.0895
+Karnataka,Onion,onion,2009,Summer     ,3777.0,28828,1321.0,588532.14,642.09,7.65
+Karnataka,Onion,onion,2010,Kharif     ,143154.0,893739,1317.7,23779310.94,34356.96,6.8968
+Karnataka,Onion,onion,2010,Rabi       ,14430.0,98814,1317.7,2396967.3,3463.2,7.219047619
+Karnataka,Onion,onion,2010,Summer     ,4680.0,49792,1317.7,777394.8,1123.2,10.59809524
+Karnataka,Onion,onion,2011,Kharif     ,136540.0,674001,1178.986364,22873180.8,45058.2,5.5184
+Karnataka,Onion,onion,2011,Rabi       ,13695.0,108989,1178.986364,2294186.4,4519.35,8.495454545
+Karnataka,Onion,onion,2011,Summer     ,3572.0,21998,1178.986364,598381.44,1178.76,6.214285714
+Karnataka,Onion,onion,2012,Kharif     ,67739.0,359625,956.2,10215041.2,20999.09,5.5388
+Karnataka,Onion,onion,2012,Rabi       ,12087.0,79118,956.2,1822719.6,3746.97,7.056666667
+Karnataka,Onion,onion,2012,Summer     ,3543.0,20096,956.2,534284.4,1098.33,5.650952381
+Karnataka,Onion,onion,2013,Kharif     ,112723.0,745697,1235.6,16287346.27,30435.21,6.9688
+Karnataka,Onion,onion,2013,Rabi       ,19940.0,140107,1235.6,2881130.6,5383.8,7.312608696
+Karnataka,Onion,onion,2013,Summer     ,5914.0,46434,1235.6,854513.86,1596.78,8.033333333
+Karnataka,Onion,onion,2014,Kharif     ,165553.0,850280,1238.5,24991880.88,54632.49,5.48
+Karnataka,Onion,onion,2014,Rabi       ,13779.0,91319,1238.5,2080077.84,4547.07,7.599090909
+Karnataka,Onion,onion,2014,Summer     ,5782.0,28365,1238.5,872850.72,1908.06,5.114090909
+Karnataka,Onion,onion,2015,Kharif     ,173510.0,757715,1024.9,27398964.1,57258.3,4.7168
+Karnataka,Onion,onion,2015,Rabi       ,15694.0,88814,1024.9,2478239.54,5179.02,6.207083333
+Karnataka,Onion,onion,2015,Summer     ,6246.0,27006,1024.9,986305.86,2061.18,4.536666667
+Karnataka,Onion,onion,2016,Kharif     ,183065.0,1314804,1147.2,28054711.25,64072.75,7.5872
+Karnataka,Onion,onion,2016,Rabi       ,14675.0,210164,1147.2,2248943.75,5136.25,13.12625
+Karnataka,Onion,onion,2016,Summer     ,3231.0,47561,1147.2,495150.75,1130.85,14.20695652
+Karnataka,Onion,onion,2017,Kharif     ,117973.0,1302084,1111.7,18573669.12,44829.74,11.2825
+Karnataka,Onion,onion,2017,Rabi       ,21870.0,310093,1111.7,3443212.8,8310.6,13.49416667
+Karnataka,Onion,onion,2017,Summer     ,5651.0,68169,1111.7,889693.44,2147.38,11.80772727
+Karnataka,Onion,onion,2018,Kharif     ,193156.0,1462077,1419.1,31329903.2,67604.6,8.4024
+Karnataka,Onion,onion,2018,Rabi       ,16788.0,222577,1419.1,2723013.6,5875.8,12.06083333
+Karnataka,Onion,onion,2018,Summer     ,3665.0,38682,1419.1,594463.0,1282.75,10.361
+Karnataka,Onion,onion,2019,Kharif     ,155401.0,1255733,1422.3,26691675.76,57498.37,8.256153846
+Karnataka,Onion,onion,2019,Rabi       ,36940.0,515416,1422.3,6344814.4,13667.8,13.21884615
+Karnataka,Onion,onion,2019,Summer     ,10300.0,119070,1422.3,1769128.0,3811.0,11.37333333
+Karnataka,Potato,potato,2001,Whole Year ,39156.0,473407,1002.9,3999002.28,10180.56,12.815
+Karnataka,Potato,potato,2002,Whole Year ,50645.0,149282,860.8,4794562.15,12661.25,5.757142857
+Karnataka,Potato,potato,2003,Whole Year ,53076.0,342752,867.6,5253462.48,12738.24,9.008666667
+Karnataka,Potato,potato,2004,Whole Year ,51937.0,360759,1117.7,5626854.58,10906.77,10.17875
+Karnataka,Potato,potato,2005,Kharif     ,67623.0,226399,1316.2,8109350.16,14200.83,3.381333333
+Karnataka,Potato,potato,2005,Rabi       ,5416.0,97924,1316.2,649486.72,1137.36,17.84
+Karnataka,Potato,potato,2005,Summer     ,317.0,5078,1316.2,38014.64,66.57,15.45
+Karnataka,Potato,potato,2006,Whole Year ,63374.0,561001,1146.3,8093493.54,13942.28,12.976875
+Karnataka,Potato,potato,2007,Kharif     ,54981.0,181310,1323.3,7334465.4,8796.96,5.07
+Karnataka,Potato,potato,2007,Rabi       ,2957.0,36386,1323.3,394463.8,473.12,12.32909091
+Karnataka,Potato,potato,2007,Summer     ,2156.0,34500,1323.3,287610.4,344.96,15.924
+Karnataka,Potato,potato,2008,Kharif     ,67728.0,128436,1164.1,9687813.12,6095.52,2.449411765
+Karnataka,Potato,potato,2008,Rabi       ,6060.0,87080,1164.1,866822.4,545.4,15.515
+Karnataka,Potato,potato,2008,Summer     ,1907.0,30684,1164.1,272777.28,171.63,15.96333333
+Karnataka,Potato,potato,2009,Kharif     ,28305.0,175087,1321.0,4410485.1,4811.85,6.492666667
+Karnataka,Potato,potato,2009,Rabi       ,5890.0,86967,1321.0,917779.8,1001.3,15.23416667
+Karnataka,Potato,potato,2009,Summer     ,2913.0,46821,1321.0,453903.66,495.21,15.96166667
+Karnataka,Potato,potato,2010,Kharif     ,32843.0,249472,1317.7,5455550.73,7882.32,8.056875
+Karnataka,Potato,potato,2010,Rabi       ,5944.0,69194,1317.7,987357.84,1426.56,12.75454545
+Karnataka,Potato,potato,2010,Summer     ,1437.0,22093,1317.7,238700.07,344.88,15.26142857
+Karnataka,Potato,potato,2011,Kharif     ,30868.0,255098,1178.986364,5171007.36,10186.44,8.90875
+Karnataka,Potato,potato,2011,Rabi       ,6763.0,82152,1178.986364,1132937.76,2231.79,12.50666667
+Karnataka,Potato,potato,2011,Summer     ,737.0,10633,1178.986364,123462.24,243.21,14.4325
+Karnataka,Potato,potato,2012,Kharif     ,27314.0,174423,956.2,4118951.2,8467.34,7.302
+Karnataka,Potato,potato,2012,Rabi       ,6843.0,116214,956.2,1031924.4,2121.33,16.72363636
+Karnataka,Potato,potato,2012,Summer     ,729.0,15896,956.2,109933.2,225.99,21.82333333
+Karnataka,Potato,potato,2013,Kharif     ,29813.0,196133,1235.6,4307680.37,8049.51,7.544117647
+Karnataka,Potato,potato,2013,Rabi       ,7354.0,111892,1235.6,1062579.46,1985.58,15.11727273
+Karnataka,Potato,potato,2013,Summer     ,582.0,8176,1235.6,84093.18,157.14,14.03416667
+Karnataka,Potato,potato,2014,Kharif     ,33572.0,206657,1238.5,5068029.12,11078.76,6.655555556
+Karnataka,Potato,potato,2014,Rabi       ,7334.0,112971,1238.5,1107140.64,2420.22,15.352
+Karnataka,Potato,potato,2014,Summer     ,562.0,7705,1238.5,84839.52,185.46,13.72166667
+Karnataka,Potato,potato,2015,Kharif     ,31633.0,126990,1024.9,4995167.03,10438.89,4.458333333
+Karnataka,Potato,potato,2015,Rabi       ,6029.0,90778,1024.9,952039.39,1989.57,14.405
+Karnataka,Potato,potato,2015,Summer     ,464.0,7517,1024.9,73270.24,153.12,15.74090909
+Karnataka,Potato,potato,2016,Kharif     ,19963.0,196136,1147.2,3059329.75,6987.05,10.48722222
+Karnataka,Potato,potato,2016,Rabi       ,5929.0,82004,1147.2,908619.25,2075.15,13.475
+Karnataka,Potato,potato,2016,Summer     ,244.0,3796,1147.2,37393.0,85.4,15.46571429
+Karnataka,Potato,potato,2017,Kharif     ,23219.0,223849,1111.7,3655599.36,8823.22,9.301176471
+Karnataka,Potato,potato,2017,Rabi       ,5557.0,103976,1111.7,874894.08,2111.66,18.17769231
+Karnataka,Potato,potato,2017,Summer     ,1705.0,23510,1111.7,268435.2,647.9,14.78714286
+Karnataka,Potato,potato,2018,Kharif     ,21372.0,169235,1419.1,3466538.4,7480.2,8.165862069
+Karnataka,Potato,potato,2018,Rabi       ,6482.0,98231,1419.1,1051380.4,2268.7,14.73
+Karnataka,Potato,potato,2018,Summer     ,410.0,6626,1419.1,66502.0,143.5,16.26142857
+Karnataka,Potato,potato,2019,Kharif     ,17797.0,124958,1422.3,3056812.72,6584.89,7.178214286
+Karnataka,Potato,potato,2019,Rabi       ,4477.0,69340,1422.3,768969.52,1656.49,15.27291667
+Karnataka,Potato,potato,2019,Summer     ,458.0,7162,1422.3,78666.08,169.46,15.88222222
+Karnataka,Sweet potato,sweet potato,2002,Whole Year ,3390.0,26917,860.8,320931.3,847.5,6.286
+Karnataka,Sweet potato,sweet potato,2003,Whole Year ,3580.0,28718,867.6,354348.4,859.2,6.229333333
+Karnataka,Sweet potato,sweet potato,2004,Whole Year ,3583.0,29199,1117.7,388182.22,752.43,6.102142857
+Karnataka,Sweet potato,sweet potato,2005,Whole Year ,3356.0,27360,1316.2,402451.52,704.76,6.076153846
+Karnataka,Sweet potato,sweet potato,2006,Whole Year ,3014.0,25028,1146.3,384917.94,663.08,6.240714286
+Karnataka,Sweet potato,sweet potato,2007,Whole Year ,2887.0,24141,1323.3,385125.8,461.92,6.37625
+Karnataka,Sweet potato,sweet potato,2008,Whole Year ,2592.0,26230,1164.1,370759.68,233.28,10.14066667
+Karnataka,Sweet potato,sweet potato,2009,Whole Year ,2397.0,15751,1321.0,373500.54,407.49,6.936666667
+Karnataka,Sweet potato,sweet potato,2010,Whole Year ,2060.0,16977,1317.7,342186.6,494.4,8.400666667
+Karnataka,Sweet potato,sweet potato,2011,Whole Year ,1836.0,26754,1178.986364,307566.72,605.88,14.10642857
+Karnataka,Sweet potato,sweet potato,2012,Whole Year ,3450.0,53516,956.2,520260.0,1069.5,14.994375
+Karnataka,Sweet potato,sweet potato,2013,Whole Year ,3125.0,45861,1235.6,451531.25,843.75,13.866
+Karnataka,Sweet potato,sweet potato,2014,Whole Year ,3385.0,57413,1238.5,510999.6,1117.05,16.24142857
+Karnataka,Sweet potato,sweet potato,2015,Whole Year ,3207.0,50994,1024.9,506417.37,1058.31,14.82866667
+Karnataka,Sweet potato,sweet potato,2016,Whole Year ,3079.0,36908,1147.2,471856.75,1077.65,11.27153846
+Karnataka,Sweet potato,sweet potato,2017,Whole Year ,2766.0,35891,1111.7,435479.04,1051.08,12.25
+Karnataka,Sweet potato,sweet potato,2018,Whole Year ,5032.0,73050,1419.1,816190.4,1761.2,14.20703704
+Karnataka,Sweet potato,sweet potato,2019,Whole Year ,5105.0,98495,1422.3,876834.8,1888.85,18.80518519
+Karnataka,Tapioca,tapioca,2002,Whole Year ,1078.0,8470,860.8,102054.26,269.5,9.604285714
+Karnataka,Tapioca,tapioca,2003,Whole Year ,1058.0,8357,867.6,104720.84,253.92,9.595714286
+Karnataka,Tapioca,tapioca,2004,Whole Year ,1066.0,8428,1117.7,115490.44,223.86,9.385
+Karnataka,Tapioca,tapioca,2005,Whole Year ,841.0,6993,1316.2,100852.72,176.61,9.59
+Karnataka,Tapioca,tapioca,2006,Whole Year ,815.0,6869,1146.3,104083.65,179.3,9.43375
+Karnataka,Tapioca,tapioca,2007,Whole Year ,774.0,6393,1323.3,103251.6,123.84,9.747142857
+Karnataka,Tapioca,tapioca,2008,Whole Year ,872.0,8464,1164.1,124730.88,78.48,9.78875
+Karnataka,Tapioca,tapioca,2009,Whole Year ,881.0,8161,1321.0,137277.42,149.77,9.647777778
+Karnataka,Tapioca,tapioca,2010,Whole Year ,879.0,9712,1317.7,146010.69,210.96,11.11777778
+Karnataka,Tapioca,tapioca,2011,Whole Year ,860.0,9077,1178.986364,144067.2,283.8,10.35222222
+Karnataka,Tapioca,tapioca,2012,Whole Year ,892.0,9424,956.2,134513.6,276.52,10.38090909
+Karnataka,Tapioca,tapioca,2013,Whole Year ,772.0,6751,1235.6,111546.28,208.44,8.904444444
+Karnataka,Tapioca,tapioca,2014,Whole Year ,730.0,6557,1238.5,110200.8,240.9,9.176666667
+Karnataka,Tapioca,tapioca,2015,Whole Year ,1277.0,9560,1024.9,201651.07,421.41,7.701818182
+Karnataka,Tapioca,tapioca,2016,Whole Year ,687.0,4166,1147.2,105282.75,240.45,6.5375
+Karnataka,Tapioca,tapioca,2017,Whole Year ,731.0,6116,1111.7,115088.64,277.78,8.602
+Karnataka,Tapioca,tapioca,2018,Whole Year ,635.0,8439,1419.1,102997.0,222.25,13.2452381
+Karnataka,Tapioca,tapioca,2019,Whole Year ,860.0,10921,1422.3,147713.6,318.2,12.70956522
+Karnataka,Turmeric,turmeric,2001,Whole Year ,7058.0,36369,1002.9,720833.54,1835.08,4.797272727
+Karnataka,Turmeric,turmeric,2002,Whole Year ,6596.0,28603,860.8,624443.32,1649.0,4.04952381
+Karnataka,Turmeric,turmeric,2003,Whole Year ,5410.0,26381,867.6,535481.8,1298.4,4.343809524
+Karnataka,Turmeric,turmeric,2004,Whole Year ,4080.0,19386,1117.7,442027.2,856.8,4.482857143
+Karnataka,Turmeric,turmeric,2005,Whole Year ,6346.0,33891,1316.2,761012.32,1332.66,5.556363636
+Karnataka,Turmeric,turmeric,2006,Whole Year ,7477.0,37752,1146.3,954887.67,1644.94,4.7735
+Karnataka,Turmeric,turmeric,2007,Whole Year ,13500.0,104980,1323.3,1800900.0,2160.0,7.861111111
+Karnataka,Turmeric,turmeric,2008,Whole Year ,14159.0,67404,1164.1,2025303.36,1274.31,4.191052632
+Karnataka,Turmeric,turmeric,2009,Whole Year ,17873.0,89932,1321.0,2784970.86,3038.41,4.762941176
+Karnataka,Turmeric,turmeric,2010,Whole Year ,14162.0,70158,1317.7,2352449.82,3398.88,4.3825
+Karnataka,Turmeric,turmeric,2011,Whole Year ,25525.0,128206,1178.986364,4275948.0,8423.25,4.57875
+Karnataka,Turmeric,turmeric,2012,Whole Year ,19688.0,92405,956.2,2968950.4,6103.28,4.742173913
+Karnataka,Turmeric,turmeric,2013,Whole Year ,13356.0,63617,1235.6,1929808.44,3606.12,4.687
+Karnataka,Turmeric,turmeric,2014,Whole Year ,12824.0,76777,1238.5,1935911.04,4231.92,5.373684211
+Karnataka,Turmeric,turmeric,2015,Whole Year ,14994.0,76490,1024.9,2367702.54,4948.02,4.693888889
+Karnataka,Turmeric,turmeric,2016,Whole Year ,19327.0,114511,1147.2,2961862.75,6764.45,5.775294118
+Karnataka,Turmeric,turmeric,2017,Whole Year ,19339.0,122764,1111.7,3044732.16,7348.82,6.2215
+Karnataka,Turmeric,turmeric,2018,Whole Year ,26579.0,153767,1419.1,4311113.8,9302.65,5.617142857
+Karnataka,Turmeric,turmeric,2019,Whole Year ,20740.0,132668,1422.3,3562302.4,7673.8,6.133571429
+Kerala,Banana,banana,2001,Whole Year ,50871.0,375903,2946.7,5195455.23,13226.46,7.347857143
+Kerala,Banana,banana,2002,Whole Year ,55668.0,421809,2511.2,5270089.56,13917.0,8.055714286
+Kerala,Banana,banana,2003,Whole Year ,55906.0,442220,2386.0,5533575.88,13417.44,8.215
+Kerala,Banana,banana,2004,Whole Year ,58866.0,475371,2880.2,6377542.44,12361.86,7.803571429
+Kerala,Banana,banana,2005,Whole Year ,61400.0,491823,3030.9,7363088.0,12894.0,8.060714286
+Kerala,Banana,banana,2006,Whole Year ,59143.0,463766,3429.7,7553152.53,13011.46,7.988571429
+Kerala,Banana,banana,2007,Whole Year ,59341.0,439803,3489.6,7916089.4,9494.56,7.534285714
+Kerala,Banana,banana,2008,Whole Year ,54739.0,435979,2524.8,7829866.56,4926.51,7.93
+Kerala,Banana,banana,2009,Whole Year ,51275.0,406242,2821.5,7989670.5,8716.75,7.835714286
+Kerala,Banana,banana,2010,Whole Year ,58671.14,483667,3131.8,9745863.065,14081.0736,8.239285714
+Kerala,Banana,banana,2011,Whole Year ,59069.4,514054,3035.1,9895305.888,19492.902,8.229285714
+Kerala,Banana,banana,2012,Whole Year ,61011.0,515607,2187.6,9200458.8,18913.41,8.320714286
+Kerala,Banana,banana,2013,Whole Year ,62261.0,531299,3255.4,8996091.89,16810.47,8.377857143
+Kerala,Banana,banana,2014,Whole Year ,61936.0,545431,3046.4,9349858.56,20438.88,8.282857143
+Kerala,Banana,banana,2015,Whole Year ,59834.61,536155,2602.9,9448483.265,19745.4213,8.779285714
+Kerala,Banana,banana,2016,Whole Year ,57158.0,489322,2924.3,8759463.5,20005.3,8.442857143
+Kerala,Banana,banana,2017,Whole Year ,62108.0,565829,2664.8,9778283.52,23601.04,8.570714286
+Kerala,Banana,banana,2018,Whole Year ,52898.61,429061,2989.7,8580154.542,18514.5135,7.930714286
+Kerala,Banana,banana,2019,Whole Year ,60678.0,548425,3119.2,10422053.28,22450.86,8.815
+Kerala,Black pepper,black pepper,2001,Whole Year ,203956.0,58240,2946.7,20830026.28,53028.56,0.214285714
+Kerala,Black pepper,black pepper,2002,Whole Year ,208607.0,67358,2511.2,19748824.69,52151.75,0.222142857
+Kerala,Black pepper,black pepper,2003,Whole Year ,216440.0,69015,2386.0,21423231.2,51945.6,0.222857143
+Kerala,Black pepper,black pepper,2004,Whole Year ,237669.0,74980,2880.2,25749059.46,49910.49,0.222857143
+Kerala,Black pepper,black pepper,2005,Whole Year ,237998.0,87605,3030.9,28540720.16,49979.58,0.239285714
+Kerala,Black pepper,black pepper,2006,Whole Year ,216709.0,64264,3429.7,27675906.39,47675.98,0.217857143
+Kerala,Black pepper,black pepper,2007,Whole Year ,175679.0,41952,3489.6,23435578.6,28108.64,0.19
+Kerala,Black pepper,black pepper,2008,Whole Year ,153711.0,33991,2524.8,21986821.44,13833.99,0.182857143
+Kerala,Black pepper,black pepper,2009,Whole Year ,171489.0,42460,2821.5,26721415.98,29153.13,0.190714286
+Kerala,Black pepper,black pepper,2010,Whole Year ,172181.55,45267,3131.8,28601077.27,41323.572,0.180714286
+Kerala,Black pepper,black pepper,2011,Whole Year ,85335.38,37501,3035.1,14295382.86,28160.6754,0.369285714
+Kerala,Black pepper,black pepper,2012,Whole Year ,84707.0,46298,2187.6,12773815.6,26259.17,0.391428571
+Kerala,Black pepper,black pepper,2013,Whole Year ,84065.0,29408,3255.4,12146551.85,22697.55,0.352142857
+Kerala,Black pepper,black pepper,2014,Whole Year ,85431.0,40690,3046.4,12896663.76,28192.23,0.382857143
+Kerala,Black pepper,black pepper,2015,Whole Year ,85947.77,42132,2602.9,13572012.36,28362.7641,0.354285714
+Kerala,Black pepper,black pepper,2016,Whole Year ,85207.0,34065,2924.3,13057972.75,29822.45,0.35
+Kerala,Black pepper,black pepper,2017,Whole Year ,85141.0,37955,2664.8,13404599.04,32353.58,0.335
+Kerala,Black pepper,black pepper,2018,Whole Year ,82761.41,36777,2989.7,13423900.7,28966.4935,0.328571429
+Kerala,Black pepper,black pepper,2019,Whole Year ,83765.0,34545,3119.2,14387476.4,30993.05,0.327142857
+Kerala,Coconut,coconut,2001,Whole Year ,905718.0,5479000000,2946.7,92500979.34,235486.68,5636.355
+Kerala,Coconut,coconut,2002,Whole Year ,899198.0,5709000000,2511.2,85127074.66,224799.5,5969.78
+Kerala,Coconut,coconut,2003,Whole Year ,898498.0,5876000000,2386.0,88933332.04,215639.52,6097.778571
+Kerala,Coconut,coconut,2004,Whole Year ,899267.0,6001000000,2880.2,97426586.78,188846.07,6112.145714
+Kerala,Coconut,coconut,2005,Whole Year ,897833.0,6326000000,3030.9,107668133.4,188544.93,6500.859286
+Kerala,Coconut,coconut,2006,Whole Year ,872943.0,6054000000,3429.7,111483550.5,192047.46,6522.32
+Kerala,Coconut,coconut,2007,Whole Year ,818812.0,5641000000,3489.6,109229520.8,131009.92,6390.165714
+Kerala,Coconut,coconut,2008,Whole Year ,787769.0,5802000000,2524.8,112682477.8,70899.21,6765.202857
+Kerala,Coconut,coconut,2009,Whole Year ,778618.0,5667000000,2821.5,121324256.8,132365.06,6728.865
+Kerala,Coconut,coconut,2010,Whole Year ,770473.13,5286561000,3131.8,127983291.6,184913.5512,6501.544286
+Kerala,Coconut,coconut,2011,Whole Year ,820866.94,5940564000,3035.1,137511629.8,270886.0902,6884.550714
+Kerala,Coconut,coconut,2012,Whole Year ,798162.0,5799000000,2187.6,120362829.6,247430.22,6706.261429
+Kerala,Coconut,coconut,2013,Whole Year ,808647.0,5921000000,3255.4,116841405.0,218334.69,6785.354286
+Kerala,Coconut,coconut,2014,Whole Year ,793856.0,5947000000,3046.4,119840501.8,261972.48,6883.315
+Kerala,Coconut,coconut,2015,Whole Year ,790223.0,5873000000,2602.9,124784113.9,260773.59,6721.946429
+Kerala,Coconut,coconut,2016,Whole Year ,781496.0,5384000000,2924.3,119764262.0,273523.6,6418.719286
+Kerala,Coconut,coconut,2017,Whole Year ,760443.0,5230000000,2664.8,119724145.9,288968.34,6400.547143
+Kerala,Coconut,coconut,2018,Whole Year ,760946.81,5299000000,2989.7,123425572.6,266331.3835,6426.82
+Kerala,Coconut,coconut,2019,Whole Year ,760776.0,4814000000,3119.2,130670885.8,281487.12,5882.037143
+Kerala,Garlic,garlic,2001,Whole Year ,293.0,4981,2946.7,29924.09,76.18,17.0
+Kerala,Garlic,garlic,2002,Whole Year ,616.0,10472,2511.2,58316.72,154.0,17.0
+Kerala,Garlic,garlic,2003,Whole Year ,638.0,10846,2386.0,63149.24,153.12,17.0
+Kerala,Garlic,garlic,2004,Whole Year ,306.0,5202,2880.2,33152.04,64.26,17.0
+Kerala,Garlic,garlic,2005,Whole Year ,65.0,1105,3030.9,7794.8,13.65,17.0
+Kerala,Garlic,garlic,2006,Whole Year ,221.0,3757,3429.7,28223.91,48.62,17.0
+Kerala,Garlic,garlic,2007,Whole Year ,350.0,5950,3489.6,46690.0,56.0,17.0
+Kerala,Garlic,garlic,2008,Whole Year ,320.0,5440,2524.8,45772.8,28.8,17.0
+Kerala,Garlic,garlic,2009,Whole Year ,336.0,5712,2821.5,52355.52,57.12,17.0
+Kerala,Garlic,garlic,2012,Whole Year ,72.0,658,2187.6,10857.6,22.32,9.14
+Kerala,Garlic,garlic,2013,Whole Year ,146.0,1314,3255.4,21095.54,39.42,9.0
+Kerala,Garlic,garlic,2014,Whole Year ,75.0,625,3046.4,11322.0,24.75,8.33
+Kerala,Garlic,garlic,2015,Whole Year ,62.0,375,2602.9,9790.42,20.46,6.05
+Kerala,Garlic,garlic,2016,Whole Year ,77.0,380,2924.3,11800.25,26.95,4.94
+Kerala,Garlic,garlic,2017,Whole Year ,71.0,398,2664.8,11178.24,26.98,5.61
+Kerala,Garlic,garlic,2018,Whole Year ,69.61,345,2989.7,11290.742,24.3635,4.96
+Kerala,Garlic,garlic,2019,Whole Year ,191.0,990,3119.2,32806.16,70.67,5.18
+Kerala,Ginger,ginger,2001,Whole Year ,10706.0,40181,2946.7,1093403.78,2783.56,3.167857143
+Kerala,Ginger,ginger,2002,Whole Year ,8998.0,32412,2511.2,851840.66,2249.5,2.951428571
+Kerala,Ginger,ginger,2003,Whole Year ,8516.0,32972,2386.0,842913.68,2043.84,2.874285714
+Kerala,Ginger,ginger,2004,Whole Year ,9991.0,45305,2880.2,1082424.94,2098.11,3.022857143
+Kerala,Ginger,ginger,2005,Whole Year ,12226.0,56288,3030.9,1466141.92,2567.46,3.258571429
+Kerala,Ginger,ginger,2006,Whole Year ,11082.0,42496,3429.7,1415282.22,2438.04,3.239285714
+Kerala,Ginger,ginger,2007,Whole Year ,8865.0,31726,3489.6,1182591.0,1418.4,3.017142857
+Kerala,Ginger,ginger,2008,Whole Year ,7421.0,30809,2524.8,1061499.84,667.89,3.17
+Kerala,Ginger,ginger,2009,Whole Year ,5408.0,28603,2821.5,842674.56,919.36,3.402142857
+Kerala,Ginger,ginger,2010,Whole Year ,6087.93,33197,3131.8,1011266.052,1461.1032,3.533571429
+Kerala,Ginger,ginger,2011,Whole Year ,6907.59,37125,3035.1,1157159.477,2279.5047,3.563571429
+Kerala,Ginger,ginger,2012,Whole Year ,4505.0,22064,2187.6,679354.0,1396.55,3.365714286
+Kerala,Ginger,ginger,2013,Whole Year ,4538.0,21521,3255.4,655695.62,1225.26,3.392857143
+Kerala,Ginger,ginger,2014,Whole Year ,4800.0,22989,3046.4,724608.0,1584.0,3.689285714
+Kerala,Ginger,ginger,2015,Whole Year ,4986.01,22044,2602.9,787340.8391,1645.3833,3.549285714
+Kerala,Ginger,ginger,2016,Whole Year ,5151.0,20478,2924.3,789390.75,1802.85,3.160714286
+Kerala,Ginger,ginger,2017,Whole Year ,4370.0,18979,2664.8,688012.8,1660.6,3.752857143
+Kerala,Ginger,ginger,2018,Whole Year ,3275.09,15124,2989.7,531219.598,1146.2815,3.463571429
+Kerala,Ginger,ginger,2019,Whole Year ,2819.0,11917,3119.2,484191.44,1043.03,3.65
+Kerala,Onion,onion,2012,Whole Year ,40.0,0,2187.6,6032.0,12.4,0.0
+Kerala,Onion,onion,2013,Whole Year ,103.0,0,3255.4,14882.47,27.81,0.0
+Kerala,Onion,onion,2014,Whole Year ,61.0,0,3046.4,9208.56,20.13,0.0
+Kerala,Onion,onion,2015,Whole Year ,27.0,0,2602.9,4263.57,8.91,0.0
+Kerala,Onion,onion,2016,Whole Year ,31.0,0,2924.3,4750.75,10.85,0.0
+Kerala,Onion,onion,2017,Whole Year ,9.0,0,2664.8,1416.96,3.42,0.0
+Kerala,Onion,onion,2018,Whole Year ,5.21,0,2989.7,845.062,1.8235,0.0
+Kerala,Potato,potato,2011,Whole Year ,386.0,4827,3035.1,64662.72,127.38,11.5
+Kerala,Potato,potato,2012,Whole Year ,975.0,19050,2187.6,147030.0,302.25,18.905
+Kerala,Potato,potato,2013,Whole Year ,759.0,14846,3255.4,109667.91,204.93,19.56
+Kerala,Potato,potato,2014,Whole Year ,852.0,15811,3046.4,128617.92,281.16,18.56
+Kerala,Potato,potato,2015,Whole Year ,491.0,6581,2602.9,77533.81,162.03,7.215
+Kerala,Potato,potato,2016,Whole Year ,556.0,8823,2924.3,85207.0,194.6,15.87
+Kerala,Potato,potato,2017,Whole Year ,516.0,7303,2664.8,81239.04,196.08,14.15
+Kerala,Potato,potato,2018,Whole Year ,536.9,7381,2989.7,87085.18,187.915,13.75
+Kerala,Potato,potato,2019,Whole Year ,490.0,6569,3119.2,84162.4,181.3,13.41
+Kerala,Sweet potato,sweet potato,2001,Whole Year ,747.0,8672,2946.7,76291.11,194.22,11.49153846
+Kerala,Sweet potato,sweet potato,2002,Whole Year ,850.0,10463,2511.2,80469.5,212.5,11.46928571
+Kerala,Sweet potato,sweet potato,2003,Whole Year ,1002.0,11981,2386.0,99177.96,240.48,11.52307692
+Kerala,Sweet potato,sweet potato,2004,Whole Year ,836.0,10013,2880.2,90572.24,175.56,11.52769231
+Kerala,Sweet potato,sweet potato,2005,Whole Year ,711.0,9013,3030.9,85263.12,149.31,11.48692308
+Kerala,Sweet potato,sweet potato,2006,Whole Year ,505.0,6405,3429.7,64493.55,111.1,11.50071429
+Kerala,Sweet potato,sweet potato,2007,Whole Year ,499.0,6343,3489.6,66566.6,79.84,11.49785714
+Kerala,Sweet potato,sweet potato,2008,Whole Year ,386.0,4827,2524.8,55213.44,34.74,11.5
+Kerala,Sweet potato,sweet potato,2009,Whole Year ,399.0,4575,2821.5,62172.18,67.83,11.49857143
+Kerala,Sweet potato,sweet potato,2012,Whole Year ,282.0,4780,2187.6,42525.6,87.42,13.72230769
+Kerala,Sweet potato,sweet potato,2013,Whole Year ,330.0,5451,3255.4,47681.7,89.1,14.14285714
+Kerala,Sweet potato,sweet potato,2014,Whole Year ,361.0,5123,3046.4,54496.56,119.13,13.18642857
+Kerala,Sweet potato,sweet potato,2015,Whole Year ,279.0,3922,2602.9,44056.89,92.07,13.18642857
+Kerala,Sweet potato,sweet potato,2016,Whole Year ,220.0,3086,2924.3,33715.0,77.0,13.35923077
+Kerala,Sweet potato,sweet potato,2017,Whole Year ,295.0,4277,2664.8,46444.8,112.1,13.17785714
+Kerala,Sweet potato,sweet potato,2018,Whole Year ,210.41,3059,2989.7,34128.502,73.6435,13.17714286
+Kerala,Sweet potato,sweet potato,2019,Whole Year ,194.0,2782,3119.2,33321.44,71.78,13.1125
+Kerala,Tapioca,tapioca,2001,Whole Year ,111189.0,2455880,2946.7,11355732.57,28909.14,23.09642857
+Kerala,Tapioca,tapioca,2002,Whole Year ,104179.0,2413217,2511.2,9862625.93,26044.75,24.47785714
+Kerala,Tapioca,tapioca,2003,Whole Year ,94297.0,2540790,2386.0,9333517.06,22631.28,28.62785714
+Kerala,Tapioca,tapioca,2004,Whole Year ,88486.0,2400043,2880.2,9586573.24,18582.06,28.10571429
+Kerala,Tapioca,tapioca,2005,Whole Year ,90539.0,2568284,3030.9,10857436.88,19013.19,28.00928571
+Kerala,Tapioca,tapioca,2006,Whole Year ,87128.0,2518999,3429.7,11127116.88,19168.16,29.46214286
+Kerala,Tapioca,tapioca,2007,Whole Year ,83990.0,2556455,3489.6,11204266.0,13438.4,29.41142857
+Kerala,Tapioca,tapioca,2008,Whole Year ,87241.0,2712114,2524.8,12478952.64,7851.69,31.64142857
+Kerala,Tapioca,tapioca,2009,Whole Year ,74925.0,2525384,2821.5,11674813.5,12737.25,34.51142857
+Kerala,Tapioca,tapioca,2010,Whole Year ,72284.1,2408962,3131.8,12007111.85,17348.184,34.24
+Kerala,Tapioca,tapioca,2011,Whole Year ,74497.84,2547399,3035.1,12479878.16,24584.2872,34.15642857
+Kerala,Tapioca,tapioca,2012,Whole Year ,69586.0,2458515,2187.6,10493568.8,21571.66,35.29428571
+Kerala,Tapioca,tapioca,2013,Whole Year ,67589.0,2473070,3255.4,9765934.61,18249.03,36.01214286
+Kerala,Tapioca,tapioca,2014,Whole Year ,75493.0,2943919,3046.4,11396423.28,24912.69,38.105
+Kerala,Tapioca,tapioca,2015,Whole Year ,69404.71,2662610,2602.9,10959697.76,22903.5543,38.13857143
+Kerala,Tapioca,tapioca,2016,Whole Year ,68664.0,2529729,2924.3,10522758.0,24032.4,36.88928571
+Kerala,Tapioca,tapioca,2017,Whole Year ,70193.0,2697319,2664.8,11051185.92,26673.34,38.12142857
+Kerala,Tapioca,tapioca,2018,Whole Year ,61874.16,2325006,2989.7,10035988.75,21655.956,36.30214286
+Kerala,Tapioca,tapioca,2019,Whole Year ,62070.0,2592633,3119.2,10661143.2,22965.9,41.95142857
+Kerala,Turmeric,turmeric,2001,Whole Year ,3558.0,7895,2946.7,363378.54,925.08,2.066428571
+Kerala,Turmeric,turmeric,2002,Whole Year ,3140.0,6938,2511.2,297263.8,785.0,2.062857143
+Kerala,Turmeric,turmeric,2003,Whole Year ,2774.0,5652,2386.0,274570.52,665.76,1.967857143
+Kerala,Turmeric,turmeric,2004,Whole Year ,2881.0,6244,2880.2,312127.54,605.01,2.025
+Kerala,Turmeric,turmeric,2005,Whole Year ,3384.0,8237,3030.9,405809.28,710.64,2.211428571
+Kerala,Turmeric,turmeric,2006,Whole Year ,3917.0,9980,3429.7,500240.07,861.74,2.168571429
+Kerala,Turmeric,turmeric,2007,Whole Year ,3155.0,7434,3489.6,420877.0,504.8,2.167857143
+Kerala,Turmeric,turmeric,2008,Whole Year ,2782.0,6364,2524.8,397937.28,250.38,2.169285714
+Kerala,Turmeric,turmeric,2009,Whole Year ,2438.0,6066,2821.5,379889.16,414.46,2.276428571
+Kerala,Turmeric,turmeric,2010,Whole Year ,2390.78,6198,3131.8,397132.4658,573.7872,2.415
+Kerala,Turmeric,turmeric,2011,Whole Year ,2970.45,7946,3035.1,497609.784,980.2485,2.467142857
+Kerala,Turmeric,turmeric,2012,Whole Year ,2628.0,6904,2187.6,396302.4,814.68,2.421428571
+Kerala,Turmeric,turmeric,2013,Whole Year ,2430.0,6253,3255.4,351110.7,656.1,2.362857143
+Kerala,Turmeric,turmeric,2014,Whole Year ,2470.0,6820,3046.4,372871.2,815.1,2.691428571
+Kerala,Turmeric,turmeric,2015,Whole Year ,2602.89,7112,2602.9,411022.3599,858.9537,2.628571429
+Kerala,Turmeric,turmeric,2016,Whole Year ,2632.0,6506,2924.3,403354.0,921.2,2.429285714
+Kerala,Turmeric,turmeric,2017,Whole Year ,2778.0,8822,2664.8,437368.32,1055.64,3.020714286
+Kerala,Turmeric,turmeric,2018,Whole Year ,2483.71,6694,2989.7,402857.762,869.2985,2.630714286
+Kerala,Turmeric,turmeric,2019,Whole Year ,2277.0,6653,3119.2,391097.52,842.49,2.848571429
+Madhya Pradesh,Banana,banana,2001,Whole Year ,18145.0,564818,955.0,1853148.85,4717.7,26.1695
+Madhya Pradesh,Banana,banana,2002,Whole Year ,16117.0,363109,800.8,1525796.39,4029.25,17.72565217
+Madhya Pradesh,Banana,banana,2003,Whole Year ,15985.0,457194,1163.0,1582195.3,3836.4,17.95652174
+Madhya Pradesh,Banana,banana,2006,Whole Year ,14836.0,469134,1072.3,1894705.56,3263.92,21.7195
+Madhya Pradesh,Banana,banana,2007,Whole Year ,7543.0,470299,740.4,1006236.2,1206.88,43.1125
+Madhya Pradesh,Banana,banana,2008,Whole Year ,7847.0,397231,895.0,1122434.88,706.23,33.19923077
+Madhya Pradesh,Banana,banana,2009,Whole Year ,8040.0,501350,904.1,1252792.8,1366.8,44.35692308
+Madhya Pradesh,Banana,banana,2010,Whole Year ,8102.0,433263,856.3,1345823.22,1944.48,34.189375
+Madhya Pradesh,Banana,banana,2011,Whole Year ,16990.0,599932,852.6,2846164.8,5606.7,19.14631579
+Madhya Pradesh,Banana,banana,2012,Whole Year ,18019.0,638870,1049.5,2717265.2,5585.89,13.7473913
+Madhya Pradesh,Banana,banana,2013,Whole Year ,18637.0,1510351,1451.4,2692860.13,5031.99,41.16705882
+Madhya Pradesh,Banana,banana,2015,Whole Year ,22631.6,1535834,1000.7,3573755.956,7468.428,44.46521739
+Madhya Pradesh,Banana,banana,2016,Whole Year ,26969.8,1873689,1048.4,4133121.85,9439.43,44.61416667
+Madhya Pradesh,Banana,banana,2017,Whole Year ,26375.05,1834029,800.0,4152487.872,10022.519,47.73208333
+Madhya Pradesh,Banana,banana,2018,Whole Year ,26541.39,1853026,1102.2,4305013.458,9289.4865,48.04833333
+Madhya Pradesh,Banana,banana,2019,Whole Year ,26634.09,1847636,1446.7,4574671.298,9854.6133,47.165
+Madhya Pradesh,Coriander,coriander,2001,Whole Year ,103753.0,37967,955.0,10596293.89,26975.78,0.345813953
+Madhya Pradesh,Coriander,coriander,2002,Whole Year ,62042.0,12664,800.8,5873516.14,15510.5,0.285909091
+Madhya Pradesh,Coriander,coriander,2003,Whole Year ,125074.0,46968,1163.0,12379824.52,30017.76,0.335957447
+Madhya Pradesh,Coriander,coriander,2004,Whole Year ,136352.0,52565,895.7,14772375.68,28633.92,0.339782609
+Madhya Pradesh,Coriander,coriander,2006,Whole Year ,116571.0,49879,1072.3,14887282.41,25645.62,0.339565217
+Madhya Pradesh,Coriander,coriander,2007,Whole Year ,138113.0,44656,740.4,18424274.2,22098.08,0.309787234
+Madhya Pradesh,Coriander,coriander,2008,Whole Year ,141394.0,59075,895.0,20224997.76,12725.46,0.348297872
+Madhya Pradesh,Coriander,coriander,2009,Whole Year ,150426.0,70473,904.1,23439379.32,25572.42,0.367391304
+Madhya Pradesh,Coriander,coriander,2010,Whole Year ,174966.0,68864,856.3,29063602.26,41991.84,0.3425
+Madhya Pradesh,Coriander,coriander,2011,Whole Year ,158099.0,70512,852.6,26484744.48,52172.67,0.38
+Madhya Pradesh,Coriander,coriander,2012,Whole Year ,136731.0,83367,1049.5,20619034.8,42386.61,0.42625
+Madhya Pradesh,Coriander,coriander,2013,Whole Year ,143986.0,94851,1451.4,20804537.14,38876.22,0.465
+Madhya Pradesh,Coriander,coriander,2015,Whole Year ,249102.44,351052,1000.7,39335766.3,82203.8052,2.540625
+Madhya Pradesh,Coriander,coriander,2016,Whole Year ,275762.83,387428,1048.4,42260653.7,96516.9905,1.590612245
+Madhya Pradesh,Coriander,coriander,2017,Whole Year ,279836.92,390551,800.0,44057524.68,106338.0296,1.603877551
+Madhya Pradesh,Coriander,coriander,2018,Whole Year ,279980.0,378236,1102.2,45412756.0,97993.0,1.6896
+Madhya Pradesh,Coriander,coriander,2019,Whole Year ,292287.88,394760,1446.7,50203366.27,108146.5156,1.5634
+Madhya Pradesh,Dry Chillies,dry chillies,2001,Whole Year ,39686.0,22145,955.0,4053131.18,10318.36,0.484666667
+Madhya Pradesh,Dry Chillies,dry chillies,2002,Whole Year ,43928.0,31627,800.8,4158663.76,10982.0,0.528666667
+Madhya Pradesh,Dry Chillies,dry chillies,2003,Whole Year ,48810.0,38365,1163.0,4831213.8,11714.4,0.623958333
+Madhya Pradesh,Dry Chillies,dry chillies,2006,Whole Year ,47381.0,40748,1072.3,6051027.51,10423.82,0.719791667
+Madhya Pradesh,Dry Chillies,dry chillies,2009,Whole Year ,54162.0,90505,904.1,8439522.84,9207.54,1.4066
+Madhya Pradesh,Dry Chillies,dry chillies,2010,Whole Year ,54136.0,131713,856.3,8992530.96,12992.64,1.942244898
+Madhya Pradesh,Dry Chillies,dry chillies,2011,Whole Year ,57863.0,95243,852.6,9693209.76,19094.79,1.296326531
+Madhya Pradesh,Dry Chillies,dry chillies,2012,Whole Year ,70602.0,184624,1049.5,10646781.6,21886.62,1.85755102
+Madhya Pradesh,Dry Chillies,dry chillies,2013,Whole Year ,71877.0,132326,1451.4,10385507.73,19406.79,1.165
+Madhya Pradesh,Dry Chillies,dry chillies,2015,Whole Year ,103711.81,371435,1000.7,16377131.92,34224.8973,4.328095238
+Madhya Pradesh,Dry Chillies,dry chillies,2016,Whole Year ,98537.8,303625,1048.4,15100917.85,34488.23,3.738372093
+Madhya Pradesh,Dry Chillies,dry chillies,2017,Whole Year ,94414.9,232703,800.0,14864681.86,35877.662,2.935581395
+Madhya Pradesh,Dry Chillies,dry chillies,2018,Whole Year ,87838.93,217551,1102.2,14247474.45,30743.6255,2.919069767
+Madhya Pradesh,Garlic,garlic,2001,Whole Year ,22685.0,85583,955.0,2316819.05,5898.1,2.935777778
+Madhya Pradesh,Garlic,garlic,2002,Whole Year ,22674.0,76594,800.8,2146547.58,5668.5,2.850666667
+Madhya Pradesh,Garlic,garlic,2003,Whole Year ,33158.0,137875,1163.0,3281978.84,7957.92,3.003333333
+Madhya Pradesh,Garlic,garlic,2004,Whole Year ,42254.0,178505,895.7,4577798.36,8873.34,3.053125
+Madhya Pradesh,Garlic,garlic,2006,Whole Year ,41697.0,182491,1072.3,5325123.87,9173.34,3.104468085
+Madhya Pradesh,Garlic,garlic,2007,Whole Year ,53653.0,225852,740.4,7157310.2,8584.48,2.956666667
+Madhya Pradesh,Garlic,garlic,2008,Whole Year ,49080.0,207441,895.0,7020403.2,4417.2,3.0538
+Madhya Pradesh,Garlic,garlic,2009,Whole Year ,52169.0,224352,904.1,8128973.58,8868.73,3.153
+Madhya Pradesh,Garlic,garlic,2010,Whole Year ,55537.0,182912,856.3,9225251.07,13328.88,2.303
+Madhya Pradesh,Garlic,garlic,2011,Whole Year ,73907.0,331615,852.6,12380900.64,24389.31,2.6802
+Madhya Pradesh,Garlic,garlic,2012,Whole Year ,75642.0,406266,1049.5,11406813.6,23449.02,3.3912
+Madhya Pradesh,Garlic,garlic,2013,Whole Year ,81132.0,424434,1451.4,11722762.68,21905.64,3.610784314
+Madhya Pradesh,Garlic,garlic,2015,Whole Year ,114786.73,1243137,1000.7,18125972.53,37879.6209,11.2916
+Madhya Pradesh,Garlic,garlic,2016,Whole Year ,156880.15,1716856,1048.4,24041882.99,54908.0525,11.132
+Madhya Pradesh,Garlic,garlic,2017,Whole Year ,186179.25,1882969,800.0,29312061.12,70748.115,10.2188
+Madhya Pradesh,Garlic,garlic,2018,Whole Year ,178156.61,1807956,1102.2,28897002.14,62354.8135,10.2886
+Madhya Pradesh,Garlic,garlic,2019,Whole Year ,183713.76,1869431,1446.7,31554675.42,67974.0912,10.3632
+Madhya Pradesh,Ginger,ginger,2001,Kharif     ,4950.0,6801,955.0,505543.5,1287.0,1.149487179
+Madhya Pradesh,Ginger,ginger,2002,Kharif     ,5187.0,5325,800.8,491053.29,1296.75,0.931842105
+Madhya Pradesh,Ginger,ginger,2003,Kharif     ,5067.0,6284,1163.0,501531.66,1216.08,1.12975
+Madhya Pradesh,Ginger,ginger,2004,Kharif     ,5216.0,5918,895.7,565101.44,1095.36,1.092564103
+Madhya Pradesh,Ginger,ginger,2006,Kharif     ,6005.0,7401,1072.3,766898.55,1321.1,1.139230769
+Madhya Pradesh,Ginger,ginger,2009,Whole Year ,7797.0,9667,904.1,1214928.54,1325.49,1.159761905
+Madhya Pradesh,Ginger,ginger,2010,Whole Year ,8356.0,10041,856.3,1388015.16,2005.44,1.134883721
+Madhya Pradesh,Ginger,ginger,2011,Whole Year ,9926.0,10714,852.6,1662803.52,3275.58,0.946744186
+Madhya Pradesh,Ginger,ginger,2012,Whole Year ,10578.0,18036,1049.5,1595162.4,3279.18,1.278837209
+Madhya Pradesh,Ginger,ginger,2013,Whole Year ,10668.0,20629,1451.4,1541419.32,2880.36,1.578636364
+Madhya Pradesh,Ginger,ginger,2015,Whole Year ,20337.91,325432,1000.7,3211559.368,6711.5103,15.38104167
+Madhya Pradesh,Ginger,ginger,2016,Whole Year ,23153.07,372640,1048.4,3548207.978,8103.5745,16.16854167
+Madhya Pradesh,Ginger,ginger,2017,Whole Year ,23431.48,377473,800.0,3689052.211,8903.9624,16.20208333
+Madhya Pradesh,Ginger,ginger,2018,Whole Year ,24963.81,414281,1102.2,4049129.982,8737.3335,16.105
+Madhya Pradesh,Ginger,ginger,2019,Whole Year ,27479.56,438393,1446.7,4719889.226,10167.4372,15.64479167
+Madhya Pradesh,Onion,onion,2001,Whole Year ,23057.0,324596,955.0,2354811.41,5994.82,13.41155556
+Madhya Pradesh,Onion,onion,2002,Whole Year ,24620.0,344975,800.8,2330775.4,6155.0,12.75155556
+Madhya Pradesh,Onion,onion,2003,Whole Year ,30958.0,416137,1163.0,3064222.84,7429.92,12.86875
+Madhya Pradesh,Onion,onion,2004,Whole Year ,35661.0,560306,895.7,3863512.74,7488.81,15.03166667
+Madhya Pradesh,Onion,onion,2005,Whole Year ,37656.0,575949,1032.7,4515707.52,7907.76,14.14979167
+Madhya Pradesh,Onion,onion,2006,Whole Year ,37825.0,629635,1072.3,4830630.75,8321.5,14.81125
+Madhya Pradesh,Onion,onion,2007,Whole Year ,41376.0,601524,740.4,5519558.4,6620.16,12.21604167
+Madhya Pradesh,Onion,onion,2008,Whole Year ,40146.0,582438,895.0,5742483.84,3613.14,12.0858
+Madhya Pradesh,Onion,onion,2009,Whole Year ,51151.0,785475,904.1,7970348.82,8695.67,13.143
+Madhya Pradesh,Onion,onion,2010,Whole Year ,56243.0,902250,856.3,9342524.73,13498.32,14.7518
+Madhya Pradesh,Onion,onion,2011,Whole Year ,67857.0,1267840,852.6,11367404.64,22392.81,17.7412
+Madhya Pradesh,Onion,onion,2012,Whole Year ,72818.0,1423301,1049.5,10980954.4,22573.58,19.753
+Madhya Pradesh,Onion,onion,2013,Whole Year ,79260.0,1476852,1451.4,11452277.4,21400.2,17.25431373
+Madhya Pradesh,Onion,onion,2015,Whole Year ,147866.95,3413490,1000.7,23349670.07,48796.0935,22.43019608
+Madhya Pradesh,Onion,onion,2016,Whole Year ,150839.21,3821047,1048.4,23116108.93,52793.7235,23.96137255
+Madhya Pradesh,Onion,onion,2017,Whole Year ,150865.6,3701014,800.0,23752280.06,57328.928,23.00568627
+Madhya Pradesh,Onion,onion,2018,Whole Year ,149843.45,3683098,1102.2,24304607.59,52445.2075,23.08392157
+Madhya Pradesh,Onion,onion,2019,Whole Year ,173886.5,4270702,1446.7,29866745.24,64338.005,23.21745098
+Madhya Pradesh,Potato,potato,2001,Whole Year ,38387.0,507092,955.0,3920464.31,9980.62,13.38955556
+Madhya Pradesh,Potato,potato,2002,Whole Year ,40871.0,487836,800.8,3869257.57,10217.75,11.89644444
+Madhya Pradesh,Potato,potato,2003,Whole Year ,46546.0,667656,1163.0,4607123.08,11171.04,13.33404255
+Madhya Pradesh,Potato,potato,2004,Whole Year ,47570.0,713265,895.7,5153733.8,9989.7,14.71425532
+Madhya Pradesh,Potato,potato,2005,Whole Year ,45967.0,614671,1032.7,5512362.64,9653.07,12.90382979
+Madhya Pradesh,Potato,potato,2006,Whole Year ,48540.0,648203,1072.3,6199043.4,10678.8,12.9512766
+Madhya Pradesh,Potato,potato,2007,Whole Year ,56663.0,713614,740.4,7558844.2,9066.08,11.41729167
+Madhya Pradesh,Potato,potato,2008,Whole Year ,56301.0,649826,895.0,8053295.04,5067.09,11.0325
+Madhya Pradesh,Potato,potato,2009,Whole Year ,60052.0,737859,904.1,9357302.64,10208.84,11.0822449
+Madhya Pradesh,Potato,potato,2010,Whole Year ,76482.0,655527,856.3,12704425.02,18355.68,9.318163265
+Madhya Pradesh,Potato,potato,2011,Whole Year ,83912.0,1028929,852.6,14056938.24,27690.96,11.689375
+Madhya Pradesh,Potato,potato,2012,Whole Year ,81092.0,1157669,1049.5,12228673.6,25138.52,13.99122449
+Madhya Pradesh,Potato,potato,2013,Whole Year ,80955.0,1047072,1451.4,11697187.95,21857.85,13.117
+Madhya Pradesh,Potato,potato,2015,Whole Year ,135292.29,2828020,1000.7,21364005.51,44646.4557,20.1022
+Madhya Pradesh,Potato,potato,2016,Whole Year ,159997.16,3460981,1048.4,24519564.77,55999.006,21.3086
+Madhya Pradesh,Potato,potato,2017,Whole Year ,136290.21,3144644,800.0,21457530.66,51790.2798,21.3776
+Madhya Pradesh,Potato,potato,2018,Whole Year ,145736.5,3309669,1102.2,23638460.3,51007.775,21.3004
+Madhya Pradesh,Potato,potato,2019,Whole Year ,149435.36,3408608,1446.7,25667017.43,55291.0832,21.80117647
+Madhya Pradesh,Sweet potato,sweet potato,2001,Whole Year ,3707.0,21068,955.0,378595.91,963.82,5.656818182
+Madhya Pradesh,Sweet potato,sweet potato,2002,Whole Year ,3757.0,21287,800.8,355675.19,939.25,5.559555556
+Madhya Pradesh,Sweet potato,sweet potato,2003,Whole Year ,3821.0,21742,1163.0,378202.58,917.04,5.932173913
+Madhya Pradesh,Sweet potato,sweet potato,2004,Whole Year ,4172.0,24117,895.7,451994.48,876.12,5.938913043
+Madhya Pradesh,Sweet potato,sweet potato,2005,Whole Year ,4171.0,22869,1032.7,500186.32,875.91,5.701086957
+Madhya Pradesh,Sweet potato,sweet potato,2006,Whole Year ,4070.0,22633,1072.3,519779.7,895.4,5.947173913
+Madhya Pradesh,Sweet potato,sweet potato,2007,Whole Year ,3752.0,20560,740.4,500516.8,600.32,5.65173913
+Madhya Pradesh,Sweet potato,sweet potato,2008,Whole Year ,3584.0,20770,895.0,512655.36,322.56,5.977446809
+Madhya Pradesh,Sweet potato,sweet potato,2009,Whole Year ,3497.0,20803,904.1,544902.54,594.49,6.02
+Madhya Pradesh,Sweet potato,sweet potato,2010,Whole Year ,4278.0,17770,856.3,710618.58,1026.72,4.420208333
+Madhya Pradesh,Sweet potato,sweet potato,2011,Whole Year ,4924.0,22878,852.6,824868.48,1624.92,5.097111111
+Madhya Pradesh,Sweet potato,sweet potato,2012,Whole Year ,4647.0,26213,1049.5,700767.6,1440.57,5.939777778
+Madhya Pradesh,Sweet potato,sweet potato,2013,Whole Year ,4776.0,30914,1451.4,690084.24,1289.52,6.665744681
+Madhya Pradesh,Sweet potato,sweet potato,2015,Whole Year ,3376.0,47063,1000.7,533104.16,1114.08,15.48923077
+Madhya Pradesh,Sweet potato,sweet potato,2016,Whole Year ,4432.2,63449,1048.4,679234.65,1551.27,17.19387097
+Madhya Pradesh,Sweet potato,sweet potato,2017,Whole Year ,5196.15,78914,800.0,818081.856,1974.537,17.36147059
+Madhya Pradesh,Sweet potato,sweet potato,2018,Whole Year ,5297.72,80333,1102.2,859290.184,1854.202,17.05294118
+Madhya Pradesh,Sweet potato,sweet potato,2019,Whole Year ,5814.2,89432,1446.7,998646.992,2151.254,17.34657143
+Madhya Pradesh,Turmeric,turmeric,2001,Whole Year ,382.0,399,955.0,39013.66,99.32,0.968571429
+Madhya Pradesh,Turmeric,turmeric,2002,Whole Year ,552394.0,379455,800.8,52295139.98,138098.5,0.505
+Madhya Pradesh,Turmeric,turmeric,2003,Whole Year ,655.0,682,1163.0,64831.9,157.2,1.0059375
+Madhya Pradesh,Turmeric,turmeric,2004,Whole Year ,662.0,633,895.7,71721.08,139.02,1.0128125
+Madhya Pradesh,Turmeric,turmeric,2006,Whole Year ,668.0,583,1072.3,85310.28,146.96,0.977586207
+Madhya Pradesh,Turmeric,turmeric,2007,Whole Year ,655.0,545,740.4,87377.0,104.8,0.908275862
+Madhya Pradesh,Turmeric,turmeric,2008,Whole Year ,657.0,582,895.0,93977.28,59.13,0.978965517
+Madhya Pradesh,Turmeric,turmeric,2009,Whole Year ,649.0,573,904.1,101127.18,110.33,0.975483871
+Madhya Pradesh,Turmeric,turmeric,2010,Whole Year ,731.0,423,856.3,121426.41,175.44,0.7590625
+Madhya Pradesh,Turmeric,turmeric,2011,Whole Year ,995.0,720,852.6,166682.4,328.35,0.7928125
+Madhya Pradesh,Turmeric,turmeric,2012,Whole Year ,1435.0,1542,1049.5,216398.0,444.85,1.071388889
+Madhya Pradesh,Turmeric,turmeric,2013,Whole Year ,1392.0,1525,1451.4,201130.08,375.84,1.168181818
+Madhya Pradesh,Turmeric,turmeric,2015,Whole Year ,9616.06,164637,1000.7,1518472.035,3173.2998,18.735
+Madhya Pradesh,Turmeric,turmeric,2016,Whole Year ,12876.75,229581,1048.4,1973361.938,4506.8625,19.30891304
+Madhya Pradesh,Turmeric,turmeric,2017,Whole Year ,11697.5,206472,800.0,1841654.4,4445.05,19.065
+Madhya Pradesh,Turmeric,turmeric,2018,Whole Year ,13665.88,238285,1102.2,2216605.736,4783.058,19.05916667
+Madhya Pradesh,Turmeric,turmeric,2019,Whole Year ,16271.0,285338,1446.7,2794706.96,6020.27,18.86708333
+Maharashtra,Banana,banana,2003,Whole Year ,57700.0,3634720,1037.4,5711146.0,13848.0,57.56857143
+Maharashtra,Onion,onion,2003,Whole Year ,133622.0,1663240,1037.4,13225905.56,32069.28,12.44846154
+Odisha,Coriander,coriander,2001,Whole Year ,12910.0,5970,1672.5,1318498.3,3356.6,0.449666667
+Odisha,Coriander,coriander,2002,Whole Year ,18880.0,8950,1102.8,1787369.6,4720.0,0.472333333
+Odisha,Coriander,coriander,2003,Whole Year ,19010.0,9000,1648.2,1881609.8,4562.4,0.480666667
+Odisha,Coriander,coriander,2004,Whole Year ,19060.0,9107,1290.4,2064960.4,4002.6,0.482333333
+Odisha,Coriander,coriander,2019,Rabi       ,19980.0,13140,1593.9,3431764.8,7392.6,0.614666667
+Odisha,Dry Chillies,dry chillies,2001,Whole Year ,70030.0,59180,1672.5,7152163.9,18207.8,0.844666667
+Odisha,Dry Chillies,dry chillies,2002,Whole Year ,74970.0,62910,1102.8,7097409.9,18742.5,0.834333333
+Odisha,Dry Chillies,dry chillies,2003,Whole Year ,75040.0,63180,1648.2,7427459.2,18009.6,0.838666667
+Odisha,Dry Chillies,dry chillies,2004,Whole Year ,76113.0,63240,1290.4,8246082.42,15983.73,0.830666667
+Odisha,Dry Chillies,dry chillies,2019,Kharif     ,24910.0,23360,1593.9,4278541.6,9216.7,0.938666667
+Odisha,Dry Chillies,dry chillies,2019,Rabi       ,50090.0,65410,1593.9,8603458.4,18533.3,1.374
+Odisha,Garlic,garlic,2001,Whole Year ,8950.0,28280,1672.5,914063.5,2327.0,3.164666667
+Odisha,Garlic,garlic,2002,Whole Year ,10700.0,33830,1102.8,1012969.0,2675.0,3.16
+Odisha,Garlic,garlic,2003,Whole Year ,10850.0,34320,1648.2,1073933.0,2604.0,3.144666667
+Odisha,Garlic,garlic,2004,Whole Year ,11044.0,34918,1290.4,1196506.96,2319.24,3.158
+Odisha,Garlic,garlic,2019,Rabi       ,13500.0,49530,1593.9,2318760.0,4995.0,4.251428571
+Odisha,Ginger,ginger,2001,Kharif     ,13040.0,25210,1672.5,1331775.2,3390.4,1.808666667
+Odisha,Ginger,ginger,2002,Kharif     ,15340.0,29490,1102.8,1452237.8,3835.0,1.828
+Odisha,Ginger,ginger,2003,Kharif     ,15480.0,30020,1648.2,1532210.4,3715.2,1.810333333
+Odisha,Ginger,ginger,2004,Kharif     ,15674.0,30368,1290.4,1698121.16,3291.54,1.825666667
+Odisha,Ginger,ginger,2019,Kharif     ,17140.0,228840,1593.9,2943966.4,6341.8,13.45275862
+Odisha,Onion,onion,2001,Whole Year ,19410.0,173430,1672.5,1982343.3,5046.6,8.714333333
+Odisha,Onion,onion,2002,Whole Year ,26410.0,238790,1102.8,2500234.7,6602.5,8.852666667
+Odisha,Onion,onion,2003,Whole Year ,26550.0,240340,1648.2,2627919.0,6372.0,8.845666667
+Odisha,Onion,onion,2004,Whole Year ,26684.0,241852,1290.4,2890944.56,5603.64,8.963333333
+Odisha,Onion,onion,2019,Rabi       ,35120.0,437140,1593.9,6032211.2,12994.4,12.21413793
+Odisha,Potato,potato,2001,Whole Year ,7580.0,78049,1672.5,774145.4,1970.8,9.565714286
+Odisha,Potato,potato,2002,Whole Year ,7076.0,70320,1102.8,669884.92,1769.0,8.908214286
+Odisha,Potato,potato,2003,Whole Year ,7303.0,75823,1648.2,722850.94,1752.72,9.688965517
+Odisha,Potato,potato,2004,Winter     ,8506.0,80770,1290.4,921540.04,1786.26,8.655
+Odisha,Potato,potato,2005,Winter     ,8305.0,75078,1503.4,995935.6,1744.05,8.475517241
+Odisha,Potato,potato,2006,Winter     ,8176.0,79316,1716.9,1044156.96,1798.72,8.693793103
+Odisha,Potato,potato,2007,Winter     ,8514.0,94255,1633.8,1135767.6,1362.24,9.788
+Odisha,Potato,potato,2008,Winter     ,7315.0,75577,1539.0,1046337.6,658.35,9.706896552
+Odisha,Potato,potato,2009,Winter     ,7877.0,97000,1330.3,1227394.14,1339.09,11.02241379
+Odisha,Potato,potato,2010,Winter     ,6528.0,76208,1291.9,1084366.08,1566.72,10.70074074
+Odisha,Potato,potato,2011,Winter     ,5779.0,63010,1346.2,968098.08,1907.07,10.49888889
+Odisha,Potato,potato,2012,Winter     ,5324.0,65017,1430.2,802859.2,1650.44,11.66964286
+Odisha,Potato,potato,2013,Winter     ,6151.0,71342,1632.4,888757.99,1660.77,11.84296296
+Odisha,Potato,potato,2014,Winter     ,8445.0,104081,1536.9,1274857.2,2786.85,12.0725
+Odisha,Potato,potato,2015,Winter     ,5626.0,57236,1210.1,888401.66,1856.58,9.88962963
+Odisha,Potato,potato,2016,Winter     ,6524.0,82158,1460.5,999803.0,2283.4,12.69703704
+Odisha,Potato,potato,2017,Winter     ,3966.0,41812,1344.4,624407.04,1507.08,11.95545455
+Odisha,Potato,potato,2018,Winter     ,4900.0,54455,1635.9,794780.0,1715.0,13.01730769
+Odisha,Potato,potato,2019,Winter     ,4397.0,46961,1593.9,755228.72,1626.89,11.34730769
+Odisha,Sweet potato,sweet potato,2001,Whole Year ,38480.0,312850,1672.5,3929962.4,10004.8,8.193666667
+Odisha,Sweet potato,sweet potato,2002,Whole Year ,46890.0,384260,1102.8,4439076.3,11722.5,8.228666667
+Odisha,Sweet potato,sweet potato,2003,Whole Year ,47030.0,393560,1648.2,4655029.4,11287.2,8.454333333
+Odisha,Sweet potato,sweet potato,2004,Whole Year ,47112.0,394287,1290.4,5104114.08,9893.52,8.469666667
+Odisha,Sweet potato,sweet potato,2019,Kharif     ,36270.0,350740,1593.9,6229735.2,13419.9,9.507666667
+Odisha,Sweet potato,sweet potato,2019,Rabi       ,6610.0,59200,1593.9,1135333.6,2445.7,8.970909091
+Odisha,Turmeric,turmeric,2001,Whole Year ,26420.0,59240,1672.5,2698274.6,6869.2,2.108
+Odisha,Turmeric,turmeric,2002,Whole Year ,23640.0,33700,1102.8,2237998.8,5910.0,2.164827586
+Odisha,Turmeric,turmeric,2003,Whole Year ,23780.0,56420,1648.2,2353744.4,5707.2,2.241
+Odisha,Turmeric,turmeric,2004,Whole Year ,23860.0,56768,1290.4,2584992.4,5010.6,2.249333333
+Odisha,Turmeric,turmeric,2019,Kharif     ,30000.0,60000,1593.9,5152800.0,11100.0,2.274482759
+Tamil Nadu,Banana,banana,2002,Whole Year ,76771.0,2836916,315.9,7267910.57,19192.75,34.81964286
+Tamil Nadu,Banana,banana,2003,Whole Year ,71088.0,2514729,345.6,7036290.24,17061.12,34.52965517
+Tamil Nadu,Banana,banana,2004,Whole Year ,81498.0,3461788,1034.0,8829493.32,17114.58,41.73931034
+Tamil Nadu,Banana,banana,2005,Whole Year ,94648.0,4647635,1364.1,11350188.16,19876.08,48.51965517
+Tamil Nadu,Banana,banana,2006,Whole Year ,105206.0,5637371,927.9,13435858.26,23145.32,54.02931034
+Tamil Nadu,Banana,banana,2007,Whole Year ,112793.0,5384825,1067.2,15046586.2,18046.88,48.00758621
+Tamil Nadu,Banana,banana,2008,Whole Year ,115804.0,5148134,1201.9,16564604.16,10422.36,44.54483871
+Tamil Nadu,Banana,banana,2009,Whole Year ,113681.0,4887841,928.5,17713773.42,19325.77,43.52
+Tamil Nadu,Banana,banana,2011,Whole Year ,103107.0,4505435,926.5,17272484.64,34025.31,43.34580645
+Tamil Nadu,Banana,banana,2013,Whole Year ,92463.0,3840375,740.9,13359978.87,24965.01,42.13096774
+Tamil Nadu,Banana,banana,2014,Whole Year ,91410.0,3725937,911.3,13799253.6,30165.3,42.5
+Tamil Nadu,Banana,banana,2015,Whole Year ,94214.0,3610173,1201.9,14877332.74,31090.62,38.35645161
+Tamil Nadu,Banana,banana,2016,Whole Year ,90993.0,3028869,912.4,13944677.25,31847.55,33.24096774
+Tamil Nadu,Banana,banana,2017,Whole Year ,78482.0,3044122,970.9,12356206.08,29823.16,37.84677419
+Tamil Nadu,Banana,banana,2018,Whole Year ,87514.0,3483248,986.2,14194770.8,30629.9,37.39125
+Tamil Nadu,Banana,banana,2019,Whole Year ,92440.0,3987895,910.1,15877494.4,34202.8,42.7084375
+Tamil Nadu,Black pepper,black pepper,2003,Whole Year ,4179.0,933,345.6,413637.42,1002.96,0.141666667
+Tamil Nadu,Black pepper,black pepper,2005,Whole Year ,3745.0,851,1364.1,449100.4,786.45,0.173076923
+Tamil Nadu,Black pepper,black pepper,2006,Whole Year ,3703.0,843,927.9,472910.13,814.66,0.186923077
+Tamil Nadu,Black pepper,black pepper,2007,Whole Year ,3130.0,719,1067.2,417542.0,500.8,0.145333333
+Tamil Nadu,Black pepper,black pepper,2008,Whole Year ,3122.0,716,1201.9,446570.88,280.98,0.155
+Tamil Nadu,Black pepper,black pepper,2009,Whole Year ,2790.0,643,928.5,434737.8,474.3,0.153846154
+Tamil Nadu,Black pepper,black pepper,2011,Whole Year ,3767.0,856,926.5,631047.84,1243.11,0.174285714
+Tamil Nadu,Black pepper,black pepper,2013,Whole Year ,3918.0,860,740.9,566111.82,1057.86,0.184166667
+Tamil Nadu,Black pepper,black pepper,2014,Whole Year ,3997.0,898,911.3,603387.12,1319.01,0.186666667
+Tamil Nadu,Black pepper,black pepper,2015,Whole Year ,4349.0,974,1201.9,686750.59,1435.17,0.173076923
+Tamil Nadu,Black pepper,black pepper,2016,Whole Year ,4908.0,1075,912.4,752151.0,1717.8,0.150625
+Tamil Nadu,Black pepper,black pepper,2017,Whole Year ,5265.0,1149,970.9,828921.6,2000.7,0.163125
+Tamil Nadu,Black pepper,black pepper,2018,Whole Year ,5571.0,1176,986.2,903616.2,1949.85,0.16
+Tamil Nadu,Black pepper,black pepper,2019,Whole Year ,6080.0,1306,910.1,1044300.8,2249.6,0.175555556
+Tamil Nadu,Coconut,coconut,2002,Whole Year ,345825.0,2860700000,315.9,32739252.75,86456.25,8497.531111
+Tamil Nadu,Coconut,coconut,2003,Whole Year ,352710.0,2560500000,345.6,34911235.8,84650.4,7781.805714
+Tamil Nadu,Coconut,coconut,2004,Whole Year ,357056.0,4097000000,1034.0,38683447.04,74981.76,10877.70276
+Tamil Nadu,Coconut,coconut,2005,Whole Year ,370515.0,4867100000,1364.1,44432158.8,77808.15,11777.93172
+Tamil Nadu,Coconut,coconut,2006,Whole Year ,374604.0,5429900000,927.9,47840676.84,82412.88,13584.69138
+Tamil Nadu,Coconut,coconut,2007,Whole Year ,383366.0,5438500000,1067.2,51141024.4,61338.56,13190.09759
+Tamil Nadu,Coconut,coconut,2008,Whole Year ,389429.0,5362000000,1201.9,55703924.16,35048.61,13834.07258
+Tamil Nadu,Coconut,coconut,2009,Whole Year ,400466.0,5547100000,928.5,62400612.12,68079.22,14134.65935
+Tamil Nadu,Coconut,coconut,2011,Whole Year ,419400.0,6200900000,926.5,70257888.0,138402.0,13248.16226
+Tamil Nadu,Coconut,coconut,2013,Whole Year ,428538.0,4668000000,740.9,61919455.62,115705.26,9606.394516
+Tamil Nadu,Coconut,coconut,2014,Whole Year ,427841.0,4986500000,911.3,64586877.36,141187.53,10713.87226
+Tamil Nadu,Coconut,coconut,2015,Whole Year ,434875.0,5962500000,1201.9,68671111.25,143508.75,11907.64581
+Tamil Nadu,Coconut,coconut,2016,Whole Year ,435621.0,4706400000,912.4,66758918.25,152467.35,10719.08742
+Tamil Nadu,Coconut,coconut,2017,Whole Year ,436024.0,4176500000,970.9,68647618.56,165689.12,9387.334516
+Tamil Nadu,Coconut,coconut,2018,Whole Year ,439745.0,5214000000,986.2,71326639.0,153910.75,11263.83
+Tamil Nadu,Coconut,coconut,2019,Whole Year ,438935.0,4946800000,910.1,75391475.6,162405.95,8795.260556
+Tamil Nadu,Coriander,coriander,2002,Whole Year ,25326.0,4707,315.9,2397612.42,6331.5,0.191818182
+Tamil Nadu,Coriander,coriander,2003,Whole Year ,27722.0,8052,345.6,2743923.56,6653.28,0.300740741
+Tamil Nadu,Coriander,coriander,2004,Whole Year ,19350.0,8391,1034.0,2096379.0,4063.5,0.4236
+Tamil Nadu,Coriander,coriander,2005,Whole Year ,21062.0,6424,1364.1,2525755.04,4423.02,0.296956522
+Tamil Nadu,Coriander,coriander,2006,Whole Year ,17425.0,5676,927.9,2225346.75,3833.5,0.321304348
+Tamil Nadu,Coriander,coriander,2007,Whole Year ,13288.0,5120,1067.2,1772619.2,2126.08,0.385909091
+Tamil Nadu,Coriander,coriander,2008,Whole Year ,14139.0,4815,1201.9,2022442.56,1272.51,0.357826087
+Tamil Nadu,Coriander,coriander,2009,Whole Year ,15977.0,6315,928.5,2489536.14,2716.09,0.355416667
+Tamil Nadu,Coriander,coriander,2011,Whole Year ,10804.0,5049,926.5,1809886.08,3565.32,0.454583333
+Tamil Nadu,Coriander,coriander,2013,Whole Year ,7527.0,2614,740.9,1087576.23,2032.29,0.349166667
+Tamil Nadu,Coriander,coriander,2014,Whole Year ,9230.0,8048,911.3,1393360.8,3045.9,0.855384615
+Tamil Nadu,Coriander,coriander,2015,Whole Year ,11084.0,6569,1201.9,1750274.44,3657.72,0.596956522
+Tamil Nadu,Coriander,coriander,2016,Whole Year ,9120.0,1470,912.4,1397640.0,3192.0,0.192857143
+Tamil Nadu,Coriander,coriander,2017,Whole Year ,8056.0,4112,970.9,1268336.64,3061.28,0.565454545
+Tamil Nadu,Coriander,coriander,2018,Whole Year ,6427.0,2526,986.2,1042459.4,2249.45,0.428695652
+Tamil Nadu,Coriander,coriander,2019,Whole Year ,7397.0,3675,910.1,1270508.72,2736.89,0.470909091
+Tamil Nadu,Dry Chillies,dry chillies,2002,Whole Year ,68566.0,40646,315.9,6491143.22,17141.5,0.640740741
+Tamil Nadu,Dry Chillies,dry chillies,2003,Whole Year ,75206.0,40067,345.6,7443889.88,18049.44,0.64
+Tamil Nadu,Dry Chillies,dry chillies,2004,Whole Year ,66990.0,44631,1034.0,7257696.6,14067.9,0.761724138
+Tamil Nadu,Dry Chillies,dry chillies,2005,Whole Year ,49033.0,31830,1364.1,5880037.36,10296.93,0.797241379
+Tamil Nadu,Dry Chillies,dry chillies,2006,Whole Year ,61418.0,42719,927.9,7843692.78,13511.96,0.803928571
+Tamil Nadu,Dry Chillies,dry chillies,2007,Whole Year ,67408.0,34084,1067.2,8992227.2,10785.28,0.627586207
+Tamil Nadu,Dry Chillies,dry chillies,2008,Whole Year ,65412.0,32924,1201.9,9356532.48,5887.08,0.651290323
+Tamil Nadu,Dry Chillies,dry chillies,2009,Whole Year ,58476.0,31230,928.5,9111730.32,9940.92,0.629032258
+Tamil Nadu,Dry Chillies,dry chillies,2011,Whole Year ,56442.0,24640,926.5,9455163.84,18625.86,0.532258065
+Tamil Nadu,Dry Chillies,dry chillies,2013,Whole Year ,41401.0,11294,740.9,5982030.49,11178.27,0.363333333
+Tamil Nadu,Dry Chillies,dry chillies,2014,Whole Year ,44606.0,29391,911.3,6733721.76,14719.98,0.811935484
+Tamil Nadu,Dry Chillies,dry chillies,2015,Whole Year ,46522.0,23762,1201.9,7346289.02,15352.26,0.7025
+Tamil Nadu,Dry Chillies,dry chillies,2016,Whole Year ,44839.0,20585,912.4,6871576.75,15693.65,0.811935484
+Tamil Nadu,Dry Chillies,dry chillies,2017,Whole Year ,44120.0,18108,970.9,6946252.8,16765.6,0.707741935
+Tamil Nadu,Dry Chillies,dry chillies,2018,Whole Year ,45949.0,14000,986.2,7452927.8,16082.15,0.517741935
+Tamil Nadu,Dry Chillies,dry chillies,2019,Whole Year ,47991.0,29618,910.1,8242934.16,17756.67,0.919285714
+Tamil Nadu,Garlic,garlic,2002,Whole Year ,565.0,3378,315.9,53488.55,141.25,5.69
+Tamil Nadu,Garlic,garlic,2003,Whole Year ,595.0,3411,345.6,58893.1,142.8,5.54
+Tamil Nadu,Garlic,garlic,2004,Whole Year ,443.0,2632,1034.0,47994.62,93.03,5.854
+Tamil Nadu,Garlic,garlic,2005,Whole Year ,428.0,2561,1364.1,51325.76,89.88,5.854
+Tamil Nadu,Garlic,garlic,2006,Whole Year ,528.0,3139,927.9,67430.88,116.16,5.304
+Tamil Nadu,Garlic,garlic,2007,Whole Year ,505.0,2994,1067.2,67367.0,80.8,5.763333333
+Tamil Nadu,Garlic,garlic,2008,Whole Year ,351.0,2067,1201.9,50207.04,31.59,5.76
+Tamil Nadu,Garlic,garlic,2009,Whole Year ,330.0,1954,928.5,51420.6,56.1,4.256
+Tamil Nadu,Garlic,garlic,2011,Whole Year ,442.0,2544,926.5,74043.84,145.86,4.335
+Tamil Nadu,Garlic,garlic,2013,Whole Year ,506.0,2889,740.9,73111.94,136.62,4.194285714
+Tamil Nadu,Garlic,garlic,2014,Whole Year ,449.0,2567,911.3,67781.04,148.17,2.711666667
+Tamil Nadu,Garlic,garlic,2015,Whole Year ,581.0,3334,1201.9,91745.71,191.73,4.412
+Tamil Nadu,Garlic,garlic,2016,Whole Year ,781.0,4545,912.4,119688.25,273.35,5.206666667
+Tamil Nadu,Garlic,garlic,2017,Whole Year ,760.0,4338,970.9,119654.4,288.8,4.2975
+Tamil Nadu,Garlic,garlic,2018,Whole Year ,1449.0,8631,986.2,235027.8,507.15,4.375
+Tamil Nadu,Garlic,garlic,2019,Whole Year ,1433.0,8519,910.1,246132.08,530.21,5.5525
+Tamil Nadu,Ginger,ginger,2002,Whole Year ,416.0,6665,315.9,39382.72,104.0,16.00888889
+Tamil Nadu,Ginger,ginger,2003,Kharif     ,395.0,5599,345.6,39097.1,94.8,14.11833333
+Tamil Nadu,Ginger,ginger,2004,Kharif     ,574.0,11076,1034.0,62187.16,120.54,19.255
+Tamil Nadu,Ginger,ginger,2005,Kharif     ,660.0,12735,1364.1,79147.2,138.6,19.31714286
+Tamil Nadu,Ginger,ginger,2006,Whole Year ,669.0,12468,927.9,85437.99,147.18,18.65625
+Tamil Nadu,Ginger,ginger,2007,Whole Year ,625.0,11898,1067.2,83375.0,100.0,18.97857143
+Tamil Nadu,Ginger,ginger,2008,Whole Year ,817.0,16340,1201.9,116863.68,73.53,20.0
+Tamil Nadu,Ginger,ginger,2009,Whole Year ,864.0,13867,928.5,134628.48,146.88,16.036
+Tamil Nadu,Ginger,ginger,2011,Whole Year ,635.0,7011,926.5,106375.2,209.55,11.01444444
+Tamil Nadu,Ginger,ginger,2013,Whole Year ,304.0,2117,740.9,43924.96,82.08,6.993333333
+Tamil Nadu,Ginger,ginger,2014,Whole Year ,311.0,1316,911.3,46948.56,102.63,4.132222222
+Tamil Nadu,Ginger,ginger,2015,Whole Year ,390.0,3448,1201.9,61584.9,128.7,8.910833333
+Tamil Nadu,Ginger,ginger,2016,Whole Year ,371.0,8133,912.4,56855.75,129.85,22.459
+Tamil Nadu,Ginger,ginger,2017,Whole Year ,380.0,7425,970.9,59827.2,144.4,19.705
+Tamil Nadu,Ginger,ginger,2018,Whole Year ,377.0,7263,986.2,61149.4,131.95,19.86428571
+Tamil Nadu,Ginger,ginger,2019,Whole Year ,193.0,3038,910.1,33149.68,71.41,16.075
+Tamil Nadu,Onion,onion,2002,Whole Year ,23492.0,198715,315.9,2223987.64,5873.0,8.54625
+Tamil Nadu,Onion,onion,2003,Whole Year ,23452.0,211173,345.6,2321278.96,5628.48,8.768076923
+Tamil Nadu,Onion,onion,2004,Whole Year ,26491.0,256359,1034.0,2870034.94,5563.11,9.490357143
+Tamil Nadu,Onion,onion,2005,Whole Year ,29169.0,233796,1364.1,3497946.48,6125.49,8.07826087
+Tamil Nadu,Onion,onion,2006,Whole Year ,29587.0,258333,927.9,3778555.77,6509.14,8.720454545
+Tamil Nadu,Onion,onion,2007,Whole Year ,29809.0,287208,1067.2,3976520.6,4769.44,9.574347826
+Tamil Nadu,Onion,onion,2008,Whole Year ,30255.0,286040,1201.9,4327675.2,2722.95,10.1544
+Tamil Nadu,Onion,onion,2009,Whole Year ,31024.0,302563,928.5,4834159.68,5274.08,9.8704
+Tamil Nadu,Onion,onion,2011,Whole Year ,34913.0,376947,926.5,5848625.76,11521.29,11.16703704
+Tamil Nadu,Onion,onion,2013,Kharif     ,9104.0,105866,740.9,1315436.96,2458.08,11.31961538
+Tamil Nadu,Onion,onion,2013,Rabi       ,15883.0,134505,740.9,2294934.67,4288.41,8.304615385
+Tamil Nadu,Onion,onion,2014,Kharif     ,11835.0,100221,911.3,1786611.6,3905.55,8.114074074
+Tamil Nadu,Onion,onion,2014,Rabi       ,16270.0,140110,911.3,2456119.2,5369.1,8.551111111
+Tamil Nadu,Onion,onion,2015,Kharif     ,16013.0,154375,1201.9,2528612.83,5284.29,9.524166667
+Tamil Nadu,Onion,onion,2015,Rabi       ,19796.0,128339,1201.9,3125986.36,6532.68,6.711071429
+Tamil Nadu,Onion,onion,2016,Kharif     ,13602.0,141117,912.4,2084506.5,4760.7,10.27692308
+Tamil Nadu,Onion,onion,2016,Rabi       ,17597.0,89105,912.4,2696740.25,6158.95,5.267407407
+Tamil Nadu,Onion,onion,2017,Kharif     ,6293.0,61084,970.9,990769.92,2391.34,9.714166667
+Tamil Nadu,Onion,onion,2017,Rabi       ,16518.0,153558,970.9,2600593.92,6276.84,9.684074074
+Tamil Nadu,Onion,onion,2018,Kharif     ,12414.0,108888,986.2,2013550.8,4344.9,8.912692308
+Tamil Nadu,Onion,onion,2018,Rabi       ,19273.0,109707,986.2,3126080.6,6745.55,5.878518519
+Tamil Nadu,Onion,onion,2019,Kharif     ,11137.0,101952,910.1,1912891.12,4120.69,9.088148148
+Tamil Nadu,Onion,onion,2019,Rabi       ,22663.0,159883,910.1,3892596.88,8385.31,7.237407407
+Tamil Nadu,Potato,potato,2002,Whole Year ,4537.0,73362,315.9,429517.79,1134.25,18.3475
+Tamil Nadu,Potato,potato,2003,Whole Year ,4341.0,70103,345.6,429672.18,1041.84,17.054
+Tamil Nadu,Potato,potato,2004,Whole Year ,5034.0,79060,1034.0,545383.56,1057.14,16.0325
+Tamil Nadu,Potato,potato,2005,Whole Year ,5005.0,74593,1364.1,600199.6,1051.05,15.32
+Tamil Nadu,Potato,potato,2006,Whole Year ,5190.0,77443,927.9,662814.9,1141.8,15.11333333
+Tamil Nadu,Potato,potato,2007,Whole Year ,4066.0,68169,1067.2,542404.4,650.56,17.018
+Tamil Nadu,Potato,potato,2008,Whole Year ,4367.0,80538,1201.9,624655.68,393.03,19.39
+Tamil Nadu,Potato,potato,2009,Whole Year ,4611.0,84683,928.5,718486.02,783.87,19.2475
+Tamil Nadu,Potato,potato,2011,Whole Year ,4673.0,92207,926.5,782820.96,1542.09,19.59125
+Tamil Nadu,Potato,potato,2013,Kharif     ,3875.0,70206,740.9,559898.75,1046.25,18.37333333
+Tamil Nadu,Potato,potato,2013,Rabi       ,2044.0,52531,740.9,295337.56,551.88,24.145
+Tamil Nadu,Potato,potato,2014,Kharif     ,3018.0,68463,911.3,455597.28,995.94,21.70833333
+Tamil Nadu,Potato,potato,2014,Rabi       ,1719.0,43468,911.3,259500.24,567.27,22.54
+Tamil Nadu,Potato,potato,2015,Kharif     ,3235.0,65799,1201.9,510838.85,1067.55,20.9825
+Tamil Nadu,Potato,potato,2015,Rabi       ,1071.0,24164,1201.9,169121.61,353.43,22.4075
+Tamil Nadu,Potato,potato,2016,Kharif     ,3194.0,77476,912.4,489480.5,1117.9,24.5825
+Tamil Nadu,Potato,potato,2016,Rabi       ,1653.0,31493,912.4,253322.25,578.55,21.248
+Tamil Nadu,Potato,potato,2017,Kharif     ,2358.0,40817,970.9,371243.52,896.04,16.698
+Tamil Nadu,Potato,potato,2017,Rabi       ,1224.0,27698,970.9,192706.56,465.12,23.12
+Tamil Nadu,Potato,potato,2018,Kharif     ,2334.0,25622,986.2,378574.8,816.9,13.195
+Tamil Nadu,Potato,potato,2018,Rabi       ,1198.0,23750,986.2,194315.6,419.3,23.2225
+Tamil Nadu,Potato,potato,2019,Kharif     ,2900.0,60513,910.1,498104.0,1073.0,21.384
+Tamil Nadu,Potato,potato,2019,Rabi       ,1113.0,24207,910.1,191168.88,411.81,21.68
+Tamil Nadu,Sweet potato,sweet potato,2002,Whole Year ,814.0,11121,315.9,77061.38,203.5,13.8292
+Tamil Nadu,Sweet potato,sweet potato,2003,Whole Year ,1039.0,15049,345.6,102840.22,249.36,14.55
+Tamil Nadu,Sweet potato,sweet potato,2004,Whole Year ,1397.0,21118,1034.0,151350.98,293.37,14.9992
+Tamil Nadu,Sweet potato,sweet potato,2005,Whole Year ,1417.0,29555,1364.1,169926.64,297.57,20.8868
+Tamil Nadu,Sweet potato,sweet potato,2006,Whole Year ,1127.0,18933,927.9,143929.17,247.94,17.74740741
+Tamil Nadu,Sweet potato,sweet potato,2007,Whole Year ,1088.0,14780,1067.2,145139.2,174.08,13.7055
+Tamil Nadu,Sweet potato,sweet potato,2008,Whole Year ,658.0,8743,1201.9,94120.32,59.22,13.52565217
+Tamil Nadu,Sweet potato,sweet potato,2009,Whole Year ,778.0,11381,928.5,121227.96,132.26,14.6992
+Tamil Nadu,Sweet potato,sweet potato,2011,Whole Year ,390.0,7991,926.5,65332.8,128.7,20.57238095
+Tamil Nadu,Sweet potato,sweet potato,2013,Whole Year ,592.0,12496,740.9,85538.08,159.84,22.102
+Tamil Nadu,Sweet potato,sweet potato,2014,Whole Year ,631.0,11094,911.3,95255.76,208.23,17.51894737
+Tamil Nadu,Sweet potato,sweet potato,2015,Whole Year ,586.0,9536,1201.9,92535.26,193.38,17.21473684
+Tamil Nadu,Sweet potato,sweet potato,2016,Whole Year ,283.0,2623,912.4,43369.75,99.05,9.951052632
+Tamil Nadu,Sweet potato,sweet potato,2017,Whole Year ,302.0,7946,970.9,47546.88,114.76,26.33944444
+Tamil Nadu,Sweet potato,sweet potato,2018,Whole Year ,328.0,8848,986.2,53201.6,114.8,25.31238095
+Tamil Nadu,Sweet potato,sweet potato,2019,Whole Year ,585.0,14383,910.1,100479.6,216.45,23.39619048
+Tamil Nadu,Tapioca,tapioca,2002,Whole Year ,67951.0,2146534,315.9,6432921.17,16987.75,32.53576923
+Tamil Nadu,Tapioca,tapioca,2003,Whole Year ,95022.0,3201414,345.6,9405277.56,22805.28,33.38214286
+Tamil Nadu,Tapioca,tapioca,2004,Whole Year ,110589.0,4563776,1034.0,11981212.26,23223.69,41.5525
+Tamil Nadu,Tapioca,tapioca,2005,Whole Year ,127122.0,4857440,1364.1,15244470.24,26695.62,38.21481481
+Tamil Nadu,Tapioca,tapioca,2006,Whole Year ,139628.0,5635436,927.9,17831891.88,30718.16,41.62785714
+Tamil Nadu,Tapioca,tapioca,2007,Whole Year ,140092.0,5912307,1067.2,18688272.8,22414.72,42.09785714
+Tamil Nadu,Tapioca,tapioca,2008,Whole Year ,124301.0,4533359,1201.9,17780015.04,11187.09,35.91833333
+Tamil Nadu,Tapioca,tapioca,2009,Whole Year ,118647.0,4089545,928.5,18487575.54,20169.99,35.70034483
+Tamil Nadu,Tapioca,tapioca,2011,Whole Year ,105350.0,3967751,926.5,17648232.0,34765.5,37.77344828
+Tamil Nadu,Tapioca,tapioca,2013,Whole Year ,83526.0,2499280,740.9,12068671.74,22552.02,32.50806452
+Tamil Nadu,Tapioca,tapioca,2014,Whole Year ,87924.0,2851761,911.3,13273007.04,29014.92,35.751
+Tamil Nadu,Tapioca,tapioca,2015,Whole Year ,86236.0,2366723,1201.9,13617526.76,28457.88,30.10548387
+Tamil Nadu,Tapioca,tapioca,2016,Whole Year ,76420.0,2012746,912.4,11711365.0,26747.0,26.67741935
+Tamil Nadu,Tapioca,tapioca,2017,Whole Year ,79344.0,2715116,970.9,12491919.36,30150.72,34.53967742
+Tamil Nadu,Tapioca,tapioca,2018,Whole Year ,75644.0,2629655,986.2,12269456.8,26475.4,34.88068966
+Tamil Nadu,Tapioca,tapioca,2019,Whole Year ,81143.0,3065106,910.1,13937121.68,30022.91,40.04866667
+Tamil Nadu,Turmeric,turmeric,2002,Whole Year ,17298.0,64536,315.9,1637601.66,4324.5,3.67
+Tamil Nadu,Turmeric,turmeric,2003,Whole Year ,16181.0,67250,345.6,1601595.38,3883.44,3.909615385
+Tamil Nadu,Turmeric,turmeric,2004,Whole Year ,21616.0,118447,1034.0,2341877.44,4539.36,5.096071429
+Tamil Nadu,Turmeric,turmeric,2005,Whole Year ,25970.0,143358,1364.1,3114322.4,5453.7,5.547037037
+Tamil Nadu,Turmeric,turmeric,2006,Whole Year ,30528.0,175388,927.9,3898730.88,6716.16,5.748148148
+Tamil Nadu,Turmeric,turmeric,2007,Whole Year ,27303.0,146008,1067.2,3642220.2,4368.48,5.253846154
+Tamil Nadu,Turmeric,turmeric,2008,Whole Year ,29875.0,172334,1201.9,4273320.0,2688.75,5.326296296
+Tamil Nadu,Turmeric,turmeric,2009,Whole Year ,33366.0,169071,928.5,5199090.12,5672.22,5.103076923
+Tamil Nadu,Turmeric,turmeric,2011,Whole Year ,67246.0,368413,926.5,11265049.92,22191.18,5.563793103
+Tamil Nadu,Turmeric,turmeric,2013,Whole Year ,31968.0,117416,740.9,4619056.32,8631.36,3.797777778
+Tamil Nadu,Turmeric,turmeric,2014,Whole Year ,26072.0,105002,911.3,3935829.12,8603.76,4.3492
+Tamil Nadu,Turmeric,turmeric,2015,Whole Year ,29877.0,115351,1201.9,4717877.07,9859.41,3.897777778
+Tamil Nadu,Turmeric,turmeric,2016,Whole Year ,35795.0,129563,912.4,5485583.75,12528.25,3.36037037
+Tamil Nadu,Turmeric,turmeric,2017,Whole Year ,18080.0,73134,970.9,2846515.2,6870.4,4.338888889
+Tamil Nadu,Turmeric,turmeric,2018,Whole Year ,23351.0,92360,986.2,3787532.2,8172.85,3.892857143
+Tamil Nadu,Turmeric,turmeric,2019,Whole Year ,18432.0,96253,910.1,3165880.32,6819.84,5.298148148
+Uttar Pradesh,Banana,banana,2004,Whole Year ,1615.0,58736,704.0,174969.1,339.15,36.31133333
+Uttar Pradesh,Banana,banana,2005,Whole Year ,1991.0,75867,751.9,238760.72,418.11,38.08033333
+Uttar Pradesh,Banana,banana,2006,Whole Year ,2002.0,77709,590.5,255675.42,440.44,38.84296296
+Uttar Pradesh,Banana,banana,2008,Summer     ,1991.0,75867,891.6,284792.64,179.19,38.08033333
+Uttar Pradesh,Banana,banana,2009,Summer     ,2336.0,96059,585.8,363995.52,397.12,41.10410256
+Uttar Pradesh,Banana,banana,2011,Summer     ,2175.0,95023,777.4,364356.0,717.75,43.67269231
+Uttar Pradesh,Banana,banana,2012,Summer     ,2359.0,105337,746.3,355737.2,731.29,44.695
+Uttar Pradesh,Banana,banana,2013,Summer     ,2636.0,114776,995.2,380875.64,711.72,43.58692308
+Uttar Pradesh,Banana,banana,2014,Summer     ,2441.0,110118,616.4,368493.36,805.53,45.10709677
+Uttar Pradesh,Banana,banana,2015,Summer     ,4582.0,203406,596.7,723543.62,1512.06,44.39435897
+Uttar Pradesh,Banana,banana,2016,Summer     ,3376.0,186413,965.3,517372.0,1181.6,55.18416667
+Uttar Pradesh,Banana,banana,2017,Summer     ,69378.0,3172335,652.1,10922872.32,26363.64,45.97483871
+Uttar Pradesh,Banana,banana,2018,Summer     ,70471.0,3222568,792.8,11430396.2,24664.85,45.99080645
+Uttar Pradesh,Banana,banana,2019,Summer     ,72585.0,3332135,814.5,12467199.6,26856.45,46.33580645
+Uttar Pradesh,Coriander,coriander,2005,Whole Year ,5591.0,3200,751.9,670472.72,1174.11,0.578387097
+Uttar Pradesh,Coriander,coriander,2006,Whole Year ,5515.0,2869,590.5,704320.65,1213.3,0.516290323
+Uttar Pradesh,Coriander,coriander,2007,Rabi       ,5594.0,3241,672.9,746239.6,895.04,0.577931034
+Uttar Pradesh,Coriander,coriander,2008,Rabi       ,5662.0,3380,891.6,809892.48,509.58,0.610793651
+Uttar Pradesh,Coriander,coriander,2009,Rabi       ,6461.0,3670,585.8,1006753.02,1098.37,0.580149254
+Uttar Pradesh,Coriander,coriander,2011,Rabi       ,6511.0,3603,777.4,1090722.72,2148.63,0.570153846
+Uttar Pradesh,Coriander,coriander,2012,Rabi       ,6675.0,3613,746.3,1006590.0,2069.25,0.55557377
+Uttar Pradesh,Coriander,coriander,2013,Rabi       ,6732.0,3684,995.2,972706.68,1817.64,0.55296875
+Uttar Pradesh,Coriander,coriander,2014,Rabi       ,6867.0,3332,616.4,1036642.32,2266.11,0.481935484
+Uttar Pradesh,Coriander,coriander,2015,Rabi       ,7474.0,2575,596.7,1180219.34,2466.42,0.34559322
+Uttar Pradesh,Coriander,coriander,2016,Rabi       ,7002.0,3652,965.3,1073056.5,2450.7,0.533283582
+Uttar Pradesh,Coriander,coriander,2017,Rabi       ,6790.0,3541,652.1,1069017.6,2580.2,0.531230769
+Uttar Pradesh,Coriander,coriander,2018,Rabi       ,6635.0,5259,792.8,1076197.0,2322.25,0.79421875
+Uttar Pradesh,Coriander,coriander,2019,Rabi       ,7090.0,5116,814.5,1217778.4,2623.3,0.725076923
+Uttar Pradesh,Dry Chillies,dry chillies,2004,Whole Year ,19027.0,16919,704.0,2061385.18,3995.67,0.938939394
+Uttar Pradesh,Dry Chillies,dry chillies,2005,Whole Year ,14999.0,13790,751.9,1798680.08,3149.79,0.919402985
+Uttar Pradesh,Dry Chillies,dry chillies,2006,Whole Year ,15071.0,14295,590.5,1924717.41,3315.62,0.953283582
+Uttar Pradesh,Dry Chillies,dry chillies,2007,Kharif     ,15658.0,15093,672.9,2088777.2,2505.28,0.964461538
+Uttar Pradesh,Dry Chillies,dry chillies,2008,Kharif     ,14918.0,14873,891.6,2133870.72,1342.62,0.998970588
+Uttar Pradesh,Dry Chillies,dry chillies,2009,Kharif     ,14922.0,13146,585.8,2325146.04,2536.74,0.884558824
+Uttar Pradesh,Dry Chillies,dry chillies,2010,Kharif     ,13673.0,11964,742.6,2271222.03,3281.52,0.885441176
+Uttar Pradesh,Dry Chillies,dry chillies,2011,Kharif     ,13284.0,11026,777.4,2225335.68,4383.72,0.838676471
+Uttar Pradesh,Dry Chillies,dry chillies,2012,Kharif     ,13883.0,11154,746.3,2093556.4,4303.73,0.810454545
+Uttar Pradesh,Dry Chillies,dry chillies,2013,Kharif     ,13766.0,11114,995.2,1989049.34,3716.82,0.808461538
+Uttar Pradesh,Dry Chillies,dry chillies,2014,Kharif     ,13283.0,10951,616.4,2005201.68,4383.39,0.828550725
+Uttar Pradesh,Dry Chillies,dry chillies,2015,Kharif     ,13547.0,10260,596.7,2139206.77,4470.51,0.76671875
+Uttar Pradesh,Dry Chillies,dry chillies,2016,Kharif     ,13194.0,12170,965.3,2021980.5,4617.9,0.933287671
+Uttar Pradesh,Dry Chillies,dry chillies,2017,Kharif     ,13636.0,12578,652.1,2146851.84,5181.68,0.928194444
+Uttar Pradesh,Dry Chillies,dry chillies,2018,Kharif     ,13763.0,12716,792.8,2232358.6,4817.05,0.938333333
+Uttar Pradesh,Dry Chillies,dry chillies,2019,Kharif     ,13547.0,11808,814.5,2326832.72,5012.39,0.880857143
+Uttar Pradesh,Garlic,garlic,2004,Whole Year ,32348.0,140083,704.0,3504582.32,6793.08,4.241764706
+Uttar Pradesh,Garlic,garlic,2005,Whole Year ,30748.0,133975,751.9,3687300.16,6457.08,4.375833333
+Uttar Pradesh,Garlic,garlic,2006,Rabi       ,31932.0,140404,590.5,4078035.72,7025.04,4.47
+Uttar Pradesh,Garlic,garlic,2008,Rabi       ,33421.0,196850,891.6,4780539.84,3007.89,5.909104478
+Uttar Pradesh,Garlic,garlic,2009,Rabi       ,34465.0,183113,585.8,5370336.3,5859.05,5.293285714
+Uttar Pradesh,Garlic,garlic,2011,Rabi       ,34427.0,177919,777.4,5767211.04,11360.91,5.164098361
+Uttar Pradesh,Garlic,garlic,2012,Rabi       ,36077.0,187386,746.3,5440411.6,11183.87,5.1945
+Uttar Pradesh,Garlic,garlic,2013,Rabi       ,37238.0,218178,995.2,5380518.62,10054.26,5.870166667
+Uttar Pradesh,Garlic,garlic,2014,Rabi       ,33861.0,196134,616.4,5111656.56,11174.13,5.808064516
+Uttar Pradesh,Garlic,garlic,2015,Rabi       ,33599.0,193621,596.7,5305618.09,11087.67,5.782931034
+Uttar Pradesh,Garlic,garlic,2016,Rabi       ,35151.0,223546,965.3,5386890.75,12302.85,6.333114754
+Uttar Pradesh,Garlic,garlic,2017,Rabi       ,35219.0,188609,652.1,5544879.36,13383.22,5.3396875
+Uttar Pradesh,Garlic,garlic,2018,Rabi       ,34313.0,227337,792.8,5565568.6,12009.55,6.654
+Uttar Pradesh,Garlic,garlic,2019,Rabi       ,34638.0,207886,814.5,5949422.88,12816.06,6.00031746
+Uttar Pradesh,Ginger,ginger,2006,Kharif     ,887.0,2728,590.5,113278.77,195.14,3.0505
+Uttar Pradesh,Ginger,ginger,2007,Kharif     ,900.0,2035,672.9,120060.0,144.0,2.035333333
+Uttar Pradesh,Ginger,ginger,2009,Kharif     ,786.0,2360,585.8,122474.52,133.62,3.0
+Uttar Pradesh,Ginger,ginger,2010,Kharif     ,893.0,2538,742.6,148336.23,214.32,2.850555556
+Uttar Pradesh,Ginger,ginger,2011,Kharif     ,847.0,2405,777.4,141889.44,279.51,2.91
+Uttar Pradesh,Ginger,ginger,2012,Kharif     ,822.0,4023,746.3,123957.6,254.82,4.8875
+Uttar Pradesh,Ginger,ginger,2013,Kharif     ,813.0,4168,995.2,117470.37,219.51,5.093333333
+Uttar Pradesh,Ginger,ginger,2014,Kharif     ,944.0,4354,616.4,142506.24,311.52,4.605
+Uttar Pradesh,Ginger,ginger,2015,Kharif     ,955.0,425,596.7,150804.05,315.15,0.411666667
+Uttar Pradesh,Ginger,ginger,2016,Kharif     ,916.0,3756,965.3,140377.0,320.6,4.085714286
+Uttar Pradesh,Ginger,ginger,2017,Kharif     ,877.0,4167,652.1,138074.88,333.26,4.802
+Uttar Pradesh,Ginger,ginger,2018,Kharif     ,904.0,4294,792.8,146628.8,316.4,4.7475
+Uttar Pradesh,Ginger,ginger,2019,Kharif     ,880.0,4620,814.5,151148.8,325.6,5.2475
+Uttar Pradesh,Onion,onion,2002,Rabi       ,8199.0,84614,664.0,776199.33,2049.75,10.3219697
+Uttar Pradesh,Onion,onion,2002,Summer     ,11157.0,124734,664.0,1056233.19,2789.25,11.18074627
+Uttar Pradesh,Onion,onion,2002,Whole Year ,61.0,630,664.0,5774.87,15.25,10.325
+Uttar Pradesh,Onion,onion,2003,Rabi       ,8781.0,126033,1075.6,869143.38,2107.44,14.35414286
+Uttar Pradesh,Onion,onion,2003,Summer     ,11390.0,112405,1075.6,1127382.2,2733.6,9.894202899
+Uttar Pradesh,Onion,onion,2004,Whole Year ,18430.0,210477,704.0,1996706.2,3870.3,11.42328571
+Uttar Pradesh,Onion,onion,2005,Whole Year ,25535.0,328222,751.9,3062157.2,5362.35,12.85246377
+Uttar Pradesh,Onion,onion,2006,Rabi       ,7525.0,144345,590.5,961017.75,1655.5,19.17927536
+Uttar Pradesh,Onion,onion,2006,Summer     ,13173.0,153400,590.5,1682323.83,2898.06,11.64536232
+Uttar Pradesh,Onion,onion,2007,Rabi       ,9846.0,137576,672.9,1313456.4,1575.36,13.97314286
+Uttar Pradesh,Onion,onion,2007,Summer     ,11716.0,158183,672.9,1562914.4,1874.56,13.49166667
+Uttar Pradesh,Onion,onion,2008,Rabi       ,10161.0,119110,891.6,1453429.44,914.49,11.71728571
+Uttar Pradesh,Onion,onion,2009,Rabi       ,10494.0,180225,585.8,1635175.08,1783.98,16.93323944
+Uttar Pradesh,Onion,onion,2009,Summer     ,12686.0,176246,585.8,1976732.52,2156.62,13.71826087
+Uttar Pradesh,Onion,onion,2010,Rabi       ,9830.0,180951,742.6,1632861.3,2359.2,18.39901408
+Uttar Pradesh,Onion,onion,2011,Rabi       ,11464.0,262239,777.4,1920449.28,3783.12,22.87569444
+Uttar Pradesh,Onion,onion,2011,Summer     ,13138.0,142324,777.4,2200877.76,4335.54,10.79070423
+Uttar Pradesh,Onion,onion,2012,Rabi       ,10934.0,251513,746.3,1648847.2,3389.54,23.00081081
+Uttar Pradesh,Onion,onion,2012,Summer     ,12387.0,134766,746.3,1867959.6,3839.97,10.85549296
+Uttar Pradesh,Onion,onion,2013,Rabi       ,12232.0,248779,995.2,1767401.68,3302.64,20.33626667
+Uttar Pradesh,Onion,onion,2013,Summer     ,12195.0,164098,995.2,1762055.55,3292.65,13.33986301
+Uttar Pradesh,Onion,onion,2014,Rabi       ,10021.0,153311,616.4,1512770.16,3306.93,15.2939726
+Uttar Pradesh,Onion,onion,2014,Summer     ,11256.0,170211,616.4,1699205.76,3714.48,14.41890411
+Uttar Pradesh,Onion,onion,2015,Rabi       ,10390.0,122238,596.7,1640684.9,3428.7,11.76805556
+Uttar Pradesh,Onion,onion,2015,Summer     ,13796.0,187324,596.7,2178526.36,4552.68,13.14577465
+Uttar Pradesh,Onion,onion,2016,Rabi       ,10526.0,146606,965.3,1613109.5,3684.1,13.93273973
+Uttar Pradesh,Onion,onion,2016,Summer     ,12815.0,173372,965.3,1963898.75,4485.25,13.28542857
+Uttar Pradesh,Onion,onion,2017,Rabi       ,13007.0,189992,652.1,2047822.08,4942.66,14.51013514
+Uttar Pradesh,Onion,onion,2017,Summer     ,12557.0,180634,652.1,1976974.08,4771.66,14.14591549
+Uttar Pradesh,Onion,onion,2018,Rabi       ,14729.0,227984,792.8,2389043.8,5155.15,15.80146667
+Uttar Pradesh,Onion,onion,2018,Summer     ,12749.0,150144,792.8,2067887.8,4462.15,11.87676056
+Uttar Pradesh,Onion,onion,2019,Rabi       ,11734.0,167327,814.5,2015431.84,4341.58,14.46173333
+Uttar Pradesh,Onion,onion,2019,Summer     ,16231.0,265715,814.5,2787836.56,6005.47,16.15106061
+Uttar Pradesh,Potato,potato,2001,Whole Year ,388552.0,9582545,849.9,39682815.76,101023.52,23.1684058
+Uttar Pradesh,Potato,potato,2002,Whole Year ,442030.0,10244139,664.0,41846980.1,110507.5,22.26231884
+Uttar Pradesh,Potato,potato,2003,Whole Year ,441796.0,9540059,1075.6,43728968.08,106031.04,19.60414286
+Uttar Pradesh,Potato,potato,2004,Rabi       ,435135.0,9739656,704.0,47142525.9,91378.35,20.40014286
+Uttar Pradesh,Potato,potato,2005,Rabi       ,445197.0,9986781,751.9,53388024.24,93491.37,22.26442857
+Uttar Pradesh,Potato,potato,2006,Rabi       ,469301.0,10247912,590.5,59934430.71,103246.22,20.56657143
+Uttar Pradesh,Potato,potato,2007,Rabi       ,504858.0,11094868,672.9,67348057.2,80777.28,20.87428571
+Uttar Pradesh,Potato,potato,2008,Rabi       ,527347.0,10809926,891.6,75431714.88,47461.23,18.97342857
+Uttar Pradesh,Potato,potato,2009,Rabi       ,540797.0,13447272,585.8,84266988.54,91935.49,24.02859155
+Uttar Pradesh,Potato,potato,2010,Rabi       ,556533.0,13576573,742.6,92445696.63,133567.92,22.96777778
+Uttar Pradesh,Potato,potato,2011,Rabi       ,557779.0,12316103,777.4,93439138.08,184067.07,21.50819444
+Uttar Pradesh,Potato,potato,2012,Rabi       ,547660.0,13336619,746.3,82587128.0,169774.6,22.3752
+Uttar Pradesh,Potato,potato,2013,Rabi       ,569806.0,12060013,995.2,82331268.94,153847.62,19.44533333
+Uttar Pradesh,Potato,potato,2014,Rabi       ,575668.0,12986412,616.4,86902841.28,189970.44,21.62333333
+Uttar Pradesh,Potato,potato,2015,Rabi       ,612600.0,14112748,596.7,96735666.0,202158.0,22.6352
+Uttar Pradesh,Potato,potato,2016,Rabi       ,575641.0,13956310,965.3,88216983.25,201474.35,23.69093333
+Uttar Pradesh,Potato,potato,2017,Rabi       ,572826.0,15008697,652.1,90185725.44,217673.88,23.98133333
+Uttar Pradesh,Potato,potato,2018,Rabi       ,571399.0,17056711,792.8,92680917.8,199989.65,27.7596
+Uttar Pradesh,Potato,potato,2019,Rabi       ,552382.0,14869966,814.5,94877132.32,204381.34,25.4704
+Uttar Pradesh,Sweet potato,sweet potato,2004,Whole Year ,23096.0,257051,704.0,2502220.64,4850.16,11.46550725
+Uttar Pradesh,Sweet potato,sweet potato,2005,Whole Year ,20476.0,267901,751.9,2455481.92,4299.96,13.18318841
+Uttar Pradesh,Sweet potato,sweet potato,2006,Kharif     ,18853.0,257323,590.5,2407716.63,4147.66,13.64421875
+Uttar Pradesh,Sweet potato,sweet potato,2007,Kharif     ,18424.0,248042,672.9,2457761.6,2947.84,13.46731343
+Uttar Pradesh,Sweet potato,sweet potato,2008,Kharif     ,18376.0,225694,891.6,2628503.04,1653.84,12.27537313
+Uttar Pradesh,Sweet potato,sweet potato,2009,Kharif     ,16758.0,227909,585.8,2611231.56,2848.86,13.61098592
+Uttar Pradesh,Sweet potato,sweet potato,2010,Kharif     ,16779.0,206633,742.6,2787159.69,4026.96,12.29888889
+Uttar Pradesh,Sweet potato,sweet potato,2011,Kharif     ,17395.0,226031,777.4,2914010.4,5740.35,12.99478261
+Uttar Pradesh,Sweet potato,sweet potato,2012,Kharif     ,16800.0,217506,746.3,2533440.0,5208.0,12.95046875
+Uttar Pradesh,Sweet potato,sweet potato,2013,Kharif     ,16170.0,213687,995.2,2336403.3,4365.9,13.21790323
+Uttar Pradesh,Sweet potato,sweet potato,2014,Kharif     ,16833.0,208515,616.4,2541109.68,5554.89,12.38789474
+Uttar Pradesh,Sweet potato,sweet potato,2015,Kharif     ,14069.0,169588,596.7,2221635.79,4642.77,12.04796296
+Uttar Pradesh,Sweet potato,sweet potato,2016,Kharif     ,15682.0,175102,965.3,2403266.5,5488.7,11.15094595
+Uttar Pradesh,Sweet potato,sweet potato,2017,Kharif     ,16318.0,182201,652.1,2569105.92,6200.84,11.14457143
+Uttar Pradesh,Sweet potato,sweet potato,2018,Kharif     ,15693.0,180243,792.8,2545404.6,5492.55,11.44955882
+Uttar Pradesh,Sweet potato,sweet potato,2019,Kharif     ,15852.0,186148,814.5,2722739.52,5865.24,11.75044118
+Uttar Pradesh,Turmeric,turmeric,2001,Whole Year ,1419.0,2543,849.9,144922.47,368.94,1.837906977
+Uttar Pradesh,Turmeric,turmeric,2002,Whole Year ,1116.0,2027,664.0,105651.72,279.0,1.855135135
+Uttar Pradesh,Turmeric,turmeric,2003,Whole Year ,887.0,1604,1075.6,87795.26,212.88,1.823142857
+Uttar Pradesh,Turmeric,turmeric,2004,Rabi       ,1594.0,2770,704.0,172693.96,334.74,1.731842105
+Uttar Pradesh,Turmeric,turmeric,2005,Rabi       ,979.0,4364,751.9,117401.68,205.59,4.410967742
+Uttar Pradesh,Turmeric,turmeric,2006,Rabi       ,1625.0,5526,590.5,207528.75,357.5,3.393243243
+Uttar Pradesh,Turmeric,turmeric,2007,Rabi       ,1368.0,4199,672.9,182491.2,218.88,3.044545455
+Uttar Pradesh,Turmeric,turmeric,2009,Rabi       ,1315.0,4346,585.8,204903.3,223.55,3.282972973
+Uttar Pradesh,Turmeric,turmeric,2010,Rabi       ,1294.0,4066,742.6,214946.34,310.56,3.1075
+Uttar Pradesh,Turmeric,turmeric,2011,Rabi       ,1828.0,5149,777.4,306226.56,603.24,2.8475
+Uttar Pradesh,Turmeric,turmeric,2012,Rabi       ,1755.0,4968,746.3,264654.0,544.05,2.86804878
+Uttar Pradesh,Turmeric,turmeric,2013,Rabi       ,1795.0,5195,995.2,259359.55,484.65,2.928604651
+Uttar Pradesh,Turmeric,turmeric,2014,Rabi       ,1559.0,4423,616.4,235346.64,514.47,2.855135135
+Uttar Pradesh,Turmeric,turmeric,2015,Rabi       ,875.0,971,596.7,138171.25,288.75,1.08
+Uttar Pradesh,Turmeric,turmeric,2016,Rabi       ,1146.0,1512,965.3,175624.5,401.1,1.2534375
+Uttar Pradesh,Turmeric,turmeric,2017,Rabi       ,1201.0,1537,652.1,189085.44,456.38,1.248518519
+Uttar Pradesh,Turmeric,turmeric,2018,Rabi       ,1420.0,1913,792.8,230324.0,497.0,1.254230769
+Uttar Pradesh,Turmeric,turmeric,2019,Rabi       ,1894.0,2669,814.5,325313.44,700.78,1.305
+West Bengal,Coconut,coconut,2001,Whole Year ,38404.0,331603800,1556.6,3922200.52,9985.04,12368.60944
+West Bengal,Coconut,coconut,2002,Whole Year ,24976.0,324194500,1629.1,2364477.92,6244.0,12229.29167
+West Bengal,Coconut,coconut,2003,Whole Year ,24443.0,317488500,1526.7,2419368.14,5866.32,12370.06944
+West Bengal,Coconut,coconut,2004,Whole Year ,24294.0,310874400,1612.9,2632011.96,5101.74,12630.52667
+West Bengal,Coconut,coconut,2005,Whole Year ,24884.0,323525800,1650.1,2984089.28,5225.64,11972.035
+West Bengal,Coconut,coconut,2006,Whole Year ,25068.0,359065200,1631.4,3201434.28,5514.96,13259.37833
+West Bengal,Coconut,coconut,2007,Whole Year ,28644.0,355531900,2007.5,3821109.6,4583.04,12380.47722
+West Bengal,Coconut,coconut,2008,Whole Year ,28757.0,357235500,1560.1,4113401.28,2588.13,12255.46667
+West Bengal,Coconut,coconut,2009,Whole Year ,28846.0,362736500,1317.2,4494783.72,4903.82,12313.48667
+West Bengal,Coconut,coconut,2010,Whole Year ,28933.0,364187600,1096.0,4806060.63,6943.92,12327.335
+West Bengal,Coconut,coconut,2011,Whole Year ,29133.0,367500000,1686.5,4880360.16,9613.89,12317.74
+West Bengal,Coconut,coconut,2012,Whole Year ,29200.0,369381000,1566.0,4403360.0,9052.0,12497.47056
+West Bengal,Coconut,coconut,2013,Whole Year ,29300.0,370900000,1939.9,4233557.0,7911.0,12507.61667
+West Bengal,Coconut,coconut,2014,Whole Year ,29680.0,372300000,1483.5,4480492.8,9794.4,12561.52684
+West Bengal,Coconut,coconut,2015,Whole Year ,29513.0,373647500,1717.0,4660397.83,9739.29,12593.58421
+West Bengal,Coconut,coconut,2016,Whole Year ,29625.0,375400000,1795.8,4540031.25,10368.75,12686.74
+West Bengal,Coconut,coconut,2017,Whole Year ,30250.0,378500000,1830.0,4762560.0,11495.0,12091.08136
+West Bengal,Coconut,coconut,2018,Whole Year ,30815.0,385025000,2012.6,4998193.0,10785.25,12018.40727
+West Bengal,Coconut,coconut,2019,Whole Year ,31300.0,390028000,1733.4,5376088.0,11581.0,11918.29136
+West Bengal,Dry Chillies,dry chillies,2001,Whole Year ,60998.0,54530,1556.6,6229725.74,15859.48,0.937777778
+West Bengal,Dry Chillies,dry chillies,2002,Autumn     ,17988.0,15716,1629.1,1702923.96,4497.0,0.774444444
+West Bengal,Dry Chillies,dry chillies,2002,Rabi       ,43703.0,46457,1629.1,4137363.01,10925.75,1.085555556
+West Bengal,Dry Chillies,dry chillies,2003,Whole Year ,60468.0,66252,1526.7,5985122.64,14512.32,0.999444444
+West Bengal,Dry Chillies,dry chillies,2004,Whole Year ,52182.0,61442,1612.9,5653397.88,10958.22,1.038888889
+West Bengal,Dry Chillies,dry chillies,2005,Whole Year ,51957.0,60727,1650.1,6230683.44,10910.97,1.055
+West Bengal,Dry Chillies,dry chillies,2006,Whole Year ,52246.0,63596,1631.4,6672336.66,11494.12,1.115
+West Bengal,Dry Chillies,dry chillies,2007,Whole Year ,62382.0,93697,2007.5,8321758.8,9981.12,1.453888889
+West Bengal,Dry Chillies,dry chillies,2008,Whole Year ,63249.0,94787,1560.1,9047136.96,5692.41,1.427777778
+West Bengal,Garlic,garlic,2007,Kharif     ,3414.0,33728,2007.5,455427.6,546.24,10.53722222
+West Bengal,Ginger,ginger,2001,Kharif     ,8133.0,16070,1556.6,830623.29,2114.58,1.52
+West Bengal,Ginger,ginger,2002,Kharif     ,9383.0,20206,1629.1,888288.61,2345.75,1.698888889
+West Bengal,Ginger,ginger,2003,Kharif     ,8053.0,16419,1526.7,797085.94,1932.72,1.623529412
+West Bengal,Ginger,ginger,2004,Kharif     ,9125.0,18781,1612.9,988602.5,1916.25,1.765555556
+West Bengal,Ginger,ginger,2005,Kharif     ,7694.0,13953,1650.1,922664.48,1615.74,1.726111111
+West Bengal,Ginger,ginger,2006,Kharif     ,9816.0,20061,1631.4,1253601.36,2159.52,1.741666667
+West Bengal,Ginger,ginger,2007,Kharif     ,10867.0,23137,2007.5,1449657.8,1738.72,1.799444444
+West Bengal,Ginger,ginger,2008,Kharif     ,11131.0,23832,1560.1,1592178.24,1001.79,1.812222222
+West Bengal,Potato,potato,2001,Whole Year ,299821.0,7822363,1556.6,30620718.73,77953.46,21.95444444
+West Bengal,Potato,potato,2002,Summer     ,2395.0,30807,1629.1,226734.65,598.75,12.86
+West Bengal,Potato,potato,2002,Winter     ,346906.0,6871659,1629.1,32841591.02,86726.5,20.73388889
+West Bengal,Potato,potato,2003,Whole Year ,308425.0,7621635,1526.7,30527906.5,74022.0,21.86777778
+West Bengal,Potato,potato,2004,Whole Year ,320552.0,7106581,1612.9,34728603.68,67315.92,21.12944444
+West Bengal,Potato,potato,2005,Whole Year ,354455.0,7462464,1650.1,42506243.6,74435.55,19.345
+West Bengal,Potato,potato,2006,Whole Year ,407941.0,5051962,1631.4,52098145.11,89747.02,13.35111111
+West Bengal,Potato,potato,2007,Whole Year ,400786.0,9900846,2007.5,53464852.4,64125.76,22.28666667
+West Bengal,Potato,potato,2008,Whole Year ,385981.0,4121189,1560.1,55210722.24,34738.29,13.99944444
+West Bengal,Potato,potato,2009,Rabi       ,384451.0,13807997,1317.2,59905154.82,65356.67,31.58888889
+West Bengal,Potato,potato,2009,Summer     ,2430.0,30132,1317.2,378642.6,413.1,12.4
+West Bengal,Potato,potato,2010,Rabi       ,406349.0,13391235,1096.0,67498632.39,97523.76,29.27833333
+West Bengal,Potato,potato,2010,Summer     ,2440.0,29768,1096.0,405308.4,585.6,12.2
+West Bengal,Potato,potato,2011,Rabi       ,376751.0,9693330,1686.5,63113327.52,124327.83,26.11722222
+West Bengal,Potato,potato,2011,Summer     ,2455.0,29706,1686.5,411261.6,810.15,12.1
+West Bengal,Potato,potato,2012,Rabi       ,386607.0,11591300,1566.0,58300335.6,119848.17,28.56444444
+West Bengal,Potato,potato,2012,Summer     ,2446.0,29352,1566.0,368856.8,758.26,12.0
+West Bengal,Potato,potato,2013,Rabi       ,409749.0,9020547,1939.9,59204633.01,110632.23,25.34722222
+West Bengal,Potato,potato,2013,Summer     ,2446.0,29352,1939.9,353422.54,660.42,12.0
+West Bengal,Potato,potato,2014,Rabi       ,409805.0,13878709,1483.5,61864162.8,135235.65,30.99555556
+West Bengal,Potato,potato,2014,Summer     ,2445.0,29340,1483.5,369097.2,806.85,12.0
+West Bengal,Potato,potato,2015,Rabi       ,489959.0,9696830,1717.0,77369425.69,161686.47,21.85277778
+West Bengal,Potato,potato,2015,Summer     ,2445.0,29462,1717.0,386089.95,806.85,12.05
+West Bengal,Potato,potato,2016,Rabi       ,414490.0,14464124,1795.8,63520592.5,145071.5,29.99272727
+West Bengal,Potato,potato,2016,Summer     ,2590.0,25329,1795.8,396917.5,906.5,7.125
+West Bengal,Potato,potato,2017,Rabi       ,430615.0,14920198,1830.0,67796025.6,163633.7,30.97954545
+West Bengal,Potato,potato,2017,Summer     ,1130.0,12440,1830.0,177907.2,429.4,7.6
+West Bengal,Potato,potato,2018,Rabi       ,436042.0,11052272,2012.6,70726012.4,152614.7,27.25909091
+West Bengal,Potato,potato,2018,Summer     ,1635.0,19421,2012.6,265197.0,572.25,8.02
+West Bengal,Potato,potato,2019,Rabi       ,433051.0,12539819,1733.4,74380839.76,160228.87,27.68363636
+West Bengal,Potato,potato,2019,Summer     ,1630.0,19421,1733.4,279968.8,603.1,8.525
+West Bengal,Turmeric,turmeric,2001,Whole Year ,12794.0,22031,1556.6,1306651.22,3326.44,1.602222222
+West Bengal,Turmeric,turmeric,2002,Whole Year ,11731.0,21346,1629.1,1110573.77,2932.75,1.704444444
+West Bengal,Turmeric,turmeric,2003,Whole Year ,12619.0,24496,1526.7,1249028.62,3028.56,1.866111111
+West Bengal,Turmeric,turmeric,2004,Whole Year ,12400.0,24478,1612.9,1343416.0,2604.0,1.850555556
+West Bengal,Turmeric,turmeric,2005,Whole Year ,11844.0,25049,1650.1,1420332.48,2487.24,2.017777778
+West Bengal,Turmeric,turmeric,2006,Whole Year ,13659.0,30069,1631.4,1744390.89,3004.98,1.942777778
+West Bengal,Turmeric,turmeric,2007,Whole Year ,14872.0,34601,2007.5,1983924.8,2379.52,2.099444444
+West Bengal,Turmeric,turmeric,2008,Whole Year ,15216.0,35372,1560.1,2176496.64,1369.44,2.138888889

@@ -1,0 +1,21 @@
+# Raw datasets are large and should not be committed to GitHub.
+datasets/
+
+# Keep generated processed outputs if they are small enough for normal GitHub use.
+!data/
+!data/processed/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Local documents and shortcuts
+*.lnk
+*.docx
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+

@@ -1,0 +1,13 @@
+Crop,rows,price_matched_rows,price_match_pct,avg_modal_price_missing,avg_modal_price_missing_pct,median_modal_price_missing_pct,min_price_missing_pct,max_price_missing_pct,modal_price_std_missing_pct,price_spread_missing_pct
+Tapioca,53,30,56.6,23,43.4,43.4,43.4,43.4,43.4,43.4
+Turmeric,129,87,67.44,42,32.56,32.56,32.56,32.56,32.56,32.56
+Dry Chillies,146,105,71.92,41,28.08,28.08,28.08,28.08,28.08,28.08
+Sweet potato,104,76,73.08,28,26.92,26.92,26.92,26.92,26.92,26.92
+Black pepper,52,39,75.0,13,25.0,25.0,25.0,25.0,25.0,25.0
+Ginger,119,95,79.83,24,20.17,20.17,20.17,20.17,20.17,20.17
+Coriander,100,85,85.0,15,15.0,15.0,15.0,15.0,15.0,15.0
+Garlic,141,126,89.36,15,10.64,10.64,10.64,10.64,10.64,10.64
+Potato,235,212,90.21,23,9.79,9.79,9.79,9.79,9.79,9.79
+Coconut,73,67,91.78,6,8.22,8.22,8.22,8.22,8.22,8.22
+Banana,96,91,94.79,5,5.21,5.21,5.21,5.21,5.21,5.21
+Onion,196,186,94.9,10,5.1,5.1,5.1,5.1,5.1,5.1
