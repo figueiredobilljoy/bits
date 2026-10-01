@@ -11,6 +11,10 @@ The pipeline:
 3. Merges production and price data into a master table.
 4. Filters to price-supported horticulture crops.
 5. Creates modeling-ready tables with filled features and missing-value flags.
+6. Trains and evaluates regression models with a temporal holdout.
+7. Builds a standalone browser dashboard from the generated analytics payload.
+
+The current processed dataset contains 1,444 records across 11 states, 12 crops, and years 2001-2019.
 
 ## Main Outputs
 
@@ -43,9 +47,13 @@ python scripts/02_aggregate_prices.py
 python scripts/03_build_master_table.py
 python scripts/04_missing_value_audit.py
 python scripts/05_prepare_modeling_table.py
+python scripts/01_clean_and_preprocess.py
+python scripts/02_transform_and_engineer.py
+python scripts/03_exploratory_data_analysis.py
+python scripts/04_train_ml_models.py
+python scripts/build_dashboard_data.py
 ```
 
 ## Data Note
 
 The raw `datasets/` folder is ignored by Git because the source files are large. Keep raw data locally or store it externally.
-

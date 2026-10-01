@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Horticulture Price & Production Analytics Dashboard</title>
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="header-title">
+      <h1>Horticulture Analytics & Price Simulator</h1>
+      <p>Multi-State Production, Market Prices & Predictive Machine Learning (2001-2019)</p>
+    </div>
+    <div class="status-badge">
+      <span class="status-dot"></span> Live Data Science Model Active
+    </div>
+  </header>
+
+  <!-- Filter Bar -->
+  <div class="filter-bar">
+    <div class="filter-group">
+      <label for="stateSelect">Select State</label>
+      <select id="stateSelect" class="filter-select">
+        <option value="ALL">All States (11 States)</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <label for="cropSelect">Select Horticulture Crop</label>
+      <select id="cropSelect" class="filter-select">
+        <option value="ALL">All Crops (12 Crops)</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <label for="metricSelect">Primary Chart Metric</label>
+      <select id="metricSelect" class="filter-select">
+        <option value="avg_modal_price">Average Modal Price (₹/Quintal)</option>
+        <option value="Production">Annual Production (Tonnes)</option>
+        <option value="Yield">Yield Efficiency (Kg/Ha)</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- KPI Grid -->
+  <div class="kpi-grid">
+    <div class="kpi-card" style="--card-accent: #10b981;">
+      <div class="kpi-title">Average Modal Price</div>
+      <div class="kpi-value" id="kpiPrice">₹0</div>
+      <div class="kpi-sub">Across selected filters</div>
+    </div>
+    <div class="kpi-card" style="--card-accent: #6366f1;">
+      <div class="kpi-title">Total Production</div>
+      <div class="kpi-value" id="kpiProduction">0 MT</div>
+      <div class="kpi-sub">Cumulative yield volume</div>
+    </div>
+    <div class="kpi-card" style="--card-accent: #06b6d4;">
+      <div class="kpi-title">National Avg Yield</div>
+      <div class="kpi-value" id="kpiYield">0 Kg/Ha</div>
+      <div class="kpi-sub">Agricultural productivity</div>
+    </div>
+    <div class="kpi-card" style="--card-accent: #f59e0b;">
+      <div class="kpi-title">Price Volatility Index</div>
+      <div class="kpi-value" id="kpiVolatility">0.00</div>
+      <div class="kpi-sub">Market spread indicator</div>
+    </div>
+    <div class="kpi-card" style="--card-accent: #f43f5e;">
+      <div class="kpi-title">Best Test Model Score</div>
+      <div class="kpi-value" id="kpiModelR2">R² 0.6529</div>
+      <div class="kpi-sub" id="kpiModelName">Gradient Boosting / Random Forest</div>
+    </div>
+  </div>
+
+  <!-- Time Series & State Breakdown -->
+  <div class="section-grid">
+    <div class="card">
+      <div class="card-header">
+        <div class="card-title">19-Year Historical Trends (2001-2019)</div>
+      </div>
+      <div class="chart-container">
+        <canvas id="trendChart"></canvas>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header">
+        <div class="card-title">State Share Comparison</div>
+      </div>
+      <div class="chart-container">
+        <canvas id="stateBarChart"></canvas>
+      </div>
+    </div>
+  </div>
+
+  <!-- ML Performance & Feature Importances -->
+  <div class="section-grid-equal">
+    <div class="card">
+      <div class="card-header">
+        <div class="card-title">Machine Learning Model Comparison</div>
+      </div>
+      <div class="chart-container">
+        <canvas id="modelCompChart"></canvas>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header">
+        <div class="card-title">Top Price Drivers (ML Feature Importance)</div>
+      </div>
+      <div class="chart-container">
+        <canvas id="featureImpChart"></canvas>
+      </div>
+    </div>
+  </div>
+
+  <!-- Multi-Variate Correlation Matrix Heatmap -->
+  <div class="card" style="margin-bottom: 2rem;">
+    <div class="card-header">
+      <div class="card-title">Multi-Variate Correlation Heatmap Matrix</div>
+    </div>
+    <div class="heatmap-container">
+      <table class="heatmap-table" id="heatmapTable">
+        <!-- Generated dynamically in app.js -->
+      </table>
+    </div>
+  </div>
+
+  <!-- Interactive What-If Price Simulator -->
+  <div class="card" style="margin-bottom: 2rem;">
+    <div class="card-header">
+      <div class="card-title">Interactive What-If Price Prediction Simulator</div>
+    </div>
+    <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1rem;">
+      Adjust input variables below to simulate real-time predicted horticulture modal price based on the trained Random Forest / Gradient Boosting model logic.
+    </p>
+
+    <div class="simulator-form">
+      <div class="sim-input-group">
+        <label>Lagged Price (₹/Quintal): <span class="sim-val" id="simValLagPrice">2500</span></label>
+        <input type="range" class="sim-slider" id="simLagPrice" min="500" max="10000" step="100" value="2500">
+      </div>
+      <div class="sim-input-group">
+        <label>Expected Production (Tonnes): <span class="sim-val" id="simValProd">500,000</span></label>
+        <input type="range" class="sim-slider" id="simProd" min="10000" max="5000000" step="50000" value="500000">
+      </div>
+      <div class="sim-input-group">
+        <label>Annual Rainfall (mm): <span class="sim-val" id="simValRain">1200</span></label>
+        <input type="range" class="sim-slider" id="simRain" min="200" max="3500" step="50" value="1200">
+      </div>
+      <div class="sim-input-group">
+        <label>Fertilizer Intensity (Kg/Ha): <span class="sim-val" id="simValFert">150</span></label>
+        <input type="range" class="sim-slider" id="simFert" min="10" max="500" step="5" value="150">
+      </div>
+    </div>
+
+    <div class="sim-result-box">
+      <div class="sim-result-title">Simulated Predicted Modal Price</div>
+      <div class="sim-result-price" id="simResultPrice">₹2,680 / Quintal</div>
+      <div style="font-size: 0.8rem; color: var(--accent-emerald);">Best Test Model: Random Forest (R² 0.6529)</div>
+    </div>
+  </div>
+
+  <footer>
+    Horticulture Production & Price Modeling Project | Powered by Data Science & Machine Learning Pipeline
+  </footer>
+
+  <!-- Compiled Payload & Application Logic -->
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

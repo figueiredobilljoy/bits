@@ -1,0 +1,468 @@
+{
+  "best_model": "Random Forest",
+  "metrics": {
+    "Linear Regression": {
+      "MAE": 5767.01,
+      "RMSE": 10181.05,
+      "MAPE": 344.82,
+      "R2": -1.9055
+    },
+    "Ridge Regression": {
+      "MAE": 5501.72,
+      "RMSE": 9541.51,
+      "MAPE": 328.92,
+      "R2": -1.5519
+    },
+    "Random Forest": {
+      "MAE": 1264.92,
+      "RMSE": 3519.07,
+      "MAPE": 34.84,
+      "R2": 0.6529
+    },
+    "Gradient Boosting": {
+      "MAE": 1399.35,
+      "RMSE": 3965.03,
+      "MAPE": 37.74,
+      "R2": 0.5593
+    }
+  },
+  "feature_importances": [
+    {
+      "feature": "Area_lag_1",
+      "importance": 0.3491454163407158
+    },
+    {
+      "feature": "avg_modal_price_lag_2",
+      "importance": 0.13659689692324722
+    },
+    {
+      "feature": "avg_modal_price_lag_1",
+      "importance": 0.10090731772416152
+    },
+    {
+      "feature": "Area",
+      "importance": 0.074604941853656
+    },
+    {
+      "feature": "log_Area",
+      "importance": 0.0644128508028084
+    },
+    {
+      "feature": "avg_modal_price_roll_3_mean",
+      "importance": 0.059464720609595824
+    },
+    {
+      "feature": "fertilizer_intensity",
+      "importance": 0.03893174947160342
+    },
+    {
+      "feature": "price_spread_ratio",
+      "importance": 0.025531390757785256
+    },
+    {
+      "feature": "Pesticide",
+      "importance": 0.022578657873077928
+    },
+    {
+      "feature": "Yield",
+      "importance": 0.019388299155457155
+    },
+    {
+      "feature": "price_volatility_index",
+      "importance": 0.01859003821810619
+    },
+    {
+      "feature": "Annual_Rainfall",
+      "importance": 0.015384656061131341
+    },
+    {
+      "feature": "production_per_rainfall",
+      "importance": 0.013807499742478899
+    },
+    {
+      "feature": "input_cost_index",
+      "importance": 0.013061241385148659
+    },
+    {
+      "feature": "log_Production",
+      "importance": 0.011971895755955116
+    }
+  ],
+  "sample_predictions": [
+    {
+      "Year": 2017,
+      "State": "Gujarat",
+      "Crop": "Banana",
+      "avg_modal_price": 1387.070802919708,
+      "predicted_price": 1248.64
+    },
+    {
+      "Year": 2018,
+      "State": "Gujarat",
+      "Crop": "Banana",
+      "avg_modal_price": 1334.2354740061162,
+      "predicted_price": 1480.91
+    },
+    {
+      "Year": 2019,
+      "State": "Gujarat",
+      "Crop": "Banana",
+      "avg_modal_price": 1217.2447102115916,
+      "predicted_price": 1625.02
+    },
+    {
+      "Year": 2017,
+      "State": "Gujarat",
+      "Crop": "Dry Chillies",
+      "avg_modal_price": 8237.657232704403,
+      "predicted_price": 11540.89
+    },
+    {
+      "Year": 2018,
+      "State": "Gujarat",
+      "Crop": "Dry Chillies",
+      "avg_modal_price": 9612.569343065694,
+      "predicted_price": 9147.53
+    },
+    {
+      "Year": 2019,
+      "State": "Gujarat",
+      "Crop": "Dry Chillies",
+      "avg_modal_price": 9966.629963898917,
+      "predicted_price": 10709.93
+    },
+    {
+      "Year": 2017,
+      "State": "Gujarat",
+      "Crop": "Garlic",
+      "avg_modal_price": 3874.9066666666654,
+      "predicted_price": 5180.72
+    },
+    {
+      "Year": 2018,
+      "State": "Gujarat",
+      "Crop": "Garlic",
+      "avg_modal_price": 1476.9934264585045,
+      "predicted_price": 5251.73
+    },
+    {
+      "Year": 2019,
+      "State": "Gujarat",
+      "Crop": "Garlic",
+      "avg_modal_price": 3631.778002528445,
+      "predicted_price": 3513.72
+    },
+    {
+      "Year": 2017,
+      "State": "Gujarat",
+      "Crop": "Onion",
+      "avg_modal_price": 1076.3560806681603,
+      "predicted_price": 1218.01
+    },
+    {
+      "Year": 2017,
+      "State": "Gujarat",
+      "Crop": "Onion",
+      "avg_modal_price": 1076.3560806681603,
+      "predicted_price": 1162.76
+    },
+    {
+      "Year": 2018,
+      "State": "Gujarat",
+      "Crop": "Onion",
+      "avg_modal_price": 1079.3619115804547,
+      "predicted_price": 1134.39
+    },
+    {
+      "Year": 2018,
+      "State": "Gujarat",
+      "Crop": "Onion",
+      "avg_modal_price": 1079.3619115804547,
+      "predicted_price": 1204.17
+    },
+    {
+      "Year": 2019,
+      "State": "Gujarat",
+      "Crop": "Onion",
+      "avg_modal_price": 1278.6503301692117,
+      "predicted_price": 1226.58
+    },
+    {
+      "Year": 2019,
+      "State": "Gujarat",
+      "Crop": "Onion",
+      "avg_modal_price": 1278.6503301692117,
+      "predicted_price": 1305.78
+    },
+    {
+      "Year": 2017,
+      "State": "Gujarat",
+      "Crop": "Potato",
+      "avg_modal_price": 595.8039662639617,
+      "predicted_price": 984.18
+    },
+    {
+      "Year": 2018,
+      "State": "Gujarat",
+      "Crop": "Potato",
+      "avg_modal_price": 1142.2748322873838,
+      "predicted_price": 845.39
+    },
+    {
+      "Year": 2019,
+      "State": "Gujarat",
+      "Crop": "Potato",
+      "avg_modal_price": 1002.8789202064312,
+      "predicted_price": 1136.35
+    },
+    {
+      "Year": 2017,
+      "State": "Haryana",
+      "Crop": "Coriander",
+      "avg_modal_price": 1599.159108989658,
+      "predicted_price": 1463.09
+    },
+    {
+      "Year": 2018,
+      "State": "Haryana",
+      "Crop": "Coriander",
+      "avg_modal_price": 1422.3499610288386,
+      "predicted_price": 1805.54
+    },
+    {
+      "Year": 2019,
+      "State": "Haryana",
+      "Crop": "Coriander",
+      "avg_modal_price": 1976.4833005893909,
+      "predicted_price": 1722.36
+    },
+    {
+      "Year": 2017,
+      "State": "Haryana",
+      "Crop": "Garlic",
+      "avg_modal_price": 4181.199182242991,
+      "predicted_price": 6598.75
+    },
+    {
+      "Year": 2018,
+      "State": "Haryana",
+      "Crop": "Garlic",
+      "avg_modal_price": 2277.8573185731857,
+      "predicted_price": 4977.57
+    },
+    {
+      "Year": 2019,
+      "State": "Haryana",
+      "Crop": "Garlic",
+      "avg_modal_price": 4920.442064264849,
+      "predicted_price": 3669.84
+    },
+    {
+      "Year": 2017,
+      "State": "Haryana",
+      "Crop": "Ginger",
+      "avg_modal_price": 3636.22191011236,
+      "predicted_price": 4549.38
+    },
+    {
+      "Year": 2018,
+      "State": "Haryana",
+      "Crop": "Ginger",
+      "avg_modal_price": 4442.925714285714,
+      "predicted_price": 4764.09
+    },
+    {
+      "Year": 2019,
+      "State": "Haryana",
+      "Crop": "Ginger",
+      "avg_modal_price": 6558.358881875563,
+      "predicted_price": 5825.19
+    },
+    {
+      "Year": 2017,
+      "State": "Haryana",
+      "Crop": "Onion",
+      "avg_modal_price": 1657.4987821167597,
+      "predicted_price": 1402.11
+    },
+    {
+      "Year": 2018,
+      "State": "Haryana",
+      "Crop": "Onion",
+      "avg_modal_price": 1568.0378990296724,
+      "predicted_price": 1561.2
+    },
+    {
+      "Year": 2019,
+      "State": "Haryana",
+      "Crop": "Onion",
+      "avg_modal_price": 1717.8128474366893,
+      "predicted_price": 1592.59
+    },
+    {
+      "Year": 2017,
+      "State": "Haryana",
+      "Crop": "Potato",
+      "avg_modal_price": 610.0979258755525,
+      "predicted_price": 1052.97
+    },
+    {
+      "Year": 2018,
+      "State": "Haryana",
+      "Crop": "Potato",
+      "avg_modal_price": 980.5443013522216,
+      "predicted_price": 697.21
+    },
+    {
+      "Year": 2019,
+      "State": "Haryana",
+      "Crop": "Potato",
+      "avg_modal_price": 908.5169717138104,
+      "predicted_price": 1039.24
+    },
+    {
+      "Year": 2017,
+      "State": "Haryana",
+      "Crop": "Turmeric",
+      "avg_modal_price": 825.0,
+      "predicted_price": 848.34
+    },
+    {
+      "Year": 2018,
+      "State": "Haryana",
+      "Crop": "Turmeric",
+      "avg_modal_price": 825.0,
+      "predicted_price": 862.32
+    },
+    {
+      "Year": 2019,
+      "State": "Haryana",
+      "Crop": "Turmeric",
+      "avg_modal_price": 825.0,
+      "predicted_price": 861.34
+    },
+    {
+      "Year": 2017,
+      "State": "Himachal Pradesh",
+      "Crop": "Coriander",
+      "avg_modal_price": 3896.548619447779,
+      "predicted_price": 3723.72
+    },
+    {
+      "Year": 2018,
+      "State": "Himachal Pradesh",
+      "Crop": "Coriander",
+      "avg_modal_price": 3583.7579025660098,
+      "predicted_price": 4220.83
+    },
+    {
+      "Year": 2019,
+      "State": "Himachal Pradesh",
+      "Crop": "Coriander",
+      "avg_modal_price": 4219.010844561289,
+      "predicted_price": 4438.59
+    },
+    {
+      "Year": 2018,
+      "State": "Himachal Pradesh",
+      "Crop": "Dry Chillies",
+      "avg_modal_price": 3678.0,
+      "predicted_price": 3909.44
+    },
+    {
+      "Year": 2019,
+      "State": "Himachal Pradesh",
+      "Crop": "Dry Chillies",
+      "avg_modal_price": 3678.0,
+      "predicted_price": 3893.23
+    },
+    {
+      "Year": 2017,
+      "State": "Himachal Pradesh",
+      "Crop": "Garlic",
+      "avg_modal_price": 5125.735049833887,
+      "predicted_price": 10227.06
+    },
+    {
+      "Year": 2018,
+      "State": "Himachal Pradesh",
+      "Crop": "Garlic",
+      "avg_modal_price": 3196.8443960826985,
+      "predicted_price": 6391.07
+    },
+    {
+      "Year": 2019,
+      "State": "Himachal Pradesh",
+      "Crop": "Garlic",
+      "avg_modal_price": 7478.103683492496,
+      "predicted_price": 5537.0
+    },
+    {
+      "Year": 2018,
+      "State": "Himachal Pradesh",
+      "Crop": "Ginger",
+      "avg_modal_price": 6191.541874653355,
+      "predicted_price": 6489.27
+    },
+    {
+      "Year": 2019,
+      "State": "Himachal Pradesh",
+      "Crop": "Ginger",
+      "avg_modal_price": 10370.71797235023,
+      "predicted_price": 7150.51
+    },
+    {
+      "Year": 2017,
+      "State": "Himachal Pradesh",
+      "Crop": "Onion",
+      "avg_modal_price": 2008.9604330708664,
+      "predicted_price": 2819.6
+    },
+    {
+      "Year": 2018,
+      "State": "Himachal Pradesh",
+      "Crop": "Onion",
+      "avg_modal_price": 1771.5678982138488,
+      "predicted_price": 2405.74
+    },
+    {
+      "Year": 2019,
+      "State": "Himachal Pradesh",
+      "Crop": "Onion",
+      "avg_modal_price": 2294.0759956942948,
+      "predicted_price": 2515.74
+    },
+    {
+      "Year": 2017,
+      "State": "Himachal Pradesh",
+      "Crop": "Potato",
+      "avg_modal_price": 736.3333333333334,
+      "predicted_price": 1152.35
+    }
+  ],
+  "features_list": [
+    "Production",
+    "Yield",
+    "Area",
+    "Annual_Rainfall",
+    "Fertilizer",
+    "Pesticide",
+    "Production_lag_1",
+    "Yield_lag_1",
+    "Area_lag_1",
+    "avg_modal_price_lag_1",
+    "avg_modal_price_lag_2",
+    "avg_modal_price_roll_3_mean",
+    "avg_modal_price_roll_3_std",
+    "Production_roll_3_mean",
+    "Yield_roll_3_mean",
+    "price_volatility_index",
+    "price_spread_ratio",
+    "production_per_rainfall",
+    "fertilizer_intensity",
+    "pesticide_intensity",
+    "input_cost_index",
+    "log_Production",
+    "log_Area"
+  ]
+}

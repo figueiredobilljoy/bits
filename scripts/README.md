@@ -41,10 +41,20 @@ Banana, Black pepper, Coconut, Coriander, Dry Chillies, Garlic,
 Ginger, Onion, Potato, Sweet potato, Tapioca, Turmeric
 ```
 
-The first version uses these states:
+The current processed table uses these states:
 
 ```text
 Uttar Pradesh, Tamil Nadu, Madhya Pradesh, Maharashtra, Gujarat,
 West Bengal, Karnataka, Haryana, Himachal Pradesh, Odisha,
-Kerala, Punjab
+Kerala
+```
+
+Extended analytics and dashboard steps:
+
+```powershell
+python scripts/01_clean_and_preprocess.py
+python scripts/02_transform_and_engineer.py
+python scripts/03_exploratory_data_analysis.py
+python scripts/04_train_ml_models.py
+python scripts/build_dashboard_data.py
 ```
